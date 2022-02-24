@@ -6,6 +6,11 @@ Each directory of this repository contains datasets created to train GROBID sale
 
 * Segmentation : the segmentation model aims to obtain a high level segmentation of the catalogues. 
 
+## Naming convention
+
+* BnF files are named with the Gallica ark identifier
+* INHA files are named with the identifier provided in their online notice
+
 ## Data quality
 
 Before being pushed to the main branch, annotated files have at least been proofread once. 
