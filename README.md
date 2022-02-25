@@ -4,8 +4,8 @@ Each directory of this repository contains datasets created to train GROBID sale
 
 ## Naming convention
 
-* BnF files are named with the Gallica ark identifier
-* INHA files are named with the identifier provided in their online notice
+* BnF files are named with the Gallica ark identifier.
+* INHA files are named with the identifier provided in their online notice.
 
 ## GROBID models
 
