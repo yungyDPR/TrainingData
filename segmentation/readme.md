@@ -1,6 +1,6 @@
 ## Features
 
-Each TEI file has its raw file. A raw file is used by GROBID during training and stores features information. 
+Each TEI file has its own raw file. A raw file is used by GROBID during training and stores features information. 
 
 For the high level segmentation, the features are the following :
 
