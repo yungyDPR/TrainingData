@@ -16,3 +16,9 @@ Annotated files are in the [TEI-XML](https://tei-c.org/) format.
 ## Data quality
 
 Before being pushed to the main branch, annotated files have at least been proofread once. 
+
+# DataCatalogue organization information
+
+## Organization logo
+
+Logo by [Alix Chagué](https://alix-tz.github.io/), inspiration from [Loading Artist](https://loadingartist.com/).
