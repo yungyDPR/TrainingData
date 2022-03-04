@@ -9,60 +9,12 @@ This scripts aims to get a quality assessment for texts that were automatically 
 Functions from source repository were adapted to better fit sale catalogue's specifities.
 """
 
+from const import const
+from utils import tokenizers, roman_numerals_checking as ronum
+
 import os
 import unidecode
 import re
-
-HYPHENS = {'-', '⸗', '='}
-VOWELS = ['a', 'e', 'i', 'o', 'u', 'y']
-COMMON_LATIN_NAMES = ['AVGVSTVS', 'AUGVSTVS', 'LEVTVLVS', 'BRVTVS', 'LENTVLVS', 'DRVSVS', 'POPVLVSQVE', 'DIOCLETIANVS']
-COMMON_ABBREVIATIONS = ['g.', 'gr.', 'd.']
-
-
-# Function found on https://stackoverflow.com/questions/20973546/check-if-an-input-is-a-valid-roman-numeral
-# Written by @praveen
-def check_if_roman_numeral(numeral: str):
-    """Controls that the input only contains valid roman numerals"""
-    numeral = numeral.upper()
-    valid_roman_numerals = ["M", "D", "C", "L", "X", "V", "I", "(", ")"]
-    valid = True
-    for letters in numeral:
-        if letters not in valid_roman_numerals:
-            valid = False
-            break
-    return valid
-
-
-def get_tokens(text: str):
-    """
-    Returns a tokens list from a raw text.
-    Source code: https://github.com/natliblux/nautilusocr/blob/master/src/epr/features_epr.py
-    """
-    tokens = list()
-
-    new_token = ''
-    for c in text:
-        if c == ' ' and len(new_token) > 0:
-            tokens.append(new_token)
-            new_token = ''
-        elif c == '\n' and len(new_token) > 0:
-            if new_token[-1] in HYPHENS:
-                new_token = new_token[:-1]
-            else:
-                tokens.append(new_token)
-                new_token = ''
-        else:
-            new_token += c
-    if len(new_token) > 0:
-        tokens.append(new_token)
-
-    for i, token in enumerate(tokens):
-        if not token[-1].isalpha():
-            tokens[i] = token[:-1]
-        if not token[0].isalpha():
-            tokens[i] = token[1:]
-
-    return tokens
 
 
 def get_garbage_score(tokens: list):
@@ -107,7 +59,7 @@ def get_garbage_score(tokens: list):
 
             # collect token info
             if char.isalpha():
-                if char.lower() in VOWELS:
+                if char.lower() in const.VOWELS:
                     vowel_count += 1
                     vowel_streak += 1
                     consonant_streak = 0
@@ -143,7 +95,7 @@ def get_garbage_score(tokens: list):
             # rule 4
             if consonant_streak >= 6:
                 # Adding a rule to check for century Roman numerals (XIXe, etc.)
-                if not check_if_roman_numeral(token) and token not in COMMON_LATIN_NAMES:
+                if not ronum.check_if_roman_numeral(token) and token not in const.COMMON_LATIN_NAMES:
                     issues += 1
                     go_to_next_token = True
                     break
@@ -167,7 +119,7 @@ def get_garbage_score(tokens: list):
             # rule 5
             if vowel_count * 8 < consonant_count:
                 # Adding a rule to check for century Roman numerals (XIXe, etc.)
-                if not check_if_roman_numeral(token):
+                if not ronum.check_if_roman_numeral(token):
                     issues += 1
                     continue
             # rule 5
@@ -179,7 +131,7 @@ def get_garbage_score(tokens: list):
         # Adding a rule to check for century Roman numerals (XIXe, etc.)
         if lower_case_count > 0 and upper_case_count > lower_case_count:
             if token[-1] == 'e':
-                if not check_if_roman_numeral(token[:-1]):
+                if not ronum.check_if_roman_numeral(token[:-1]):
                     issues += 1
                     continue
 
@@ -194,7 +146,7 @@ def get_garbage_score(tokens: list):
         # Adding a rule to avoid common abbreviations usually found in sales catalogues
         regular_chars = len(token) - special_char_count
         if special_char_count >= regular_chars and regular_chars > 0:
-            if token not in COMMON_ABBREVIATIONS:
+            if token not in const.COMMON_ABBREVIATIONS:
                 issues += 1
                 continue
 
@@ -210,19 +162,20 @@ file_num = 0
 erroneous = 0
 token_nb = []
 
-for filename in os.listdir('./rawtxt'):
+for filename in os.listdir('./raw'):
     file_num += 1
-    file = os.path.join('./rawtxt', filename)
-    if str(file).endswith('.rawtxt'):
-        with open(file, 'r') as fh:
-            txt = fh.read()
-            clean_txt = txt.replace('\n', '')
-            tokens = get_tokens(clean_txt)
-            token_nb.append(len(tokens))
+    file = os.path.join('./raw', filename)
+    with open(file, 'r') as fh:
+        txt = fh.read()
+        # clean_txt = txt.replace('\n', '')
+        # tokens = get_tokens(txt)
+        tokens = tokenizers.get_tokens_from_raw_file(txt)
+        token_nb.append(len(tokens))
 
-            if get_garbage_score(tokens) > 0.10:
-                erroneous += 1
-                print(f'{filename.split(".")[0]} \t {get_garbage_score(tokens)}')
+        if get_garbage_score(tokens) > 0.10:
+            erroneous += 1
+            print(f'{filename.split(".")[0]} \t {get_garbage_score(tokens)}')
+
 
 print(f'min token: {min(token_nb)}')
 print(f'max token: {max(token_nb)}')
