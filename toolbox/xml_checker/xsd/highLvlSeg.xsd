@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XSD for validating the high level segmentation training data -->
+<!-- WARNING: Grobid generates invalid xml:id values (not NCName). Preprocessing is needed before validation
+e.g. modifying the attribute's value. -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+        schemaLocation="./xml.xsd"/>
+    <xs:element name="tei">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="teiHeader">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="fileDesc"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="text">
+                    <xs:complexType mixed="true">
+                        <xs:sequence maxOccurs="unbounded">
+                            <xs:element name="cover" type="xs:string" minOccurs="0"/>
+                            <xs:element name="title" type="xs:string" minOccurs="0"/>
+                            <xs:element name="publisher" type="xs:string" minOccurs="0"/>
+                            <xs:element name="summary" type="xs:string" minOccurs="0"/>
+                            <xs:element name="biography" type="xs:string" minOccurs="0"/>
+                            <xs:element name="advertising" type="xs:string" minOccurs="0"/>
+                            <xs:element name="toc" type="xs:string" minOccurs="0"/>
+                            <xs:element name="tof" type="xs:string" minOccurs="0"/>
+                            <xs:element name="preface" type="xs:string" minOccurs="0"/>
+                            <xs:element name="dedication" type="xs:string" minOccurs="0"/>
+                            <xs:element name="unit" type="xs:string" minOccurs="0"/>
+                            <xs:element name="reference" type="xs:string" minOccurs="0"/>
+                            <xs:element name="annex" type="xs:string" minOccurs="0"/>
+                            <xs:element name="index" type="xs:string" minOccurs="0"/>
+                            <xs:element name="back" type="xs:string" minOccurs="0"/>
+                            <xs:element name="other" type="xs:string" minOccurs="0"/>
+                        </xs:sequence>
+                        <xs:attribute ref="xml:lang"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute ref="xml:space" use="optional"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
