@@ -165,7 +165,7 @@ token_nb = []
 for filename in os.listdir('./raw'):
     file_num += 1
     file = os.path.join('./raw', filename)
-    with open(file, 'r') as fh:
+    with open(file, 'r', encoding='utf8') as fh:
         txt = fh.read()
         # clean_txt = txt.replace('\n', '')
         # tokens = get_tokens(txt)
