@@ -1,4 +1,4 @@
-name: Grobid XML training data checker
+name: Grobid XML checker
 on:
   push:
     branches:
@@ -20,10 +20,10 @@ jobs:
           python -m pip install --upgrade pip
           echo "test"
           pip install -r ./toolbox/xml_checker/requirements.txt
-      - name: run grobid xmlchecker
+      - name: run grobid_xml_checker
         env:
           DATASETS_DIR: ${{ github.workspace }}/datasets
           XSD_DIR: ${{ github.workspace }}/toolbox/xml_checker/xsd
         run: |
           echo $ROOT_DIR
-          fooShell=$(python3 ./toolbox/xml_checker/cli_xml_checker.py validate $DATASETS_DIR $XSD_DIR)
+          python3 ./toolbox/xml_checker/cli_xml_checker.py validate $DATASETS_DIR $XSD_DIR
