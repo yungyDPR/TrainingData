@@ -15,7 +15,15 @@ Annotated files are in the [TEI-XML](https://tei-c.org/) format.
 
 ## Data quality
 
-Before being pushed to the main branch, annotated files have at least been proofread once. 
+Before being pushed to the main branch, annotated files have at least been proofread once, and are validated with an XSD by a Github action.
+
+# Toolbox
+
+This repository also contains a set of tools that can be used on the training sets. 
+
+* PDF Preprocessing
+* Quality assessment
+* XML validity checker (used by a Github action)
 
 # DataCatalogue organization information
 
