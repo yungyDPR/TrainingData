@@ -30,9 +30,14 @@ jobs:
         id: check_files
         uses: andstor/file-existence-action@v1
         with:
-          files: "./toolbox/xml_checker/tmp.txt"
+          files: "./toolbox/xml_checker/tmp.md"
 
       - name: File exists
         if: steps.check_files.outputs.files_exists == 'true'
         # Only runs if all of the files exists
-        run: echo All files exists!
+        - uses: actions/checkout@v2.1.0
+        - uses: JasonEtco/create-an-issue@v2.4.0
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with:
+            filename: ./toolbox/xml_checker/tmp.md
