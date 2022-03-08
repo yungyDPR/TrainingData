@@ -22,4 +22,4 @@ jobs:
           pip install -r ./toolbox/xml_checker/requirements.txt
       - name: run grobid_xml_checker
         run: |
-          python3 grobid_xml_checker.py
+          python3 ./toolbox/xml_checker/grobid_xml_checker.py
