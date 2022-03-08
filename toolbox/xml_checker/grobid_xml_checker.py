@@ -41,7 +41,6 @@ def validate_with_xsd(rootdir: str, xsddir: str):
                         if subdir.endswith('tei'):
                             for file in files:
                                 filename = os.path.join(subdir, file)
-                                print(filename)
                                 with open(filename, 'r', encoding='utf8') as fh:
                                     file = fh.read().replace('<fileDesc xml:id="0"/>', '<fileDesc/>')
                                     try:
@@ -50,7 +49,9 @@ def validate_with_xsd(rootdir: str, xsddir: str):
                                         xml_parser = etree.XMLParser(schema=schema)
                                         tree = etree.fromstring(file, parser=xml_parser)
                                     except etree.XMLSyntaxError as e:
-                                        print(e)
+                                        print(f'{filename} \t {e}')
 
 # TODO: Keep a log after validation
 # TODO: Iteration through GROBID models *AND* their respective XSD
+
+validate_with_xsd('../../datasets', 'xsd')
