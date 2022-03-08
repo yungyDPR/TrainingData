@@ -25,4 +25,4 @@ jobs:
           ROOT_DIR: ${{ github.workspace }}/datasets
         run: |
           echo $ROOT_DIR
-          python3 ./toolbox/xml_checker/cli_xml_checker.py validate ROOT_DIR
+          python3 ./toolbox/xml_checker/cli_xml_checker.py validate $ROOT_DIR
