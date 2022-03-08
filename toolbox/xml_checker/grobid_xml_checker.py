@@ -59,4 +59,5 @@ def validate_with_xsd(rootdir: str, xsddir: str, logdir: str):
                     for error in errors:
                         fh.write(f'* [ ] {error[0]} --- {error[1]}\n')
 
+
 validate_with_xsd('../../datasets', './xsd', './')
