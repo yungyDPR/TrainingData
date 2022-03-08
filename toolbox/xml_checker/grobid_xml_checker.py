@@ -7,12 +7,29 @@ import os
 
 from lxml import etree
 
-rootdir = '../../datasets'
+
+def validate_with_python(rootdir: str):
+    """
+    Does not work for now.
+    """
+    for subdir, dirs, files in os.walk(rootdir):
+        for model in const.GROBID_MODELS:
+            if subdir.endswith(model):
+                for subdir, dirs, files in os.walk(rootdir):
+                    if subdir.endswith('tei'):
+                        for file in files:
+                            filename = os.path.join(subdir, file)
+                            print(filename)
+                            with open(filename, 'r', encoding='utf8') as fh:
+                                file = fh.read().replace('<fileDesc xml:id="0"/>', '<fileDesc/>')
+                                clean_tree = etree.parse(file)
+                                for tag in clean_tree.find('text').iter():
+                                        if tag.tag not in const.SEGMENTATION_TAGS:
+                                            print('erreur')
 
 
 def validate_with_xsd(rootdir: str):
     for subdir, dirs, files in os.walk(rootdir):
-        print(subdir, dirs, files)
         for model in const.GROBID_MODELS:
             if subdir.endswith(model):
                 for subdir, dirs, files in os.walk(rootdir):
@@ -33,25 +50,3 @@ def validate_with_xsd(rootdir: str):
 # TODO: Keep a log after validation
 # TODO: Iteration through GROBID models *AND* their respective XSD
 
-
-def validate_with_python(rootdir: str):
-    """
-    Does not for for now.
-    """
-    for subdir, dirs, files in os.walk(rootdir):
-        for model in const.GROBID_MODELS:
-            if subdir.endswith(model):
-                for subdir, dirs, files in os.walk(rootdir):
-                    if subdir.endswith('tei'):
-                        for file in files:
-                            filename = os.path.join(subdir, file)
-                            print(filename)
-                            with open(filename, 'r', encoding='utf8') as fh:
-                                file = fh.read().replace('<fileDesc xml:id="0"/>', '<fileDesc/>')
-                                clean_tree = etree.parse(file)
-                                for tag in clean_tree.find('text').iter():
-                                        if tag.tag not in const.SEGMENTATION_TAGS:
-                                            print('erreur')
-
-
-validate_with_xsd(rootdir)
