@@ -57,4 +57,4 @@ def validate_with_xsd(rootdir: str, xsddir: str, logdir: str):
                     fh.write(f'---\ntitle: {date.today()} - Parsing validation error(s)!\nlabels: invalid\n---\n')
                     fh.write(f'For model {model}:\n')
                     for error in errors:
-                        fh.write(f'* {filename}\t{error}\n')
+                        fh.write(f'* {filename} ----- {error}\n')
