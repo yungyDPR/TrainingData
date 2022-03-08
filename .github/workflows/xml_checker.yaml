@@ -18,6 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
         python -m pip install --upgrade pip
+        echo "test"
         pip install -r ./toolbox/xml_checker/requirements.txt
       - name: run grobid_xml_checker
         run: |
