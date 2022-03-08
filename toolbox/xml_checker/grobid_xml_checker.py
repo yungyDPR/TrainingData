@@ -3,6 +3,7 @@ Script for validating training data, either using a XSD file or python.
 """
 from const import const
 
+from datetime import date
 import os
 
 from lxml import etree
@@ -32,6 +33,7 @@ def validate_with_xsd(rootdir: str, xsddir: str, logdir: str):
     xsd = str()
     for subdir, dirs, files in os.walk(rootdir):
         for model in const.GROBID_MODELS:
+            errors = []
             if subdir.endswith(model):
                 for subdir, dirs, files in os.walk(xsddir):
                     for file in files:
@@ -49,10 +51,13 @@ def validate_with_xsd(rootdir: str, xsddir: str, logdir: str):
                                         xml_parser = etree.XMLParser(schema=schema)
                                         tree = etree.fromstring(file, parser=xml_parser)
                                     except etree.XMLSyntaxError as e:
-                                        with open(f'{logdir}/tmp.txt', 'a', encoding='utf8') as fh:
-                                            fh.write(f'For model {model}:\n')
-                                            fh.write(f'{filename} \t {e}\n\n')
+                                        errors.append(e)
+            if errors:
+                with open(f'{logdir}/tmp.md', 'a', encoding='utf8') as fh:
+                    fh.write(f'---\ntitle: {date.today()}\nlabels: invalid\n---\n')
+                    fh.write(f'For model {model}:\n')
+                    for error in errors:
+                        fh.write(f'* {error}\n')
 
-# TODO: Keep a log after validation
 
 validate_with_xsd('../../datasets', 'xsd', './')
