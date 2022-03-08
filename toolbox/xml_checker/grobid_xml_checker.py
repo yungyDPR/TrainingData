@@ -30,6 +30,7 @@ def validate_with_xsd(rootdir: str):
                                     print(e)
 
 # TODO: Keep a log after validation
+# TODO: Iteration through GROBID models *AND* their respective XSD
 
 
 def validate_with_python(rootdir: str):
