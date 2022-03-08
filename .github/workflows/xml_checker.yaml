@@ -27,7 +27,3 @@ jobs:
         run: |
           echo $ROOT_DIR
           fooShell=$(python3 ./toolbox/xml_checker/cli_xml_checker.py validate $DATASETS_DIR $XSD_DIR)
-      -name: create issue
-        if: $fooShell
-        run: |
-        echo fooShell
