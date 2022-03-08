@@ -31,6 +31,6 @@ jobs:
         with:
           files: "./toolbox/xml_checker/tmp.txt"
       - name: File exists
-        if: steps.check_files.outputs.files_exists == 'true'
+        if: steps.check_files.outputs.check_error_log == 'true'
         run: |
           echo error log exists!
