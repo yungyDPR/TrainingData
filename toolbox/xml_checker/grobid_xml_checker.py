@@ -30,6 +30,7 @@ def validate_with_python(rootdir: str):
 
 def validate_with_xsd(rootdir: str, xsddir: str):
     xsd = str()
+    errors = []
     for subdir, dirs, files in os.walk(rootdir):
         for model in const.GROBID_MODELS:
             if subdir.endswith(model):
@@ -49,9 +50,11 @@ def validate_with_xsd(rootdir: str, xsddir: str):
                                         xml_parser = etree.XMLParser(schema=schema)
                                         tree = etree.fromstring(file, parser=xml_parser)
                                     except etree.XMLSyntaxError as e:
+                                        print(f'For model {model}:')
                                         print(f'{filename} \t {e}')
 
+    return errors
+
 # TODO: Keep a log after validation
-# TODO: Iteration through GROBID models *AND* their respective XSD
 
 validate_with_xsd('../../datasets', 'xsd')
