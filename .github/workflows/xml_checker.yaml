@@ -21,5 +21,8 @@ jobs:
           echo "test"
           pip install -r ./toolbox/xml_checker/requirements.txt
       - name: run grobid_xml_checker
+        env:
+          ROOT_DIR: ${{ github.workspace }}/datasets
         run: |
-          python3 ./toolbox/xml_checker/grobid_xml_checker.py
+          echo ROOT_DIR
+          python3 ./toolbox/xml_checker/cli_xml_checker.py validate ROOT_DIR
