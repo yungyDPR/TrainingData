@@ -54,3 +54,4 @@ def validate_with_python(rootdir: str):
 
 
 validate_with_xsd(rootdir)
+print('test :)')
