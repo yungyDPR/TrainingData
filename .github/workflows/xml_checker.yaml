@@ -25,5 +25,5 @@ jobs:
           XSD_DIR: ${{ github.workspace }}/toolbox/xml_checker/xsd
         run: |
           echo $ROOT_DIR
-          output=$(python3 ./toolbox/xml_checker/cli_xml_checker.py validate ./datasets ./toolbox/xml_checker/xsd)
-          echo $output
+          python3 ./toolbox/xml_checker/cli_xml_checker.py validate ./datasets ./toolbox/xml_checker/xsd
+          [ -s ./toolbox/xml_checker/tmp.txt ] && echo "file has something" || echo "file is empty"
