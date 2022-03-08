@@ -12,11 +12,12 @@ def group():
 
 @group.command("validate")
 @click.argument("rootdir", type=str)
-def run(rootdir):
+@click.argument("xsddir", type=str)
+def run(rootdir, xsddir):
     """
     Validate an XML if a root directory is provided.
     """
-    grobid_xml_checker.validate_with_xsd(rootdir)
+    grobid_xml_checker.validate_with_xsd(rootdir, xsddir)
 
 
 if __name__ == "__main__":
