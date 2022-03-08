@@ -25,4 +25,12 @@ jobs:
           XSD_DIR: ${{ github.workspace }}/toolbox/xml_checker/xsd
         run: |
           python3 ./toolbox/xml_checker/cli_xml_checker.py validate ./datasets ./toolbox/xml_checker/xsd ./toolbox/xml_checker
-          [ -s ./toolbox/xml_checker/tmp.txt ] && echo "file has something" || echo "file is empty"
+      -name: Check error log existence
+        id: check_error_log
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "./toolbox/xml_checker/tmp.txt"
+      - name: File exists
+        if: steps.check_files.outputs.files_exists == 'true'
+        # Only runs if all of the files exists
+        run: echo error log exists!
