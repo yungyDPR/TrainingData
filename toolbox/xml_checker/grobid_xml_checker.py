@@ -11,6 +11,7 @@ rootdir = '../../datasets'
 
 
 def validate_with_xsd(rootdir: str):
+    print(rootdir)
     for subdir, dirs, files in os.walk(rootdir):
         for model in const.GROBID_MODELS:
             if subdir.endswith(model):
@@ -38,7 +39,6 @@ def validate_with_python(rootdir: str):
     Does not for for now.
     """
     for subdir, dirs, files in os.walk(rootdir):
-        print(subdir)
         for model in const.GROBID_MODELS:
             if subdir.endswith(model):
                 for subdir, dirs, files in os.walk(rootdir):
