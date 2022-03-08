@@ -51,3 +51,6 @@ def validate_with_python(rootdir: str):
                                 for tag in clean_tree.find('text').iter():
                                         if tag.tag not in const.SEGMENTATION_TAGS:
                                             print('erreur')
+
+
+validate_with_xsd(rootdir)
