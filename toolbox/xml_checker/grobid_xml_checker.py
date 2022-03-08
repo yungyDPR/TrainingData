@@ -51,10 +51,12 @@ def validate_with_xsd(rootdir: str, xsddir: str, logdir: str):
                                         xml_parser = etree.XMLParser(schema=schema)
                                         tree = etree.fromstring(file, parser=xml_parser)
                                     except etree.XMLSyntaxError as e:
-                                        errors.append(e)
+                                        errors.append([filename, e])
             if errors:
                 with open(f'{logdir}/tmp.md', 'a', encoding='utf8') as fh:
                     fh.write(f'---\ntitle: {date.today()} - Parsing validation error(s)!\nlabels: invalid\n---\n')
                     fh.write(f'For model {model}:\n')
                     for error in errors:
-                        fh.write(f'* [ ] {filename} ----- {error}\n')
+                        fh.write(f'* [ ] {error[0]} --- {error[1]}\n')
+
+validate_with_xsd('../../datasets', './xsd', './')
