@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- XSD for validating the high level segmentation training data -->
 <!-- WARNING: Grobid generates invalid xml:id values (not NCName). Preprocessing is needed before validation
-e.g. modifying the attribute's value. -->
+e.g. modifying the attribute's value when validating. -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
     <xs:import namespace="http://www.w3.org/XML/1998/namespace"
         schemaLocation="./xml.xsd"/>
