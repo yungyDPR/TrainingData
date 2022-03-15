@@ -3,4 +3,4 @@ toolbox/venv
 toolbox/qualityAssessment/rawtxt
 toolbox/qualityAssessment/raw
 toolbox/xml_checker/const/__pycache__
-dataset/segmentation/proprietary_cat/*
+datasets/segmentation/proprietary_cat/*
