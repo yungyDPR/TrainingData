@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-Vente du Lundi 13 -«J Venui-cul lr _Su. -
+<title>Vente du Lundi 13 -«J Venui-cul lr _Su. -
 
 COLLECTION H. HOFFMAN 
 
@@ -56,10 +56,10 @@ le Dimanche 1S Hvlai., de 2 à 5 heures
 
 PARIS 
 
-8; 5 
+8; 5 </title>
 
 
-EXPOSITION PARTICULIÈRE 
+<cover>EXPOSITION PARTICULIÈRE 
 
 du 6 au 10 mai 
 
@@ -77,27 +77,27 @@ L&apos;1 de 7J rituelles
 
 tiré Ù 100 exemplaires 
 
-75 fr. 
+75 fr. </cover>
 
 
 
 
-COLLECTION H. HOFFMANN 
+<cover>COLLECTION H. HOFFMANN 
 
 TROISIÈME PARTIE 
 
-ANTIQUITÉS ÉGYPTIENNES 
+ANTIQUITÉS ÉGYPTIENNES </cover>
 
 
-Xe Catalogue se trouve à : 
+<preface>Xe Catalogue se trouve à : 
 
 Paris 
 Chez M. H. HOFFMANN, II, rue Benouvzllt. 
 
-Londres ... Chez M. B. QUARITCH, 15, Piccadilly. 
+Londres ... Chez M. B. QUARITCH, 15, Piccadilly. </preface>
 
 
-COLLECTION H. HOFFMANN 
+<title>COLLECTION H. HOFFMANN 
 
 ANTIQUITÉS ÉGYPTIENNES 
 
@@ -111,11 +111,11 @@ TERRES CUITES ET TERRES ÉMAILLÉES, VERRES, TISSUS ETC.
 
 PARIS 
 
-1894 
+1894 </title>
 
 
 
-Les amateurs d&apos;antiquités suivent tous la même 
+<preface>Les amateurs d&apos;antiquités suivent tous la même 
 voie. A leurs débuts, ils ne recherchent que les 
 chefs-d&apos;oeuvre de l&apos;art romain et de l&apos;art grec, persuadés 
 
@@ -289,11 +289,11 @@ Vente Fournier.
 » Femme drapée, terre cuite. 
 Vente Fournier. 
 
-Paris, octobre 1894. 
+Paris, octobre 1894. </preface>
 
 
 
-RÉSUMÉ 
+<toc>RÉSUMÉ 
 
 PIERRES DURES ET PIERRES CALCAIRES 
 
@@ -460,10 +460,10 @@ N°555
 Verrerie. 
 
 Nos 556 à 564 
-9 
+9 </toc>
 
 
-PIERRES DURES ET CALCAIRES. 
+<unit>PIERRES DURES ET CALCAIRES. 
 
 I. 
 
@@ -6393,14 +6393,14 @@ H 0,114.
 blanc à plissures très fines. Nous ne connaissons pas d&apos;autre 
 exemple de ce décor original. 
 
-H 0,104. 
+H 0,104. </unit>
 
 
 
 
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 La vente se fera au comptait. 
 Les acquéreurs payeront, en sus des enchères, cinq pour cOlt, 
@@ -6429,7 +6429,7 @@ soubassement. -Haut. 2,40. Larg. 1,55.
 colonnes, avec deux tablettes en verre et une étagère habillée 
 de velours rouge. -Haut. 2,00. Larg. i,3o. 
 
-x 
+x </preface>
 
 
 

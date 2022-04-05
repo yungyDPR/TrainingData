@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-CATALOGUE 
+<title>CATALOGUE 
 
 D&apos;UNE COLLECTION 
 
@@ -51,18 +51,18 @@ ROLL
 
 AVR 
 
-A 
+A </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les Acquéreurs paieront, en sus des. adjudications, 
-CJNQ CENTIMES PAR FRANC, applicables aux frais. 
+CJNQ CENTIMES PAR FRANC, applicables aux frais. </preface>
 
 
-DÉSIGNATION 
+<unit>DÉSIGNATION 
 
 Médailles grecques 
 
@@ -545,7 +545,7 @@ faux en bronze.
 27. Un lot de Socles en marbre rouge antique, etc. 
 28. Torse de Femme en marbre antique. 
 29. L&apos;Amour couché sur la peau de lion et tenant une 
-massue. 
+massue. </unit>
 
 
 

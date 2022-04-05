@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-Succession de Feu M..ATT* 
+<title>Succession de Feu M..ATT* 
 
 -
 
@@ -42,11 +42,11 @@ EXPERTS
 
 Rue de Louvois, 4 
 
-PARIS -1888 
+PARIS -1888 </title>
 
 
 
-Succession cle Feu M. A*** 
+<title>Succession cle Feu M. A*** 
 
 Quatrième Vente 
 
@@ -74,20 +74,20 @@ Assisté de M. ROLLIN et FEUARDENT, Experts,
 
 Rue de Louvois, 4 
 
-PARIS -1 888 
+PARIS -1 888 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les Acquéreurs paieront CINQ POUR CENT en sus 
 des enchères, applicables aux frais. 
 
-Les Lots pourront être divisés ou réunis. 
+Les Lots pourront être divisés ou réunis. </preface>
 
 
-DÉSIGNATION 
+<unit>DÉSIGNATION 
 
 MONNAIES D&apos;OR 
 
@@ -946,19 +946,19 @@ et Louis XVI. AR.
 hauteur, 0m76. 
 
 209. Plusieurs lots de Médailles en soufre, plâtre. 
-Cartons pour médailles, etc. 
+Cartons pour médailles, etc. </unit>
 
 
 
 
 
-IMPRIMERIE MAULDE ET RENOU 
+<back>IMPRIMERIE MAULDE ET RENOU 
 
 A. MAULDE &amp; Cie 
 
 IMPRIMEURS DE LA COMPAGNIE DES COMMISSAIRES-PRISEURS 
 
-Rue de Rivoli, 144 
+Rue de Rivoli, 144 </back>
 
 
 

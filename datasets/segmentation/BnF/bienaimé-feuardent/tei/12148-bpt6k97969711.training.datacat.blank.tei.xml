@@ -14,13 +14,13 @@
 
 
 
-COLLECTION 
+<cover>COLLECTION 
 
-DE 
+DE </cover>
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DE 
 
@@ -57,10 +57,10 @@ MÊME MAISON, HAY-MARKET, 27
 
 1868 
 
-1. 
+1. </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -104,11 +104,11 @@ C. R. ET F.
 
 (1) Monete delle antiche famiglie di Roma. Napoli, 1843. 1 vol. in-4, 72 Plsnchea. 
 
-1 
+1 </preface>
 
 
 
-CATALOGUE 
+<unit>CATALOGUE 
 
 DE 
 
@@ -6094,7 +6094,7 @@ AE.
 
 Victoire couronnant un trophée à droite. (Coh., fam. 
 
-Claudia, p. 87.) 2 pièces. AR. 
+Claudia, p. 87.) 2 pièces. AR. </unit>
 
 
 

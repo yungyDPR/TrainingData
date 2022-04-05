@@ -5,14 +5,14 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les adjudicataires payeront cinq pour cent en sus des 
-enchères. 
+enchères. </preface>
 
-ORDRE DES VACATIONS 
+<toc>ORDRE DES VACATIONS 
 
 Lundi 16 Avril 
 
@@ -22,10 +22,10 @@ i à 169
 
 Mardi 17 Avril 
 
-N&quot; 170 à 354 
+N&quot; 170 à 354 </toc>
 
 
-DE L&apos;ÉCOLE FRANÇAISE 
+<title>DE L&apos;ÉCOLE FRANÇAISE 
 
 PAR 
 
@@ -83,11 +83,11 @@ PUBLIQUE
 
 LQ Dimanche 15 Avril 1883 
 
-DE 2 HEURES A. .&quot;&gt; IIEUIlE5 
+DE 2 HEURES A. .&quot;&gt; IIEUIlE5 </title>
 
 
 
-&apos;ÉTAIT à la veille de me rendre en 
+<preface>&apos;ÉTAIT à la veille de me rendre en 
 Italie ; en sortant du Louvre, où 
 j&apos;étais allé voir, dans l&apos;atelier de 
 M. Briotet, la restauration des Ber-
@@ -438,11 +438,11 @@ a été conquis par l&apos;étranger.
 
 PAUL LEROI. 
 
-L&apos;ART.) 
+L&apos;ART.) </preface>
 
 
 
-DÉSIGNATION 
+<unit>DÉSIGNATION 
 
 ANONYME 
 
@@ -5736,7 +5736,7 @@ exécutés à l&apos;aquarelle.
 
 --
 
-variés, pour l&apos;indus-
+variés, pour l&apos;indus-</unit>
 
 
 

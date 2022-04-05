@@ -14,7 +14,7 @@
 
 
 
-CATALOGUE 
+C<title>ATALOGUE 
 
 DE 
 
@@ -58,11 +58,11 @@ PARIS
 
 CHEZ ROLLIN, RUE VIVIENNE, 12 
 
-M DGCC. LX 
+M DGCC. LX </title>
 
 
 
-CATALOGUE 
+<cover>CATALOGUE 
 
 m 
 
@@ -73,10 +73,10 @@ MONNAIES DU MOYEN AGE
 
 -
 
--T&apos;~B ONNET r.T ROMP,, Î 2 JÏf N VAVLV, 
+-T&apos;~B ONNET r.T ROMP,, Î 2 JÏf N VAVLV, </cover>
 
 
-CATALOGUE 
+<cover>CATALOGUE 
 
 DE 
 
@@ -96,11 +96,11 @@ PARIS
 
 CHEZ ROLLIN, RUE VIVIENNE, 12 
 
-M DCCCLX 
+M DCCCLX </cover>
 
 
 
-SOMMAIRE 
+<toc>SOMMAIRE 
 
 MONNAIES ANGLAISES 
 
@@ -344,11 +344,11 @@ xxxiv. Duché de Florence
 
 54 
 
-xxxv. Grand duché d&apos;Étrurie ................... 54 
+xxxv. Grand duché d&apos;Étrurie ................... 54 </toc>
 
 
 
-MONNAIES ANGLAISES 
+<unit>MONNAIES ANGLAISES 
 
 ANGLO-SAXONES ET ANGLO-DANOISES 
 
@@ -3935,13 +3935,13 @@ XXXV. GRAND DUCHÉ D&apos;ETRURIE
 MAGN. DVX. ETRVRIAE. D. Çi. Saint Jean-Baptiste debout; 
 au-dessous, 1584 : s. IOANNES. BAPTISTA. 
 
-Ecu d&apos;argent de Florence. 
+Ecu d&apos;argent de Florence. </unit>
 
 
 
 
 
-Li. -l&apos;Agi,, IWl&apos;ilIMI ItlK m. LII. llONNf.1 M i.UMI&apos; 12, hl I V*\IV 
+<other>Li. -l&apos;Agi,, IWl&apos;ilIMI ItlK m. LII. llONNf.1 M i.UMI&apos; 12, hl I V*\IV </other>
 
 
 

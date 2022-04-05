@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-VENTE AUX ENCHÈRES PUBLIQUES 
+<title>VENTE AUX ENCHÈRES PUBLIQUES 
 
 Envertu d&apos;ordonnance, enregistrée 
 
@@ -30,10 +30,10 @@ EXPOSITION PUBLIQUE LE JOUR DE LA VENTE
 
 DE UNE HEURE ET DEMIE A TROIS HEURES 
 
-PARIS -1890 
+PARIS -1890 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle aura lieu expressément au comptant. 
 
@@ -41,10 +41,10 @@ Les acquéreurs paieront CINQ POUR CENT en sus des enchères
 
 1 
 
-applicables aux frais de la vente. 
+applicables aux frais de la vente. </preface>
 
 
-DESCRIPTION 
+<unit>DESCRIPTION 
 
 &quot; 
 
@@ -167,7 +167,7 @@ gaises, petit module ; 65 pièces.
 AR. 
 33. Pièces fausses et galvanoplastie ; 18 pièces. AR. et Cuivre. 
 
-LINGOTS ET MINERAIS 
+LINGOTS ET MINERAIS </unit>
 
 
 

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-CATALOGUE 
+<title>CATALOGUE 
 
 PE 
 
@@ -36,10 +36,10 @@ EXPOSITION PUBLIQUE
 
 Le Dimanche 24 Mars 1878, de une heure à cin&apos;l heures 
 
-PARIS -187 8 
+PARIS -187 8 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les Acquéreurs paieront CINQ POUR CENT en sus des 
@@ -49,10 +49,10 @@ enchères.
 
 L&apos;Exposition mettant le Public à même de se rendre 
 compte de l&apos;état des Objets, il ne sera admis aucune récla-
-mation une fois l&apos;adjudication prononcée. 
+mation une fois l&apos;adjudication prononcée. </preface>
 
 
-DÉSIGNATION 
+<unit>DÉSIGNATION 
 
 MONNAIES ANTIQUES 
 
@@ -465,15 +465,15 @@ Bronze.
 
 de fer. 
 134. Écrin contenant 6 Médailles des principales cathé-
-drales. 
+drales. </unit>
 
 
 
-V&quot; RENOU, MAULDE et COCK 
+<back>V&quot; RENOU, MAULDE et COCK 
 
 IMPRIMEURS DE LA COMTAGNIF DES COMMISSAIRES-PRISEURS 
 
-Rue de Rivoli,144 
+Rue de Rivoli,144 </back>
 
 
 

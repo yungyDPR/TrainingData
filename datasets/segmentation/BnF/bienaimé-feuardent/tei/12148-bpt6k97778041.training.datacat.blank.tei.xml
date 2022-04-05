@@ -12,7 +12,7 @@
 
 
 
-VENTE 
+<cover>VENTE 
 
 -
 
@@ -28,13 +28,13 @@ OBJETS PROVENANT DE
 
 L&apos;ANCIENNE GALERIE ÉDOUARD DELESSERT 
 
-PARIS -1911 
+PARIS -1911 </cover>
 
 
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DES 
 
@@ -70,18 +70,18 @@ EXPOSITION
 
 Le Lundi 12 Juin 1911, de deux heures à six heures 
 
-PARIS -1911 
+PARIS -1911 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les adjudicataires paieront dix pour cent en sus des 
-enchères. 
+enchères. </preface>
 
 
-ANTIQUITÉS 
+<unit>ANTIQUITÉS 
 
 I. POTERIE 
 
@@ -737,7 +737,7 @@ H. 61 cent. L. 35 cent.
 113. Un Lot de socles en marbre de différentes cou-
 leurs. 
 
-114. Objets divers, non catalogués. 
+114. Objets divers, non catalogués. </unit>
 
 
 

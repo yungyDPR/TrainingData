@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-!GA®ÂIL©(&amp;W® 
+<other>!GA®ÂIL©(&amp;W® </other>
 
-DE 
+<title>DE 
 
 MÉDAILLES 
 
@@ -47,13 +47,13 @@ lMPBfTMBDRS DE LA COMPAGoNIE DES COMMISSAIRES-PRISEURS
 
 Bile de Rivoli, 144-. 
 
-18 6 3 
+18 6 3 </title>
 
 
 
-AI 
+<other>AI </other>
 
-DE&apos;: 
+<title>DE&apos;: 
 
 MÉDAILLES 
 
@@ -85,20 +85,20 @@ EXPOSITION PUBLIQUE
 
 Le Matin de la Vente, de midi à une heure. 
 
-1863 
+1863 </title>
 
 
-. 
+<other>. </other>
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptait. 
 
 Les Acquéreurs paieront CINQ CÉNTlMES PAR FRANC , eii sus 
-des adjudications, applicables aux frais de vente. 
+des adjudications, applicables aux frais de vente. </preface>
 
 
-1 
+<unit>1 
 
 DÉSIGNAT rON-
 
@@ -1734,7 +1734,7 @@ et cornaline).
 
 « 
 
-483. Vingt petits objets divers, antiques et modernes. 
+483. Vingt petits objets divers, antiques et modernes. </unit>
 
 
 

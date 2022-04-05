@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-CATALOGUE 
+<title>CATALOGUE 
 
 D&apos;UNE 
 
@@ -57,10 +57,10 @@ EXPOSITION PUBLIQUE
 
 Le mercredi 17, à 2 heures 
 
-1884 
+1884 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite expressément au comptant. 
 
@@ -72,10 +72,10 @@ une fois l&apos;adjudication prononcée.
 
 Le présent catalogue ayant été rédigé à la hâte par le proprié-
 taire de la collection, nous nous réservons de faire, s&apos;il y a lieu, 
-les rectifications nécessaires au moment de la vente. 
+les rectifications nécessaires au moment de la vente. </preface>
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 D&apos;UNE 
 
@@ -118,10 +118,10 @@ EXPOSITION PUBLIQUE
 
 Le mercredi 172 heures 
 
-1 884 
+1 884 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite expressément au comptant. 
 
@@ -133,10 +133,10 @@ une fois l&apos;adjudication prononcée.
 
 Le présent catalogue ayant été rédigé à la hâte par le proprié-
 taire de la collection, nous nous réservons de faire, s &apos;il y a lieu, 
-les rectifications nécessaires au moment de ia vçnte. 
+les rectifications nécessaires au moment de ia vçnte. </preface>
 
 
-Bagues, Bijoux, Camées 
+<unit>Bagues, Bijoux, Camées 
 
 INTAILLES 
 
@@ -849,15 +849,15 @@ Saint-Sébastien ».
 ivoire. 
 
 2 3O. 1 Pixide en ivoire et argent, émaillé, xve, 
-« Fleurs de Lys ». 
+« Fleurs de Lys ». </unit>
 
 
 
-Imprimerie Alcan-Lévy, 18. passage des Deux-Soeur» 
+<back>Imprimerie Alcan-Lévy, 18. passage des Deux-Soeur» 
 
 
 
-Imprimerie Alcan-Lévy, 18. passage des Deux-Soeurs 
+Imprimerie Alcan-Lévy, 18. passage des Deux-Soeurs </back>
 
 
 
