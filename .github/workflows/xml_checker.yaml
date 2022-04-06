@@ -1,0 +1,42 @@
+name: Grobid XML checker
+on:
+  push:
+    branches:
+      - parser_validation_needed
+  workflow_dispatch:
+jobs:
+  grobid_xml_checker:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r ./toolbox/xml_checker/requirements.txt
+      - name: run Grobid XML checker
+        env:
+          DATASETS_DIR: ${{ github.workspace }}/datasets
+          XSD_DIR: ${{ github.workspace }}/toolbox/xml_checker/xsd
+        run: |
+          python3 ./toolbox/xml_checker/cli_xml_checker.py validate ./datasets ./toolbox/xml_checker/xsd ./toolbox/xml_checker
+
+      - name: Check file existence
+        id: check_files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "./toolbox/xml_checker/tmp.md"
+
+      - name: File exists
+        if: steps.check_files.outputs.files_exists == 'true'
+        # Only runs if all of the files exists
+        uses: JasonEtco/create-an-issue@v2.4.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: ./toolbox/xml_checker/tmp.md

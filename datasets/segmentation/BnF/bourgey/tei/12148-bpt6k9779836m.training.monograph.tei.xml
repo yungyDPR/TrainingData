@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tei xml:space="pzreserve">
+<tei xml:space="preserve">
 	<teiHeader>
 		<fileDesc xml:id="0"/>
 	</teiHeader>

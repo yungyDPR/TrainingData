@@ -2,4 +2,6 @@ toolbox/.idea
 toolbox/venv
 toolbox/qualityAssessment/rawtxt
 toolbox/qualityAssessment/raw
-*/__pycache__
+toolbox/xml_checker/const/__pycache__
+datasets/segmentation/proprietary_cat/*
+
