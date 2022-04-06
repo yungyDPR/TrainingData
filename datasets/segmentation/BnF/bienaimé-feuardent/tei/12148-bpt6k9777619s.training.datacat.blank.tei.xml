@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-ROLL 
+<other>ROLL 
 
 1883 
 
-AVR 
+AVR </other>
 
 
 
@@ -18,7 +18,7 @@ AVR
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DE 
 
@@ -45,18 +45,18 @@ priseur, 10, rue de la Grange-Batelière.
 Assisté de MM. ROLLIN et FEUARDENT, 
 Experts, rue et place Louvois, 4 
 
-PARIS -1883 
+PARIS -1883 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite expressément au comptant. 
 
 Les acquéreurs paieront cinq pour cent en sus 
-des adjudications, applicables aux frais de vente. 
+des adjudications, applicables aux frais de vente. </preface>
 
 
-Catalogue 
+<unit>Catalogue 
 
 DE MONNAIES 
 
@@ -411,7 +411,7 @@ Cuivre.
 74. Lot de 330 monnaies étrangères, jetons, etc. Cuivre. 
 
 75. Lot de 26 médailles modernes. 
-Cuivre. 
+Cuivre. </unit>
 
 
 

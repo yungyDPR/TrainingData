@@ -14,7 +14,7 @@
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 MONNAIES 
 
@@ -56,25 +56,25 @@ CHEZ ROLLIN ET FEUARDENT, RUE VIVIENNE, 12
 
 1 
 
-M DCCC LXI 
+M DCCC LXI </title>
 
 
 
-CATALOGUE 
+<cover>CATALOGUE 
 
-n E 
+n E </cover>
 
 
-Conditions de la vente : 
+<preface>Conditions de la vente : 
 
 Elle se fera au comptant; los acquéreurs payeront 5 pour 100 en sus 
 
 des adjudications. 
 
-On commencera à 1 heure précise. 
+On commencera à 1 heure précise. </preface>
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DE 
 
@@ -115,11 +115,11 @@ PARIS
 
 CHEZ ROLLIN ET FEUARDENT. RUE VIVIENNE, 12 
 
-M DCCC LXI 
+M DCCC LXI </title>
 
 
 
-CATALOGUE 
+<unit>CATALOGUE 
 
 DE 
 
@@ -2671,10 +2671,10 @@ cartonné.
 
 885. Koelher. Remarques sur les médailles et les monnaies. 
 
-1 vol. petit in-4, cartonné. 
+1 vol. petit in-4, cartonné. </unit>
 
 
-TABLE -
+<toc>TABLE -</toc>
 
 
 

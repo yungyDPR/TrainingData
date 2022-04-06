@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-Collection de M. le Vicomte de Ponton d&apos;Amécourt. 
+<title>Collection de M. le Vicomte de Ponton d&apos;Amécourt. 
 
 MONNAIES GAULOISES 
 
@@ -40,13 +40,13 @@ ALC,AN-LI&quot;VY, DIPHIMELTH BREVETE
 
 ^4, Rue Chauchat 
 
-1886 
+1886 </title>
 
 
 
 
 
-Collection de M. le Vicomte de Ponton d&apos;Amécourt. 
+<title>Collection de M. le Vicomte de Ponton d&apos;Amécourt. 
 
 MONNAIES GAULOISES 
 
@@ -85,18 +85,18 @@ A LCA.N-LÉ Y Y, IM Pli I ME IH RIlEVETE
 
 24, Rue Chauchat 
 
-1 886 
+1 886 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 La vente sera faite au comptant. 
 
 Les acquéreurs payeront cinq pour cent en sus des enchères 
-applicables aux frais. 
+applicables aux frais. </preface>
 
 
-HAIES GAULOISES &amp; FRANÇAISES 
+<unit>HAIES GAULOISES &amp; FRANÇAISES 
 
 llr*j 2e et 36 Races 
 
@@ -1095,20 +1095,20 @@ règne.
 
 --
 
-Total 284 pièces. 
+Total 284 pièces. </unit>
 
 
 
-[texte_manquant] 
-
-
-
-
+<other>[texte_manquant] </other>
 
 
 
 
-LIBRAIRIE NUMISMATIQUE DE ROLLIN Er FEUARDENT 
+
+
+
+
+<advertisement>LIBRAIRIE NUMISMATIQUE DE ROLLIN Er FEUARDENT 
 
 Publications nouvelles 
 
@@ -1189,7 +1189,7 @@ Prix d&apos;adjudication de la collection de M. p, Charles Robert
 
 Prix d adjudication des médailles grecques de la collection de 
 
-M. Billoin, 997 nO, .................................. 2 fr. 
+M. Billoin, 997 nO, .................................. 2 fr. </advertisement>
 
 
 

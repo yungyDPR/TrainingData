@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-ROLL 
+<other>ROLL 
 
 1895 
 
-JUIN &quot;29 
+JUIN &quot;29 </other>
 
 
 
@@ -20,7 +20,7 @@ JUIN &quot;29
 
 
 
-ANTIQUITÉS 
+<title>ANTIQUITÉS 
 
 TROUVÉES EN GRÈGE 
 
@@ -50,10 +50,10 @@ MM. ROLLIN ET FEUARDENT
 
 4, RUE DE LOUVOIS 
 
-et à Londres, 6, Bloomatrary Street 
+et à Londres, 6, Bloomatrary Street </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -67,10 +67,10 @@ commissions des personnes qui ne pourraient y
 assister. 
 
 Les lots pourront être réunis ou divisés au gré 
-des experts. 
+des experts. </preface>
 
 
-ANTIQUITÉS 
+<unit>ANTIQUITÉS 
 
 TROUVÉES EN&apos; GRÈCE 
 
@@ -1018,7 +1018,7 @@ d&apos;une dalmatique extrêmementriche et levant les
 deux bras pour bénir. Dans le champ, deux 
 disques avec les sigles IC XC--Athènes. 
 
-Diam. 0,13. -La bordure ajourée est seule moderne. 
+Diam. 0,13. -La bordure ajourée est seule moderne. </unit>
 
 
 

@@ -14,7 +14,7 @@
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DE 
 
@@ -54,15 +54,15 @@ EXPOSIT
 
 I ON PUBLIQUE, le jour de la vente de midi à deux heures. 
 
-PARIS. -1 883 
+PARIS. -1 883 </title>
 
 
 
-CATALOGUE 
+<cover>CATALOGUE </cover>
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 D E 
 
@@ -102,17 +102,17 @@ Chez lesquels se distribue le Catalogue.
 
 EXPOSITION PUBLIQUE, le jour de la vente de midi à deux heures. 
 
-PARIS. -1883. 
+PARIS. -1883. </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
-Les acquéreurs payeront cinq pour cent en sus des adjudications. 
+Les acquéreurs payeront cinq pour cent en sus des adjudications. </preface>
 
 
-7,822 PIÈCES D&apos;OR 
+<unit>7,822 PIÈCES D&apos;OR 
 
 DES ROIS 
 
@@ -531,7 +531,7 @@ et seigneuriales.
 
 Nous donnons ci-après les prix obtenus à la vente du 15 février 
 et jours suivants pour les monnaies seigneuriales gravées sur la 
-planche ci-jointe : 
+planche ci-jointe : </unit>
 
 
 

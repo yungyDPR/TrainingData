@@ -5,20 +5,20 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-CABINET 
+<cover>CABINET 
 
-de feu 
+de feu </cover>
 
-ik yd G. GRIGNON DEmrw 
+<other>ik yd G. GRIGNON DEmrw 
 
-l.&apos;AH¡...;. -1 -,. 11 . 
-
-
+l.&apos;AH¡...;. -1 -,. 11 . </other>
 
 
 
 
-CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
+
+
+<cover>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
 
 OBJETS D&apos;ART 
 
@@ -26,11 +26,11 @@ Médailles, Miniatures. Antiquités
 
 TABLEAUX 
 
-PORCELAINES &amp; FAIENCES 
+PORCELAINES &amp; FAIENCES </cover>
 
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 DES 
 
@@ -79,11 +79,11 @@ M. CAILLOT
 
 E X P O SITION P U B LIQU E 
 
-Le Mardi 23 Mai 1899, de i heure 1/2 à 5 heures 1/2 
+Le Mardi 23 Mai 1899, de i heure 1/2 à 5 heures 1/2 </title>
 
 
 
-CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
+<unit>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
 
 I. OBJETS D&apos;ART 
 
@@ -3926,7 +3926,7 @@ porcelaine tendre de Chantilly; décor camaïeu bleu dit à
 
 l&apos;épi. 
 
-Diam., 20 cent. 
+Diam., 20 cent. </unit>
 
 
 
@@ -3935,20 +3935,11 @@ Diam., 20 cent.
 
 
 
-[texte_manquant] 
+<other>[texte_manquant] 
 
 
 
-ptHitotfpie Bortballd. PIIIU. 
-
-
-
-
-
-
-
-
-
+ptHitotfpie Bortballd. PIIIU. </other>
 
 
 
@@ -3986,12 +3977,21 @@ ptHitotfpie Bortballd. PIIIU.
 
 
 
-RED. : 
-
-23 
 
 
-BIBLIOTHÈQUE 
+
+
+
+
+
+
+
+<other>RED. : 
+
+23 </other>
+
+
+<back>BIBLIOTHÈQUE 
 NATIONALE 
 DE FRANCE 
 
@@ -4001,7 +4001,7 @@ DE
 
 SABLÉ 
 
-1997 
+1997 </back>
 
 
 

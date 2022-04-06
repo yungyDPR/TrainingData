@@ -4,25 +4,25 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-COLLECTION DE M. W*** 
+<cover>COLLECTION DE M. W*** </cover>
 
-ROLL 
+<other>ROLL 
 
 1892 
 
 i 
 
-MAR-31 
+MAR-31 </other>
 
 
 
-COLLECTION DE M. W*** 
+<cover>COLLECTION DE M. W*** </cover>
 
 
-MA.CO.N, rn()).\.T F]U:i!);S, I M l&apos;iî IM\. I K S 
+<other>MA.CO.N, rn()).\.T F]U:i!);S, I M l&apos;iî IM\. I K S </other>
 
 
-CATALOGUE 
+<title>CATALOGUE 
 
 D&apos;UNE COLLECTION 
 
@@ -49,10 +49,10 @@ EXPOSITION PUBLIQUE
 Le 31 mars, de midi à 2 heures, et chez les Experts, 4, rue de Louvois, 
 les 28, 29 et 30 mars, de 1 heure à 5 heures. 
 
-PÀRIS -1892 
+PÀRIS -1892 </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle est faite au comptant. 
 Les acquéreurs paieront cinq pour cent en sus des enchères, 
@@ -60,10 +60,10 @@ applicables aux frais.
 
 MM. ROLLIN et FEUARDENT se chargent de remplir les com-
 missions des personnes qui ne pourraient y assister, moyennant 
-cinq pour cent. 
+cinq pour cent. </preface>
 
 
-RÉPUBLIQUE ROMAINE 
+<unit>RÉPUBLIQUE ROMAINE 
 
 MONNAIES ROMANO-CAMPANIENNES 
 
@@ -2596,7 +2596,7 @@ JULES NEPOS
 avec le paludament. -IY. Croix dans une couronne ; à 
 l&apos;ex., CONOB. (14). Tiers de sou. Fabrique barbare. 
 
-B. N. 
+B. N. </unit>
 
 
 

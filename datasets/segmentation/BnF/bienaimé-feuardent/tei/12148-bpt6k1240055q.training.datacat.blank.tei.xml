@@ -5,20 +5,20 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-COLLECTION DE JANZÉ 
+<cover>COLLECTION DE JANZÉ 
 
-MÉDAILLES 
+MÉDAILLES </cover>
 
 
-La vente des ESTAMPES ANCIENNES, 
+<preface>La vente des ESTAMPES ANCIENNES, 
 Tableaux, Lithographies, Livres à figures et 
-Catalogues, aura lieu les 24, 25 et 26 avril 1866. 
+Catalogues, aura lieu les 24, 25 et 26 avril 1866. </preface>
 
 
 
 
 
-G AT A L O G U E 
+<title>G AT A L O G U E 
 
 des 
 
@@ -54,20 +54,20 @@ MM. ROLLIN et FEUARDENT, Experts, 12, rue Vivienne,
 CHARLES MANNIIEIM, Expert, 10, rue de la Paix, 
 CLÉMENT, Expert, rue des Saints-Pères, 3. 
 
-DE UNE BEURB A CINQ. 
+DE UNE BEURB A CINQ. </title>
 
 
-CONDITIONS DE LA VENTE 
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 En sus des enchères, les acquéreurs payeront cinq pour cent. 
 L&apos;exposition niellant le public à mèll1P de se rendre compte de 
-l&apos;cUil&apos;iles &apos;objets, il &apos;&apos;no Mira admis aucune réclailiiltion une fois 
+l&apos;cUil&apos;iles &apos;objets, il &apos;&apos;no Mira admis aucune réclailiiltion une fois </preface>
 
-l&apos; ndJudiealion p ro n o n &lt;&apos;/• e. 
+<other>l&apos; ndJudiealion p ro n o n &lt;&apos;/• e. </other>
 
-Ce Catalogue se trouve : 
+<advertisement>Ce Catalogue se trouve : 
 
 Chez MM. 
 
@@ -143,10 +143,10 @@ A Francfort-s.-Mein, LOEVEXSTEIN frères, Zeil.
 -
 
 GOLDSCHMlDT,Zeil, hôtel de Russie. 
-A Saint-Pétersbourg, NEGRI père et fils. 
+A Saint-Pétersbourg, NEGRI père et fils. </advertisement>
 
 
-DESIGNATION 
+<unit>DESIGNATION 
 
 DES O B J E T S 
 
@@ -7671,19 +7671,19 @@ P,î. Une femme et un enfant. TIMOR. D&apos;INFAMIA. ET. SOL.
 
 DERIO. 1558. 
 
-5 cent. 
+5 cent. </unit>
 
 
 
 
 
 
-RED 
+<other>RED 
 
-19 
+19 </other>
 
 
-BIBLIOTHEQUE 
+<back>BIBLIOTHEQUE 
 NATIONALE 
 DE FRANCE 
 
@@ -7691,7 +7691,7 @@ CHATEAU
 DE 
 SABLE 
 
-1995 
+1995 </back>
 
 
 

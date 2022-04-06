@@ -14,25 +14,25 @@
 
 
 
-COLLECTION 
+<cover>COLLECTION 
 
-DE 
-
-
-
-COLLECTION 
-
-DE 
+DE </cover>
 
 
-CONDITIONS DE LA VENTE 
+
+<cover>COLLECTION 
+
+DE </cover>
+
+
+<preface>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
-Les adjudicataires payeront cinq pour cent en sus des enchères. 
+Les adjudicataires payeront cinq pour cent en sus des enchères. </preface>
 
 
-Collection de feu M. P.-Charles ROBERT 
+<title>Collection de feu M. P.-Charles ROBERT 
 
 ANTIQUITES. INSCRIPTIONS SUR MARBRE, ETC. 
 
@@ -69,20 +69,20 @@ ROLLIN ET FEUARDENT, EXPERTS
 
 4 RUE DE LOUVOIS 4 
 
-1889 
+1889 </title>
 
 
-Le catalogue ayant été rédigé du vivant de M. Robert, sous sa 
+<preface>Le catalogue ayant été rédigé du vivant de M. Robert, sous sa 
 direction, nous n&apos;avons pas cru devoir y faire de changements ; 
 mais, dans l&apos;intérêt de la vente, nous nous réservons de grouper 
 plusieurs numéros lorsque la division ne sera pas demandée. 
 
-R. ET F. 
+R. ET F. </preface>
 
--
+<other>-</other>
 
 
-MONNAIES 
+<unit>MONNAIES 
 
 DE LA RÉPUBLIQUE ROMAINE 
 
@@ -3944,7 +3944,7 @@ JR..
 
 
 916. Plusieurs lots d&apos;antiquités, terres cuites, marbres, etc. 
-917. Un très bon médaillier avec 150 tiroirs placés sur deux rangs. 
+917. Un très bon médaillier avec 150 tiroirs placés sur deux rangs. </unit>
 
 
 

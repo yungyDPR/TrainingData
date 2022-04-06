@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-VENTE APRÈS DÉCÈS 
+<cover>VENTE APRÈS DÉCÈS 
 
 1 
 
@@ -13,9 +13,9 @@ OEUVRES ET COLLECTIONS
 
 UJ.: 
 
-J.-CH. GESLIN 
+J.-CH. GESLIN </cover>
 
-im; I N T 1: i-: -A ii &lt; 111 T E C T K-A n c n É OLO&lt;; U K 
+<other>im; I N T 1: i-: -A ii &lt; 111 T E C T K-A n c n É OLO&lt;; U K 
 
 ANCJEiN INSPECTE r I! ht-MUSftK Il[, LOUvnE 
 
@@ -33,13 +33,13 @@ Km1 Bergère, 20
 
 , 
 
-1 iSNS 
+1 iSNS </other>
 
 
 
 
 
-OEUVRES ET COLLECTIONS 
+<title>OEUVRES ET COLLECTIONS 
 
 1»K 
 
@@ -76,10 +76,10 @@ LI&apos; Lundi G Février 1888} de 1 heure 1/2 à o heures 1/2.
 EXPOSITION PARTICULIÈRE 
 
 au domicile de J.-Cli. Geslin, 21, rue La Coiidamine. 
-de I heure à ï heures, du 2,-,&gt; au 29 Janvier. 
+de I heure à ï heures, du 2,-,&gt; au 29 Janvier. </title>
 
 
-Ln vente commencera le mardi 7 février, à 2 heures très 
+<preface>Ln vente commencera le mardi 7 février, à 2 heures très 
 
 précises, par les médailles et antiquités, pages 25 et suivantes. 
 
@@ -89,10 +89,10 @@ Klle sera f&apos;;)ih&apos; expressément Itl (&apos;&lt;)j))[)t;H)L
 
 Les acquéreurs p.ticntht cinq pour cent on sus des 
 
-a&lt;1ju&lt;!icat)()])s. applicables aux irais de vente. 
+a&lt;1ju&lt;!icat)()])s. applicables aux irais de vente. </preface>
 
 
-DÉSIGNATION 
+<unit>DÉSIGNATION 
 
 TABLEAUX 
 
@@ -1633,19 +1633,19 @@ Collections de timbres.
 JI sera vendu en outre un mobilier de peintre, d&apos;ar-
 
 chitecte et archéologue, vitrines, règles, planches à 
-dessin, pinceaux, couleurs, palettes, etc., etc. 
+dessin, pinceaux, couleurs, palettes, etc., etc. </unit>
 
 
 
 
 
 
-RED. : 
+<other>RED. : 
 
-18 
+18 </other>
 
 
-BIBLIOTHEQUE 
+<back>BIBLIOTHEQUE 
 NATIONALE 
 DE FRANCE 
 
@@ -1653,7 +1653,7 @@ CHATEAU
 DE 
 SABLE 
 
-1996 
+1996 </back>
 
 
 
