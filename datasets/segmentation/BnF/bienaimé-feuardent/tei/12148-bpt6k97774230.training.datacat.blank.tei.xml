@@ -4,13 +4,13 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>D); 
+<other>D); </other>
 
-J.-CH. GESLIN. 
+<front>J.-CH. GESLIN. </front>
 
-1 &apos; EIN T R E -A R &lt; : II1T E G T E -A R CHÉ 0 L 0 G U E 
+<other>1 &apos; EIN T R E -A R &lt; : II1T E G T E -A R CHÉ 0 L 0 G U E </other>
 
-ANCIEN INS PECTE T R DU MUSÉE DU LOUVRE 
+<front>ANCIEN INS PECTE T R DU MUSÉE DU LOUVRE 
 
 AU DÉPARTEMENT DES ANTIQUES 
 
@@ -24,11 +24,11 @@ SOCIÉTÉ ANONYME AU CAPITAL DE SIX MILLIONS
 
 Rue Bergère, 20 
 
-1888 </cover>
+1888 
 
 
 
-<title>OEUVRES ET COLLECTIONS 
+OEUVRES ET COLLECTIONS 
 
 DE 
 
@@ -65,10 +65,10 @@ Le Lundi G Février 1888, de 1 heure 1/2 à 5 heures 1/2.
 EXPOSITION PARTICULIÈRE 
 
 au domicile do J.-Ch. Geslin, 21, rue La Condamine. 
-do 1 heure à 4 heures, du 23 au 29 Jan vier. </title>
+do 1 heure à 4 heures, du 23 au 29 Jan vier. 
 
 
-<preface>La vente commencera le mardi 7 février, à 2 heures très 
+La vente commencera le mardi 7 février, à 2 heures très 
 
 précises, par les médailles et antiquités,pages 25 et suivantes. 
 
@@ -78,10 +78,10 @@ Elle sera faite expressément au comptant.
 
 Les acquéreurs paieront cinq pour cent en sus des 
 
-adjudications, applicables aux frais de. vente. </preface>
+adjudications, applicables aux frais de. vente. </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 TABLEAUX 
 
@@ -1540,7 +1540,7 @@ maçonnerie, etc.)
 Il sera vendu en outre un mobilier de peintre, d&apos;ar-
 
 chitecte et archéologue, vitrines, règles, planches à 
-dessin, pinceaux, couleurs, palettes, etc., etc. </unit>
+dessin, pinceaux, couleurs, palettes, etc., etc. </body>
 
 
 

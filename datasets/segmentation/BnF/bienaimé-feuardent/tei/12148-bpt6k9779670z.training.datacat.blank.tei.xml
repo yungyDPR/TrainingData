@@ -10,7 +10,7 @@
 
 
 
-<cover>OBJETS cn&apos;cART </cover>
+<front>OBJETS cn&apos;cART </front>
 
 
 <back>PARIS. -IMPRIMERIE DE I&apos;ILLET FILS AIXÉ 
@@ -18,7 +18,7 @@
 RUE DES GRANDS-AUGUSTINS, 5. </back>
 
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -50,10 +50,10 @@ PUBLIQUE :
 
 Les Mercredi 1er et Jeudi 2 Février 1865. 
 
-(1) Voir, pour les jours de Vente et. d&apos;Exposition, l&apos;ordre des Vacations, à la p.v. </title>
+(1) Voir, pour les jours de Vente et. d&apos;Exposition, l&apos;ordre des Vacations, à la p.v. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -143,9 +143,9 @@ tion. Nous nous sommes servis du travail de M. Dubois en y ajou-
 tant la description des objets acquis par M. le comte de Pourtalès 
 depuis la rédaction dudit catalogue (1841-1855). 
 
-(Note des Experts.) </preface>
+(Note des Experts.) 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 EXPOSITION GÉNÉRALE : 
 
@@ -891,12 +891,12 @@ Haut. Hauteur.
 Larg. Largeur. 
 Long. Longueur. 
 
-(1) Voir les planches pour la représentation des formes. </toc>
+(1) Voir les planches pour la représentation des formes. </front>
 
 
 <other>&apos; </other>
 
-<unit>DESCRIPTION 
+<body>DESCRIPTION 
 
 1 
 
@@ -15234,7 +15234,7 @@ ua
 
 
 
-DESSINS </unit>
+DESSINS </body>
 
 
 <other>l&apos;ario. -IUlp. de l&apos;ILLlr fils a7ré, rue lieS Grando&quot;,\u¡.;uotins,&apos;&gt;. </other>

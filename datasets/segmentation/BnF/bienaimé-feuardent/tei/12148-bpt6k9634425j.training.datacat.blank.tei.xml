@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>COLLECTION 
+<front>COLLECTION 
 
 D U 
 
@@ -12,13 +12,13 @@ CTE ALEXIS DE CHASTEIGNER
 
 VENTE 
 
-les Mardi 26, Mercredi 27 et Jeudi 28 Juin 1900 </cover>
+les Mardi 26, Mercredi 27 et Jeudi 28 Juin 1900 
 
 
 
 
 
-<cover>COLLECTION 
+COLLECTION 
 
 DU 
 
@@ -26,10 +26,10 @@ CTE ALEXIS DE CHASTEIGNER
 
 VENTE 
 
-les Mardi 26, Mercredi 27 et Jeudi 28 Juin 1900 </cover>
+les Mardi 26, Mercredi 27 et Jeudi 28 Juin 1900 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente se fera au comptant. 
 
@@ -37,10 +37,10 @@ Les adjudicataires payeront, en sus des enchères,
 cinq pour cent, applicables aux frais. 
 
 Les experts se réservent la faculté de réunir ou de 
-diviser les lots. </preface>
+diviser les lots. 
 
 
-<title>COLLECTION 
+COLLECTION 
 
 DU CTE ALEXIS DE CHASTEIGNER 
 
@@ -81,11 +81,11 @@ et à Londres, 6, Bloomsbury Street.
 
 PARIS 
 
-1900 </title>
+1900 </front>
 
 
 
-<unit>COLLECTION 
+<body>COLLECTION 
 
 D U 
 
@@ -2502,7 +2502,7 @@ Trouvaille de gros, demi-gros et esterlins du Prince
 Noir. -Billon, pesant environ un kilogramme. 
 
 792. Trouvaille de petits bronzes romains (Postume, 
-Tétricus, Claude II, etc.). -Environ 2.500 p. </unit>
+Tétricus, Claude II, etc.). -Environ 2.500 p. </body>
 
 
 

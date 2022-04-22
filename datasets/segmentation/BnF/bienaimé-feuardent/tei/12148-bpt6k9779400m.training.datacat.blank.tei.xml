@@ -4,16 +4,16 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>COLLECTION DE MÉDAILLES 
+<front>COLLECTION DE MÉDAILLES 
 
 DES ItOlS ET DES VILLES 
 
 --
 
-DE L&apos;ANCIENNE GRÈCE </cover>
+DE L&apos;ANCIENNE GRÈCE 
 
 
-<preface>6,000 médailles grecques, en bronze, pour étude, 
+6,000 médailles grecques, en bronze, pour étude, 
 
 , 
 
@@ -38,12 +38,12 @@ réunis par séries pour jeux de wisth, au double
 de poids, soit 40 c. le gr. 
 
 4 à 5,000 jetons des mêmes règnes, en cuivre, à 
-5 fr. et 10 fr. le cent. </preface>
+5 fr. et 10 fr. le cent. 
 
 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 OLLECTION DE MÉDAILLES 
 
@@ -62,11 +62,11 @@ PARIS
 CHEZ ROLLIN ET F EU ARDENT, ANTIQUAIRES 
 12, RUE VIVIFNNIC 
 
-1864 </title>
+1864 </front>
 
 
 
-<unit>TROISIÈME PARTIE. 
+<body>TROISIÈME PARTIE. 
 
 1 
 
@@ -20029,10 +20029,10 @@ mais bien une tête de cheval avec des cornes. C&apos;est
 sans nul doute la tête de Bucéphale, et la pièce a 
 probablement été frappée à Bucephalia. 
 Ajouter le mot bis aux légendes gravées des numéros 5761, 
-7319, 7781, 7782, 7794 et 8053. </unit>
+7319, 7781, 7782, 7794 et 8053. </body>
 
 
-<index>TABLE 
+<back>TABLE 
 
 DES PEUPLES ET DES VILLES 
 
@@ -21411,7 +21411,7 @@ CYRENAICA, 645.
 NVMIDIA, 650. 
 MAYRITANIA, 651. 
 
-La table des empereurs, impératrices, césars et tyrans </index>
+La table des empereurs, impératrices, césars et tyrans </back>
 
 
 

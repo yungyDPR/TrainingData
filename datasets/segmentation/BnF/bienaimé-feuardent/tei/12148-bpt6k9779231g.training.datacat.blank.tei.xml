@@ -4,17 +4,17 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>VENTE -
+<front>VENTE -
 
 Les 31 Mars et 1er Avril 
 
 Objetâ -I) ivezcO 
 
-PARIS -191 1 </cover>
+PARIS -191 1 
 
 
 
-<title>MONNAIES 
+MONNAIES 
 
 OBJETS DIVERS 
 
@@ -46,10 +46,10 @@ MM. ROLLIN &amp; FEUARDENT
 
 EXPOSITION PUBLIQUE: i h. avant la vente 
 
-PARIS -191 I </title>
+PARIS -191 I 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La Vente sera faite au comptant. 
 
@@ -69,10 +69,10 @@ diviser les lots.
 Ils se chargent, aux conditions habituelles 
 
 (5 °/o sur le prix d&apos;adjudication), des commissions 
-qu&apos;on voudra bien leur confier. </preface>
+qu&apos;on voudra bien leur confier. </front>
 
 
-<unit>MONNAIES ANTIQUES 
+<body>MONNAIES ANTIQUES 
 
 MONNAIES GRECQUES 
 
@@ -2311,7 +2311,7 @@ debout, portant le calice et une palme. École
 de Cologne, fin du xve siècle. 
 
 -Deux Chandeliers en cuivre argenté, aux 
-armes des Lacroix. XVIIIe siècle. </unit>
+armes des Lacroix. XVIIIe siècle. </body>
 
 
 

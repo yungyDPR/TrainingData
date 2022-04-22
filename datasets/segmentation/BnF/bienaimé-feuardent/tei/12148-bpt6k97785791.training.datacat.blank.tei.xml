@@ -4,13 +4,13 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>COLLECTION MNISZECH 
+<front>COLLECTION MNISZECH 
 
-PARIS, 1902 </cover>
+PARIS, 1902 
 
 
 
-<title>Collection mniszeeh 
+Collection mniszeeh 
 
 CATALOGUE 
 
@@ -42,19 +42,19 @@ EXPERTS
 
 MM. ROLLIN &amp; FEUARDENT 
 
-4, rue de Louvois, 4 </title>
+4, rue de Louvois, 4 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
 Les acquéreurs payeront dix pour cent en sus des adju-
 
-dications. </preface>
+dications. </front>
 
 
-<unit>MONNAIES D&apos;OR &amp; D&apos;ELECTRUM 
+<body>MONNAIES D&apos;OR &amp; D&apos;ELECTRUM 
 
 GRECQUES 
 
@@ -557,7 +557,7 @@ tiche del SrP. Vitali. Rome, i8o5. 2 vol. in-4°,br.
 139 -Quatre-vingt-seize cartons rouges, bordure dorée, 
 32X27, percés de trous de différentes grandeurs. 
 
-140 -Trente-deux tiroirs en bois, percés de trous de </unit>
+140 -Trente-deux tiroirs en bois, percés de trous de </body>
 
 
 

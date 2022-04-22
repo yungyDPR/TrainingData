@@ -14,23 +14,23 @@
 
 
 
-<cover>COLLECTION 
+<front>COLLECTION 
 
 OBJETS D&apos;ART 
 
 TAPISSERIES 
 
-MÉDAILLES -TABLEAUX </cover>
+MÉDAILLES -TABLEAUX 
 
 
 
-<cover>COLLECTION 
+COLLECTION 
 
 OBJETS D&apos;ART 
 
 TAPISSERIES 
 
-MÉDAILLES -TABLEAUX </cover>
+MÉDAILLES -TABLEAUX </front>
 
 
 <back>PARIS. -IMPRIMERIE DE L&apos;ART 
@@ -38,7 +38,7 @@ MÉDAILLES -TABLEAUX </cover>
 J. ROUAM, IMPRIMEUR-ÉDITEUR, 41, RUE DE LA VICTOIRE, 41 </back>
 
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DE S 
 
@@ -113,11 +113,11 @@ PUBLIQUE
 
 Le Dimanche 2 Mars 1884 
 
-DE UNE HEURE A CINQ HEURLS </title>
+DE UNE HEURE A CINQ HEURLS 
 
 
 
-<toc>ORDRE DES VACATIONS1 
+ORDRE DES VACATIONS1 
 
 Le Lundi 3 Mars 1884. 
 
@@ -274,10 +274,10 @@ Tapisseries
 
 Tapisseries au point ............ -403 à 
 
-Tapis ........... ........ -407 à </toc>
+Tapis ........... ........ -407 à 
 
 
-<preface>M. JOSEPH FAU, mort récemment, aura été un des 
+M. JOSEPH FAU, mort récemment, aura été un des 
 grands et des plus fervents parmi les amateurs de notre 
 temps et nous ne voulons pas laisser sa dernière collection 
 se disperser aux enchères publiques sans consacrer quel-
@@ -450,10 +450,10 @@ nombre de plus de cent cinquante, collection remarquable
 par la préférence donnée par l&apos;amateur aux médailles 
 des femmes célèbres qui y sont en majorité. 
 
-Eu G. P. </preface>
+Eu G. P. </front>
 
 
-<unit>DÉSIGNATION DES OBJETS 
+<body>DÉSIGNATION DES OBJETS 
 
 FAIENCES ITALIENNES 
 
@@ -6220,7 +6220,7 @@ Wadenoyen. Ce lot pourra être divisé.
 
 694 -LaDansedes morts. Reproductiond&apos;après Holbein. 
 
-In-12. Demi-reliure. </unit>
+In-12. Demi-reliure. </body>
 
 
 

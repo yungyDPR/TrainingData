@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>Collection de M, H, D*** 
+<front>Collection de M, H, D*** 
 
 MÉDAILLES 
 
@@ -37,10 +37,10 @@ EXPERTS
 
 Rue de Louvois, n°4 
 
-PARIS -1892 </title>
+PARIS -1892 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -50,10 +50,10 @@ dication, CINQ POUR CENT applicables aux frais.
 MM. ROLLIN ET FEUARDENT, Experts, 4, rue de 
 Louvois, se chargent à leurs conditions habituelles, 
 
-des commissions qu&apos;on voudra bien leur confier. </preface>
+des commissions qu&apos;on voudra bien leur confier. 
 
 
-<title>Collection de M. H. D. 
+Collection de M. H. D. 
 
 GRECQUES, GAULOISES, ROMAINES 
 
@@ -82,11 +82,11 @@ EXPOSITION PUBLIQUE
 
 Le jour de la vente, de une heure à deux heures 
 
-PARIS -1892 </title>
+PARIS -1892 </front>
 
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 MONNAIES D&apos;OR 
 
@@ -640,7 +640,7 @@ rel.
 
 157. Darier. Tableau de la valeur des Monnaies, 
 
-Genève, 1807, et deux autres volumes. </unit>
+Genève, 1807, et deux autres volumes. </body>
 
 
 

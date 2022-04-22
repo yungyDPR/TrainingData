@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>D&apos;UN 13 RÉUNION 
+<front>D&apos;UN 13 RÉUNION 
 
 Monnaies et Médailles, 
 
@@ -40,10 +40,10 @@ Mercredi 3 Avril 1867, à 2 heures, salle n°7.
 
 Le Dimanche 31 L Mars 1867, salle no 6. 
 
-PARIS -1867 </title>
+PARIS -1867 </front>
 
 
-<unit>VENTE DU 1er avril 1867 
+<body>VENTE DU 1er avril 1867 
 
 . 
 
@@ -120,7 +120,7 @@ par Raphaël Morghen. Suite de portraits et pièces de
 
 l&apos;École allemande. 
 
-3°DESSINS ANCIENS DES DIVERSES ÉCOLES </unit>
+3°DESSINS ANCIENS DES DIVERSES ÉCOLES </body>
 
 
 

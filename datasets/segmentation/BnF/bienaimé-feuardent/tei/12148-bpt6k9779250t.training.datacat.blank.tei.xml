@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<cover>VENTE 
+<front>VENTE 
 
 DES 20 ET 21 JUIN 1906 
 
@@ -12,13 +12,13 @@ MÉDAILLES GRECQUES
 
 PARIS 
 
-1906 </cover>
+1906 
 
 
 
 
 
-<title>MÉDAILLES GRECQUES 
+MÉDAILLES GRECQUES 
 
 D&apos;ITALIE ET DE SICILE 
 
@@ -44,10 +44,10 @@ de i à 2 heures.
 
 PARIS 
 
-1906 </title>
+1906 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La Vente sera faite au comptant. 
 Les Acquéreurs paieront dix pour cent en sus des prix d&apos;adjudi-
@@ -56,10 +56,10 @@ cation.
 
 Les experts se réservent la faculté de réunir ou de diviser les lots. 
 Ils se chargent aux conditions habituelles (5 0/0 sur le chiffre des 
-adjudications) des commissions qu&apos;on voudra bien leur confier. </preface>
+adjudications) des commissions qu&apos;on voudra bien leur confier. </front>
 
 
-<unit>MÉDAILLES GRECQUES 
+<body>MÉDAILLES GRECQUES 
 
 ÉTRURIE 
 
@@ -2574,7 +2574,7 @@ Exergue, ~eTIP. -AR8. Voir planche IV.
 
 XOY ~ETTI0ANOYZ-Jupiter deboutà g., tenant une étoile. 
 
-Exergue :~iA^IP--AR8. </unit>
+Exergue :~iA^IP--AR8. </body>
 
 
 

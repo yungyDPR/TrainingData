@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>. 
+<front>. 
 
 CATALOGUE 
 
@@ -30,17 +30,17 @@ Assisté de MM. BOLLIN et FEUARDEMT,ExI)erts,
 
 rue Louyois, 4. 
 
-PARIS -1876 </title>
+PARIS -1876 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite expressément au comptant. 
 Les Acquéreurs paieront CINQ POUR CENT, en sus des 
-adjudications, applicables aux frais de vente. </preface>
+adjudications, applicables aux frais de vente. </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 MONNAIES GRECQUES 
 
@@ -663,7 +663,7 @@ Romain Il, Jean 1er,Zimiscès. M.
 
 226. -2 pièces grecques coloniales. Auguste. Septime 
 Sévère. AE. 
-227. -28 pièces romaines fausses. </unit>
+227. -28 pièces romaines fausses. </body>
 
 
 

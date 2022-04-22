@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-ROLL 
+<other>ROLL </other>
 
 
 
@@ -68,7 +68,7 @@ DE
 
 pjcDîfsa 3)ÎSS ( §©s2asSâ §^2iîiîss°î?ïBîï §îs®ïa3 </other>
 
-<title>RUE DROUOT, N°5 
+<front>RUE DROUOT, N°5 
 
 iALLE M&quot; 5 bis 
 
@@ -99,20 +99,20 @@ IMPRIMEURS DE LA COMPAGNIE DES COMl\fISSAII1r.&apos;i-l&apos;ll[o;F.Cns,
 
 rue de Rivoli, 144. 
 
-1858 </title>
+1858 </front>
 
 
 <other>QQRPJ MIQN$ gt L&amp; VR-rtTE* </other>
 
-<preface>Elle sera faite au comptant. 
+<front>Elle sera faite au comptant. 
 
 Les acquéreurs payeront CINQ pour ren&lt; ensus des adjudica-
-tions, applicables aux frais. </preface>
+tions, applicables aux frais. </front>
 
 <other>* </other>
 
 
-<unit>CATALOGUE 
+<body>CATALOGUE 
 
 D&apos;U:iE IlICIlE COLLECTION&quot; 
 
@@ -1026,7 +1026,7 @@ conduit. Médaillon contorniate.
 
 277 Salluste. TY. PLACENS PETRONI. Trois personnages debout. -
 
-Médaillon contorniate. </unit>
+Médaillon contorniate. </body>
 
 
 

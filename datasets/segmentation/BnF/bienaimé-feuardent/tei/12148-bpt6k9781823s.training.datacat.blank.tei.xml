@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 D&apos;UNE lULLECTmN 
 
@@ -49,11 +49,11 @@ EXPOSITION PUBLIQUE
 
 1 o Mercredi 12 Mai 1869, de une heure et demie à cinq heure&apos; 
 
-PAKI^-l^G&apos;J </title>
+PAKI^-l^G&apos;J 
 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 D&apos;UNE COLLECTION 
 
@@ -90,21 +90,21 @@ EXPOSITION PUBLIQUE
 
 Le Mercredi 12 Mai 1869, de une heure et demie à cinq heures 
 
-l&apos;ARI S -18C9 </title>
+l&apos;ARI S -18C9 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 ftlle sera faite au comptant. 
 
 Les Acquéreurs paieront, en sus des adjudications, CINQ POUR 
 
-CENT. </preface>
+CENT. </front>
 
 
 
 
-<unit>MONNAIES ITALIQUES COULÉES 
+<body>MONNAIES ITALIQUES COULÉES 
 
 1. As. Tête de Janùs. 1. IV. Proue de navire. 2 pièces. AE. B. 
 Tête de Janus. 1. IV. Proue de navire (Poids réduit). 
@@ -4335,7 +4335,7 @@ URBIN
 
 PATRONUS. Le saint à cheval. Demi-écu. AR. TB. 
 
-VENISE </unit>
+VENISE </body>
 
 
 

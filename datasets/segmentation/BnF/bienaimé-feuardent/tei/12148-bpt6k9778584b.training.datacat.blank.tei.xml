@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 .. DE 
 
@@ -38,10 +38,10 @@ EXPOSITION PUBLIQUE
 
 Le Vendredi 12 Avril 1878, de midi à deux heures. 
 
-PARIS -1878 </title>
+PARIS -1878 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les Acquéreurs paieront CINQ-POUR CENT en sus des 
@@ -49,10 +49,10 @@ enchères.
 
 L&apos;Exposition mettant le Public à même de se rendre 
 compte de l&apos;état des Objets, il ne sera admis aucune récla-
-mation une fois l&apos;adjudication prononcée. </preface>
+mation une fois l&apos;adjudication prononcée. </front>
 
 
-<unit>BÉSïfiNATiON 
+<body>BÉSïfiNATiON 
 
 MONNAIES GRECQUES 
 
@@ -621,7 +621,7 @@ divisé).
 132. Sous ce numéro, sera vendu un certain nombre 
 
 d&apos;Objets de curiosité parmi lesquels un joli portrait 
-de femme inséré dans un. écu allemand creusé et </unit>
+de femme inséré dans un. écu allemand creusé et </body>
 
 
 

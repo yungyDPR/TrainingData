@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-<cover>VENTE APRÈS DÉCÈS 
+<front>VENTE APRÈS DÉCÈS 
 
 1 
 
@@ -13,7 +13,7 @@ OEUVRES ET COLLECTIONS
 
 UJ.: 
 
-J.-CH. GESLIN </cover>
+J.-CH. GESLIN </front>
 
 <other>im; I N T 1: i-: -A ii &lt; 111 T E C T K-A n c n É OLO&lt;; U K 
 
@@ -39,11 +39,11 @@ Km1 Bergère, 20
 
 
 
-<title>OEUVRES ET COLLECTIONS 
+<front>OEUVRES ET COLLECTIONS </front>
 
-1»K 
+<other>1»K </other>
 
-J.-OH. GESLIN 
+<front>J.-OH. GESLIN 
 
 Dont la vente aux enchères publiques aura lieu 
 
@@ -55,15 +55,15 @@ Les Mardi 7, Mercredi 8, Jeudi 9 Février 1888
 
 Par le ministère de M°TUAL, Commissaire-Priscur, 
 
-rue de la Victoire, .jl&gt;, 
+rue de la Victoire, .jl&gt;, </front>
 
-.\SSIST{: DE 
+<other>.\SSIST{: DE </other>
 
--MM. ROLLIN et FEUARDENT, Experts en médailles 
+<front>-MM. ROLLIN et FEUARDENT, Experts en médailles </front>
 
-(lt antiquités, rue de Louvois, 4, 
+<other>(lt antiquités, rue de Louvois, 4, </other>
 
-de M. B. LASQUIN. Expert en tableaux et curiosités, 
+<front>de M. B. LASQUIN. Expert en tableaux et curiosités, 
 
 &quot;IIC Latlilte, 12, 
 
@@ -76,23 +76,23 @@ LI&apos; Lundi G Février 1888} de 1 heure 1/2 à o heures 1/2.
 EXPOSITION PARTICULIÈRE 
 
 au domicile de J.-Cli. Geslin, 21, rue La Coiidamine. 
-de I heure à ï heures, du 2,-,&gt; au 29 Janvier. </title>
+de I heure à ï heures, du 2,-,&gt; au 29 Janvier. 
 
 
-<preface>Ln vente commencera le mardi 7 février, à 2 heures très 
+Ln vente commencera le mardi 7 février, à 2 heures très 
 
 précises, par les médailles et antiquités, pages 25 et suivantes. 
 
-CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE </front>
 
-Klle sera f&apos;;)ih&apos; expressément Itl (&apos;&lt;)j))[)t;H)L 
+<other>Klle sera f&apos;;)ih&apos; expressément Itl (&apos;&lt;)j))[)t;H)L </other>
 
-Les acquéreurs p.ticntht cinq pour cent on sus des 
+<other>Les acquéreurs p.ticntht cinq pour cent on sus des 
 
-a&lt;1ju&lt;!icat)()])s. applicables aux irais de vente. </preface>
+a&lt;1ju&lt;!icat)()])s. applicables aux irais de vente. </other>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 TABLEAUX 
 
@@ -1633,7 +1633,7 @@ Collections de timbres.
 JI sera vendu en outre un mobilier de peintre, d&apos;ar-
 
 chitecte et archéologue, vitrines, règles, planches à 
-dessin, pinceaux, couleurs, palettes, etc., etc. </unit>
+dessin, pinceaux, couleurs, palettes, etc., etc. </body>
 
 
 

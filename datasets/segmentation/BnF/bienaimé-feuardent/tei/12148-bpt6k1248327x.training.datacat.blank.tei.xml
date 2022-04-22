@@ -5,9 +5,9 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-<cover>CABINET 
+<front>CABINET 
 
-de feu </cover>
+de feu </front>
 
 <other>ik yd G. GRIGNON DEmrw 
 
@@ -18,7 +18,7 @@ l.&apos;AH¡...;. -1 -,. 11 . </other>
 
 
 
-<cover>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
+<front>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
 
 OBJETS D&apos;ART 
 
@@ -26,11 +26,11 @@ Médailles, Miniatures. Antiquités
 
 TABLEAUX 
 
-PORCELAINES &amp; FAIENCES </cover>
+PORCELAINES &amp; FAIENCES 
 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DES 
 
@@ -79,11 +79,11 @@ M. CAILLOT
 
 E X P O SITION P U B LIQU E 
 
-Le Mardi 23 Mai 1899, de i heure 1/2 à 5 heures 1/2 </title>
+Le Mardi 23 Mai 1899, de i heure 1/2 à 5 heures 1/2 </front>
 
 
 
-<unit>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
+<body>CABINET DE FEU M. G. CRIGNON DE MONTIGNY 
 
 I. OBJETS D&apos;ART 
 
@@ -3926,7 +3926,7 @@ porcelaine tendre de Chantilly; décor camaïeu bleu dit à
 
 l&apos;épi. 
 
-Diam., 20 cent. </unit>
+Diam., 20 cent. </body>
 
 
 

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -32,10 +32,10 @@ Les Mercredi 1er et Jeudi 12 Février 1865.
 
 1 
 
-(l j Voir, pour les jours de Vente et d&apos;Exposition, l&apos;ordre des Vacations, à la p. v. </title>
+(l j Voir, pour les jours de Vente et d&apos;Exposition, l&apos;ordre des Vacations, à la p. v. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les adjudicataires payeront cinq pour cent en sus des enchères. 
@@ -165,19 +165,19 @@ Exposition publique le Dimanche 2 avril 1865.
 
 De une heure à cinq heures. 
 
-LES LUNDI 3 ET MARDI 4 AVRIL </preface>
+LES LUNDI 3 ET MARDI 4 AVRIL 
 
 
-<preface>M. le comte de Pourtalès a fait dresser, en 1841, par M. Dubois, 
+M. le comte de Pourtalès a fait dresser, en 1841, par M. Dubois, 
 sous-conservateur au Musée du Louvre, le catalogue de sa collec-
 tion. Nous nous sommes servis du-travail de M. Dubois en y ajou-
 tant la description des tableaux acquis par M. le comte de Pourtalès 
 depuis la rédaction dudit catalogue (1841-1855). 
 
-(Note de l&apos;Expert.) </preface>
+(Note de l&apos;Expert.) </front>
 
 
-<unit>DESCRIPTION 
+<body>DESCRIPTION 
 
 DES 
 
@@ -5328,7 +5328,7 @@ Dessin rehaussé de blanc.
 
 VIDAL 
 
-382 -La Bohémienne. </unit>
+382 -La Bohémienne. </body>
 
 
 

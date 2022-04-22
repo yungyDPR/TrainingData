@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 D ES 
 
@@ -29,10 +29,10 @@ EXPERTS
 
 MM. ROLLIN &amp; FEUARDENT, 12, RUE VIYIENNE. 
 
-De une heure à cinq heures. </title>
+De une heure à cinq heures. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les adjudicataires payeront cinq pour cent en sus des enchères. 
@@ -110,10 +110,10 @@ GOLDSCHMIDT, Zeil.
 
 A Saint-Pétersbourg. NEGRI, père et fils. 
 A La Haye, 
-VAN GOGH, marchand d&apos;estampes. </preface>
+VAN GOGH, marchand d&apos;estampes. </front>
 
 
-<unit>DESCRIPTION 
+<body>DESCRIPTION 
 
 DES 
 
@@ -3081,7 +3081,7 @@ duc de Berry.
 les modernes, de la République, de Napoléon, etc., en 
 bronze et en argent. 
 674. -Un médailler en palisandre, contenant 40 tiroirs et 
-20 cartons à médailles. </unit>
+20 cartons à médailles. </body>
 
 
 

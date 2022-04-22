@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="en">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 PE 
 
@@ -36,10 +36,10 @@ EXPOSITION PUBLIQUE
 
 Le Dimanche 24 Mars 1878, de une heure à cin&apos;l heures 
 
-PARIS -187 8 </title>
+PARIS -187 8 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les Acquéreurs paieront CINQ POUR CENT en sus des 
@@ -49,10 +49,10 @@ enchères.
 
 L&apos;Exposition mettant le Public à même de se rendre 
 compte de l&apos;état des Objets, il ne sera admis aucune récla-
-mation une fois l&apos;adjudication prononcée. </preface>
+mation une fois l&apos;adjudication prononcée. </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 MONNAIES ANTIQUES 
 
@@ -465,7 +465,7 @@ Bronze.
 
 de fer. 
 134. Écrin contenant 6 Médailles des principales cathé-
-drales. </unit>
+drales. </body>
 
 
 

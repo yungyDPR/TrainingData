@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="en">
 
-<cover>ANTIQUITÉS 
+<front>ANTIQUITÉS 
 
 ÉGYPTIENNES, GRECQUES ET ROMAINES 
 
@@ -19,14 +19,14 @@ ALCAN-LÉVY, IMPRIMEUR BREVETÉ
 
 24, rue Chauchat, 24 
 
-1890 </cover>
+1890 
 
 
 
 
 
 
-<title>COLLECTION DE FEU M. R SABATIER 
+COLLECTION DE FEU M. R SABATIER 
 
 CATALOGUE 
 
@@ -71,10 +71,10 @@ PARIS
 
 IMPRIMERIE ALCAN-LÉVY, 24, RUE CHAUCHNf 
 
-1890 </title>
+1890 
 
 
-<preface>CONDITIONS DE LA VENTE : 
+CONDITIONS DE LA VENTE : 
 
 Elle sera faite au comptant. 
 
@@ -122,10 +122,10 @@ ments, de les photographier dans un magasin très mal éclairé,
 leur transport dans un endroit en pleine lumière aurait été trop 
 coûteux et très difficile. 
 
-R. et F. </preface>
+R. et F. </front>
 
 
-<unit>ANTIQUITÉS ÉGYPTIENNES 
+<body>ANTIQUITÉS ÉGYPTIENNES 
 
 MONUMENTS HISTORIQUES 
 
@@ -4023,10 +4023,10 @@ Haut, 1 in. Long. 2. 45.
 compartiments, montée sur pieds. 
 Hauteur 1 m. 
 
-FIN </unit>
+FIN </body>
 
 
-<toc>TABLE DES MATIÈRES 
+<front>TABLE DES MATIÈRES 
 
 AN TIYUITÉS !•;GYPTIKNNES 
 
@@ -4181,7 +4181,7 @@ Planche IV, --Statue de Api N&quot; 1.1
 
 Planche V. -Statue de Pa-ari-ma N&quot; 1 i 
 
-Planche VI. -Statue d&apos;Anubis N&quot; 252 </toc>
+Planche VI. -Statue d&apos;Anubis N&quot; 252 </front>
 
 
 
