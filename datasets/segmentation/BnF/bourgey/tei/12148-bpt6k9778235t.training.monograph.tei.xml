@@ -12,29 +12,29 @@
 
 
 
-<cover>00 
+<other>00 
 
 PI A S A 
 
 Pa r 1 s 
 
-Co111111 issaires-Priseurs 
+Co111111 issaires-Priseurs </other>
 
-NUMISMATIQUE 
+<front>NUMISMATIQUE 
 
 SABINE BOURGEY 
 
 EXPERT 
 
 HOTEL MILLENNIUM OPERA PARIS 
-LUNDI 2 -MARDI 3 AVRIL 2001 </cover>
+LUNDI 2 -MARDI 3 AVRIL 2001 </front>
 
 
-<title>PI A S A 
+<other>PI A S A 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 JEAN-LOUIS PICARD 
 
@@ -48,16 +48,16 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 
 5, RUE DROUOT 75009 PARIS 
 
-TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </title>
+TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </front>
 
 
-<title>0 
+<other>0 
 
 PI AS A 
 
-Pa r 1 5 
+Pa r 1 5 </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 VENTE À PARIS 
 HÔTEL MILLENNIUM OPÉRA PARIS 
@@ -92,22 +92,22 @@ Assesseur de la C.C.E. Douanière
 
 7 rue Drouot -75009 PARIS -Tél. 01.47.70.35.18 et 01.47.70.88.67 -Télécopie : 01.42.46.58.48 
 
-internet www.franceantiq.fr/sna/bourgey 
+internet www.franceantiq.fr/sna/bourgey </front>
 
-r 
+<other>r </other>
 
-PICARD AUDAP SOLANET &amp; ASSOCIÉS 
+<front>PICARD AUDAP SOLANET &amp; ASSOCIÉS 
 
 5, RUE DROUOT 75009 PARIS 
 
-TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE (33) 01 53 34 10 11 
+TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE (33) 01 53 34 10 11 </front>
 
-\ 
+<other>\ 
 
-, </title>
+, </other>
 
 
-<preface>La vente se fera expressément au comptant. 
+<front>La vente se fera expressément au comptant. 
 L&apos;authenticité est formellement garantie. Aucune réclamation ne sera recevable dès l&apos;adjudication prononcée, les 
 
 expositions successives ayant permis aux acquéreursde constater l&apos;état des objets présentés. 
@@ -210,16 +210,16 @@ Fine
 
 Fair 
 
-2-3/10 </preface>
+2-3/10 </front>
 
 
-<preface>PI ASA 
+<other>PI ASA 
 
 Pa r i 5 
 
-v 
+v </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 VENTE À PARIS 
 HÔTEL MILLENNIUM OPÉRA PARIS 
@@ -264,10 +264,10 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 
 5, RUE DROUOT 75009 PARIS 
 
-TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </preface>
+TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </front>
 
 
-<unit>COLLECTION AMOS 
+<body>COLLECTION AMOS 
 
 ESPAGNE et GAULE 
 
@@ -4273,10 +4273,10 @@ Billets et Projet
 
 577 Maquette de billet de 100 Francs, type 1928, pour la Banque de Madagascar. Rare et intéressant. 
 
-3.000/4.000 </unit>
+3.000/4.000 </body>
 
 
-<reference>BIBLIOGRAPHIE 
+<front>BIBLIOGRAPHIE 
 
 Pour les monnaies grecques 
 
@@ -4471,7 +4471,7 @@ Modem World Coins. USA, 1984.
 Photos Tarek Charara 
 Tél. 06.60.47.99.88 
 
-SNAG Le Havre -Tél. 02.35.22.80.51 </reference>
+SNAG Le Havre -Tél. 02.35.22.80.51 </front>
 
 
 

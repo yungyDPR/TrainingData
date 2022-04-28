@@ -14,11 +14,11 @@
 
 
 
-<cover>HOTEL DROUOT 
+<front>HOTEL DROUOT 
 
 PARIS 
 
-17 -18 -19 JUIN 1959 </cover>
+17 -18 -19 JUIN 1959 </front>
 
 
 
@@ -3524,7 +3524,7 @@ LE HAVRE </annex>
 
 
 
-<title>MONNAIES GRECQUES 
+<front>MONNAIES GRECQUES 
 
 ROMAINES, FRANÇAISES, ÉTRANGÈRES 
 
@@ -3556,10 +3556,10 @@ EXPOSITION PARTICULIÈRE :
 CHEZ M. BOURGEY, 7, RUE DROUOT, DU 2 AU 12 JUIN 1959 (jours ouvrables) 
 
 EXPOSITION PUBLIQUE : 
-LE MARDI 16 JUIN 1959, DE 14 A 18 HEURES, SALLE N°9 DE L&apos;HOTEL DROUOT </title>
+LE MARDI 16 JUIN 1959, DE 14 A 18 HEURES, SALLE N°9 DE L&apos;HOTEL DROUOT 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -3582,9 +3582,9 @@ Les numéros marqués d&apos;un astérisque sont reproduits sur les planches.
 
 Exposition particulière chez M. BOURGEY, 7, rue Drouot, du 2 au 12 juin 1959 
 
-(jours ouvrables). </preface>
+(jours ouvrables). 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Mercredi 17 Juin 1959 : du Ne 1 au NQ 286. 
 
@@ -3592,10 +3592,10 @@ Jeudi
 
 18 Juin 1959 : du N°287 au N°593. 
 
-Vendredi 19 Juin 1959 : du Ne 594 au N°879. </toc>
+Vendredi 19 Juin 1959 : du Ne 594 au N°879. 
 
 
-<reference>Collection BEMENT 
+Collection BEMENT 
 
 Monnaies Grecques antiques. Vente à Lucerne, 1924. 
 
@@ -3912,10 +3912,10 @@ T.B.
 
 B/T.B. 
 
-B. </reference>
+B. </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 (BMC. 32 p. 90 -Babelon -). Arg. 7,42 gr. Très beau. 
 
@@ -8248,18 +8248,16 @@ R). Dans une couronne, arc et flèche entre 2 palmes ; dessous, SUD et 2 branche
 Or. Superbe et vraisemblablement unique. 
 Ex. Vente Farouk. N°119. -Provenant de la Collection Green. 
 
-878* -PÉROU. </unit>
+878* -PÉROU. </body>
 
 
-<back>ANCIlNNK 
+<other>ANCIlNNK 
 
 1 MPRIM BRI 
 
-MAKCIL ETAIX 
+MAKCIL ETAIX </other>
 
-LE HAVRE 
-
-
+<back>LE HAVRE </back>
 
 
 
@@ -8305,7 +8303,9 @@ LE HAVRE
 
 
 
-TAIS KJ IL NAVAC </back>
+
+
+<other>TAIS KJ IL NAVAC </other>
 
 
 

@@ -6,7 +6,7 @@
 	<text xml:lang="fr">
 
 
-<cover>MONNAIES D&apos;OR 
+<front>MONNAIES D&apos;OR 
 
 de 
 
@@ -18,11 +18,11 @@ Trésor de Saint,&quot;, -Wan drille
 
 HOTEL DROUOT 
 
-Jeudi 3 Mars 1955 </cover>
+Jeudi 3 Mars 1955 
 
 
 
-<title>MONNAIES D&apos;OR 
+MONNAIES D&apos;OR 
 
 DE LOUIS XV 
 
@@ -39,11 +39,11 @@ A PARIS, HOTEL DES COMMISSAIRES-PRISEURS,
 
 le JEUDI 3 MARS 1955, à 14 heures précises 
 
-Me Maurice RHEIMS 
+Me Maurice RHEIMS </front>
 
-Coniiiiissa;re-priselir 
+<other>Coniiiiissa;re-priselir </other>
 
-7, rue Drouot (Tai. 
+<front>7, rue Drouot (Tai. 
 
 : 
 
@@ -59,10 +59,10 @@ chez M. Emile BOURGEY, 7, rue Drouot
 
 EXPOSITION PUBLIQUE -HOTEL DROUOT 
 
-SALLE N°9 , le Mercredi 2 Mars 1955 </title>
+SALLE N°9 , le Mercredi 2 Mars 1955 
 
 
-<preface>-
+-
 
 CONDITIONS DE LA VENTE 
 
@@ -80,16 +80,16 @@ lui seront confiés.
 Les pièces sont en or au titre de 900/1000. 
 Il sera remis à l&apos;acquéreur un certificat attestant que ces pièces 
 proviennent du &quot;Trésor de Saint-Wandrille&apos;&quot; et mentionnant : le 
-numéro du catalogue, l&apos;atelier et l&apos;année de frappe. 
+numéro du catalogue, l&apos;atelier et l&apos;année de frappe. </front>
 
 
-T 
+<other>T 
 
 1 
 
-,I-iistoire 
+,I-iistoire </other>
 
-&apos;histoire du « Trésor de Saint-Won drille » dont les journaux ont tant parlé, 
+<front>&apos;histoire du « Trésor de Saint-Won drille » dont les journaux ont tant parlé, 
 nous est remémorée de façon très précise par la « Chronique de l&apos;Abbaye » 
 où fut faite cette trouvaille. 
 
@@ -144,10 +144,10 @@ Il va de B ou Beau (pièce usagée)
 à B/T.B. 
 puis T.B. 
 Très Beau 
-et Superbe ou Splendide (pièce de conservation remarquable). </preface>
+et Superbe ou Splendide (pièce de conservation remarquable). </front>
 
 
-<unit>AIX (Différent &amp;) 
+<body>AIX (Différent &amp;) 
 
 1. 
 
@@ -1301,7 +1301,7 @@ TROYES (Différent V)
 -Autre. B/T.B. 
 
 304. 
-1734 Autre, Très Beau. </unit>
+1734 Autre, Très Beau. </body>
 
 
 <back>ANa. INP. ETAIX -Le </back>

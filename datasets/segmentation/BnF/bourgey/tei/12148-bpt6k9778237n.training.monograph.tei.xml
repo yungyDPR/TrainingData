@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 ïs&amp;tà.&lt;%6Z&gt; 
 
@@ -20,11 +20,11 @@
 
 -
 
-YaAE 2 </cover>
+YaAE 2 </other>
 
 
 
-<title>VENTE AUX ENCHÈRES PUBLIQUES À PARIS 
+<front>VENTE AUX ENCHÈRES PUBLIQUES À PARIS 
 
 NOUVEAU DROUOT -SALLE N°2 
 
@@ -73,11 +73,11 @@ les Tribunaux et les Douanes
 
 EXPOSITION PUBLIQUE 
 
-Le Mardi 8 Mars 1983 de 11 h. à 18 h. </title>
+Le Mardi 8 Mars 1983 de 11 h. à 18 h. </front>
 
 
 
-<unit>Important écrin 
+<body>Important écrin 
 
 BAGUES ornées de diamants de taille émeraude pesant 5,76 Cts. et 13,87 Cts. 
 BAGUES serties de diamants brillantés pesant 2,87 Cts. et 3,01 Cts. 
@@ -738,12 +738,12 @@ Strasbourg, 1837 ; Paris, 1840.-NAPOLÉON III. 5 Francs. Paris, 1868 (2).-50 Cen
 RÉPUBLIQUE. 10 Francs. 1967.-LÉOPOLD II de BELGIQUE. 5 Francs. 1873 (2).-
 VICTOR-EMMANUEL II d&apos;ITALIE. 5 Lires. Milan, 1875.-JETONS. Messageries Im-
 
-périales, 1809.-Commerce de vin de Paris. 1811. Octogonaux. Ens. 17p.Arg.B/T.B. à T.B. </unit>
+périales, 1809.-Commerce de vin de Paris. 1811. Octogonaux. Ens. 17p.Arg.B/T.B. à T.B. </body>
 
 <back>DRAPEAU COMPO -85400 LUÇON </back>
 
 
-<preface>CONDITIONS DE VENTE 
+<front>CONDITIONS DE VENTE 
 
 Elle sera faite au comptant 
 
@@ -768,7 +768,7 @@ Télex
 
 Nouveau Drouot 
 
-642-260 </preface>
+642-260 </front>
 
 
 

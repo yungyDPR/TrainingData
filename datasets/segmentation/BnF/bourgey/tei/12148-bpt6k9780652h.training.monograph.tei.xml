@@ -14,7 +14,7 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
@@ -22,7 +22,7 @@
 
 [texte_manquant] 
 
-HPivflIH 1989 </cover>
+HPivflIH 1989 </other>
 
 
 
@@ -885,7 +885,7 @@ II II II I I
 -----------------</annex>
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 GRECQUES, ROMAINES et BYZANTINES 
 
@@ -927,10 +927,10 @@ Chez M. Emile Bourgey -7, rue Drouot, du 4 au 18 avril inclus 6iours ouvrables)
 
 GIE DE COMMISSAIRES PRISEURS 
 Etudes : de CAGNY, S.C.P. CARDINET-KALCK, DEURBERGUE 
-DUMOUSSET, S.C.P. HOEBANX-COUTURIER, RIBEYRE </title>
+DUMOUSSET, S.C.P. HOEBANX-COUTURIER, RIBEYRE 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -1111,10 +1111,10 @@ le plaisir de construire ou d&apos;augmenter sa collection, de parfaire ses conn
 
 une nouvelle joie de vivre. 
 
-E.B </preface>
+E.B 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -1484,10 +1484,10 @@ LA RÉPUBLIQUE ROMAINE, FONDS BOURGEY
 
 Par Sabine BOURGEY, Guy DEPEYROT CNRS 
 
-EDITIONS ERRANCE -88 -PARIS </reference>
+EDITIONS ERRANCE -88 -PARIS </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 (En Argent sauf indication contraire) 
 
@@ -3256,7 +3256,7 @@ B/T.B. et T.B.
 Ens. 20 p. Arg. ou Bill. B/T.B. 
 
 et T.B. 
-1.200/1.500 </unit>
+1.200/1.500 </body>
 
 
 

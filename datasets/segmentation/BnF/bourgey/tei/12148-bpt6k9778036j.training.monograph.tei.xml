@@ -14,11 +14,11 @@
 
 
 
-<cover>p1 A S A 
+<other>p1 A S A 
 
-Pa r i s 
+Pa r i s </other>
 
-PICARD AUDAP SOLANET &amp; ASSOCIÉS 
+<front>PICARD AUDAP SOLANET &amp; ASSOCIÉS 
 
 COMMISSAIRES -PRISEURS 
 
@@ -27,14 +27,14 @@ Expert
 
 HÔTEL AMBASSADOR 
 
-LUNDI 8 MARS 1999 </cover>
+LUNDI 8 MARS 1999 </front>
 
 
-<title>PI AS A 
+<other>PI AS A 
 
-Pa r i s 
+Pa r i s </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 JEAN-LOUIS PICARD 
 
@@ -49,14 +49,14 @@ PHILLIPS : 101 NEW BOND STREET LONDON WIYOAS TELEPHONE: (44) 171 629 6602 -FAX: 
 
 PARIS -LONDRES -
 GENÈVE 
--NEW YORK </title>
+-NEW YORK </front>
 
 
-<title>PI AS A 
+<other>PI AS A 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 VENTE A PARIS 
 HÔTEL AMBASSADOR 
@@ -105,15 +105,15 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 
 TÉLÉPHONE : (B) 01 53 34 10 10 -TÉLÉCOPIE 
 
-: (B) 01 53 34 10 II </title>
+: (B) 01 53 34 10 II </front>
 
 
 
-<title>PI AS A 
+<other>PI AS A 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-Commissaires-Priseurs 
+<front>Commissaires-Priseurs 
 
 HÔTEL AMBASSADOR 
 
@@ -165,10 +165,10 @@ TÉLÉPHONE :
 
 (33) 01 53 34 10 10 -
 
-TÉLÉCOPIE : (3) 01 53 34 10 II </title>
+TÉLÉCOPIE : (3) 01 53 34 10 II 
 
 
-<preface>La vente se fera expressément au comptant. 
+La vente se fera expressément au comptant. 
 Aucune réclamation ne sera recevable dès l&apos;adjudication prononcée, les expositions successives ayant permis 
 aux acquéreurs de constater l&apos;état des objets présentés. 
 
@@ -271,10 +271,10 @@ Fair
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 1 
 
@@ -5228,24 +5228,24 @@ Thaler, 1820. -Frédéric le Grand. Thaler, 1784. -George III. 5 shillings, 1804
 
 -Yun-Nan. cuivre, 1896 -20 cash, 1906. -General T&apos;ang. 50 cash. Ens. 14 p. T. B. 
 
-200/300 </unit>
+200/300 </body>
 
 
 <back>NOTES 
 
 
-NOTES 
+NOTES </back>
 
 
-PI AS A 
+<other>PI AS A </other>
 
-Commissaires-Priseurs 
+<back>Commissaires-Priseurs </back>
 
-Pa r i s 
+<other>Pa r i s </other>
 
 PlCARD AUDAP SOLANET &amp; ASSOCIÉS 
 
-5, RUE DROUOT 75009 PARIS 
+<back>5, RUE DROUOT 75009 PARIS 
 
 TELEPHONE (33) 01 53 34 10 10 -
 TÉLÉCOPIE (33) 01 53 34 10 11 
@@ -5255,10 +5255,10 @@ CORRESPONDANTSEN BELGIQUE :
 MICHEL WITTAMER ET PRINCESSE W. DE LIGNE 
 404 A. AVENUE LOUISE -105o BRUXELLES 
 
-TELEPHONE : (32 2) 640 56 45 
+TELEPHONE : (32 2) 640 56 45 </back>
 
 
-CVY*9».044S?150 </back>
+<other>CVY*9».044S?150 </other>
 
 
 

@@ -17,7 +17,7 @@
 
 
 
-<preface>COMMISSAIRE PRISEUR HABILITÉE 
+<front>COMMISSAIRE PRISEUR HABILITÉE 
 
 MAR!ELLE DIGARD 
 
@@ -90,18 +90,18 @@ MADAME LEBRUN 01 45 61 1 4 66
 
 ENCADREMENTS MODERNES 
 
-JOHNNY BORG 01 42 22 57 96 
+JOHNNY BORG 01 42 22 57 96 </front>
 
-^VL 
+<other>^VL </other>
 
-PRIMEUR 
+<front>PRIMEUR 
 
 LYIR PIERRE GRADENIGO 
 
-1 IMPRIMERIESTIPA 01 48 18 20 20 </preface>
+1 IMPRIMERIESTIPA 01 48 18 20 20 
 
 
-<title>DIGARD 
+DIGARD 
 
 COMMISSAIRE-PRISEUR JUDICIAIRE 
 MAISON DE VENTES VOLONTAIRES 
@@ -235,10 +235,10 @@ MonsieurDominique LIBERT
 T (33) 04 92 97 56 92 
 F : (33) 04 92 97 56 92 
 P : (33) 06 15 10 45 95 
-dominiquelibert@Wanadoo.fr </title>
+dominiquelibert@Wanadoo.fr </front>
 
 
-<unit>Livres Anciens et Modernes 
+<body>Livres Anciens et Modernes 
 
 BASE 
 
@@ -4756,10 +4756,10 @@ Début du XVIIIe siècle
 
 306 
 
-AUBUSSON </unit>
+AUBUSSON </body>
 
 
-<preface>CONDmONS DE VENTE 
+<front>CONDmONS DE VENTE 
 
 DIGARDM.V.V. est une société de ventesvolontairesde meubles aux enchères 
 publiquesrégie par la loi du 10 juillet2000. En cette qualitéDIGARDM.V.Vagit 
@@ -5012,16 +5012,16 @@ l&apos;inapplicabilité des autres.
 La loi française seule régit les présentesconditionsgénérales d&apos;achat. 
 Toute contestationrelativeà leur existence, leurvalidité,leuropposabilitéà tout 
 enchérisseur et acquéreur,et à leur exécution sera tranchée par le tribunal 
-compétentdu ressortde Paris ( France). </preface>
+compétentdu ressortde Paris ( France). </front>
 
 <back>©Marielle DIGARD -Pierre GRADENIGO2004 
 Conceptionet réalisation : ImprimerieSTIPA -N°4106171 
 93100 MontreuH-sous-Bois -Téléphone : 01 48 18 20 20 
-Photographie : Jaime Ocampo-Rangel 
+Photographie : Jaime Ocampo-Rangel </back>
 
 
 
-[texte_manquant] 
+<other>[texte_manquant] 
 
 H 
 
@@ -5035,7 +5035,7 @@ H
 
 II] 
 
-mm </back>
+mm </other>
 
 
 

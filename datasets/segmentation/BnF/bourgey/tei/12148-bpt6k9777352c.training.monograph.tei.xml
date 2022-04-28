@@ -14,11 +14,11 @@
 
 
 
-<cover>wnewle~.6w 
+<other>wnewle~.6w 
 
-f%è?ne wz/z&amp;J 
+f%è?ne wz/z&amp;J </other>
 
-MONNAIES 
+<front>MONNAIES 
 
 PAPIER MONNAIE 
 
@@ -26,15 +26,15 @@ ASSIGNATS
 
 ROUEN 
 
-13-14-15 NOVEMBRE 1992 
+13-14-15 NOVEMBRE 1992 </front>
 
-[texte_manquant] </cover>
+<other>[texte_manquant] </other>
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] </other>
 
-MONNAIES 
+<front>MONNAIES 
 
 GRECQUES, ROMAINES, BYZANTINES, GAULOISES 
 
@@ -47,11 +47,11 @@ IMPORTANTE SÉRIE D&apos;ASSIGNATS
 
 ROUEN 
 
-13 -14 -15 NOVEMBRE 1992 </cover>
+13 -14 -15 NOVEMBRE 1992 
 
 
 
-<title>VENTE AUX ENCHERES PUBLIQUES 
+VENTE AUX ENCHERES PUBLIQUES 
 
 ROUEN 
 
@@ -65,11 +65,11 @@ VENDREDI 13, SAMEDI 14
 
 et DIMANCHE 15 NOVEMBRE 1992 
 
-(à 10 h et 14 h) 
+(à 10 h et 14 h) </front>
 
-[texte_manquant] 
+<other>[texte_manquant] </other>
 
-CHRISTIAN DENESLE 
+<front>CHRISTIAN DENESLE 
 
 Commissaire-Priseur 
 20, rue Croix de Fer -76000 ROUEN 
@@ -123,10 +123,10 @@ ROUEN
 Place Jacques Lelieur 
 
 Jeudi 12 novembre de 14 h à 18 h 
-pour la totalité de la vente </title>
+pour la totalité de la vente 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -154,9 +154,9 @@ In addition to the sale price, the buyers will have to pay the following charges
 
 Bids may be placed through the Experts, by using the enclosed order. 
 
-The conditions of sale are subject to existing French regulations regarding public auctions. </preface>
+The conditions of sale are subject to existing French regulations regarding public auctions. 
 
-<toc>ORDRESDES VACATIONS 
+ORDRESDES VACATIONS 
 
 Vendredi 13 à 10 h 
 
@@ -188,9 +188,9 @@ n-1416 à 1591
 n&quot; 1591 à 2166 
 
 L&apos;assistance des experts est limitée aux numéros qu&apos;ils ont décrit : 
-Mr BOURGEY et Mme BOURGEY-LOUISn°1 à 411, Mrs KAMPMANN ET RENAUD nC18 412 à la fin. </toc>
+Mr BOURGEY et Mme BOURGEY-LOUISn°1 à 411, Mrs KAMPMANN ET RENAUD nC18 412 à la fin. 
 
-<preface>-ÉTATS DE CONSERVATION INDIQUÉS -
+-ÉTATS DE CONSERVATION INDIQUÉS -
 
 F.D.C. : Fleur de Coin 
 
@@ -235,10 +235,10 @@ Fair
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 MONNAIES GRECQUES 
 
@@ -497,10 +497,10 @@ Supplément dans &quot;Le Gnomon&quot;, bulletin n047 de janvier 1986.
 MM. 
 Médailles françaises dont les coins sont conservés au Musée monétaire. Paris, 1892. 
 Zirkel. 
-HamburgischeZirckel-correspondenz.Medaillenwerk.Hamburg 1902. </reference>
+HamburgischeZirckel-correspondenz.Medaillenwerk.Hamburg 1902. </front>
 
 
-<unit>MONNAIES ROMAINES ET BYZANTINES EN OR 
+<body>MONNAIES ROMAINES ET BYZANTINES EN OR 
 
 1 -CONSTANCEll. (337-361). Solidus.(347-355). Antioche (RIC. 81 p. 518). 4g47. SuperbeffrèsBeau. 
 2500/3.000 
@@ -5882,12 +5882,12 @@ Monnaiesde siège
 BG.461. Bronze. 
 
 Lot de 7 monnaies 
-TB 1.200 
+TB 1.200 </body>
 
-[texte_manquant] 
+<other>[texte_manquant] </other>
 
 
-PAPIER-MONNAIE 
+<body>PAPIER-MONNAIE 
 
 LES BILLETS DES BANQUES DE LAW 
 
@@ -11311,7 +11311,7 @@ Excellent état. 700
 II 1848-1967, 310 pp; ill. 
 
 Deux volumes brochés, 
-Excellent état 700 </unit>
+Excellent état 700 </body>
 
 
 

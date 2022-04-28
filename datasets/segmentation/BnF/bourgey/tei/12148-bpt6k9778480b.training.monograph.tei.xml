@@ -4,15 +4,15 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>BOU 
+<other>BOU 
 1954 
-DEC 7 
+DEC 7 </other>
 
 
 
 
 
-MONNAIES 
+<front>MONNAIES 
 
 GAULOISES 
 
@@ -28,11 +28,11 @@ VENTE HOTEL DROUOT
 
 SALLE N&quot; 8 
 
-LE MARDI 7 DÉCEMBRE 1954 </cover>
+LE MARDI 7 DÉCEMBRE 1954 
 
 
 
-<title>MONNAIES 
+MONNAIES 
 
 GAULOISES 
 
@@ -58,10 +58,10 @@ M. Émile BOURGEY
 
 EXPERT 
 
-7, rue Drouot, PARIS </title>
+7, rue Drouot, PARIS 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 Les acquéreurs paieront 21,20 pour cent en sus des enchères, 
@@ -73,9 +73,9 @@ diviser ou réunir les lots.
 
 Exposition Particulière chez l&apos;Expert du 2 au 6 Décembre 1954 
 
-(Pro 88-67). </preface>
+(Pro 88-67). 
 
-<reference>RÉFÉRENCES 
+RÉFÉRENCES 
 
 BABELON (E.) : Monnaies Consulaires. 
 
@@ -86,10 +86,10 @@ HOFFMANN : Monnaies Royales de France.
 LAFAURIE : Monnaies des Rois de France. 
 V. G. : Monnaies Françaises. 1774-1942. 
 KENYON : The gold coins of England. 
-Poey D&apos;AVANT : Monnaies Féodales. </reference>
+Poey D&apos;AVANT : Monnaies Féodales. </front>
 
 
-<unit>MONNAIES GAULOISES 
+<body>MONNAIES GAULOISES 
 
 1. Massilia. (Trésor d&apos;Auriol). Satyre accroupi à dr. Carré creux quadri-
 partit. (LT. -). Arg. TB. Rare. 
@@ -1002,7 +1002,7 @@ Ens. 5 vol. Tirages à part -Listes
 
 299. Coll. E. de P. 2e partie. FOVILLE. Coll. Prosper Valton. lre partie. 
 
-Ens. 2 vol. br. </unit>
+Ens. 2 vol. br. </body>
 
 
 

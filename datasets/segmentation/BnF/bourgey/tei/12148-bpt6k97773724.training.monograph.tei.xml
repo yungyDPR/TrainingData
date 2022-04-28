@@ -14,9 +14,9 @@
 
 
 
-<cover>MONN IES 
+<other>MONN IES </other>
 
-GRECQUES 
+<front>GRECQUES 
 
 ROMAINES, BYZANTINES 
 
@@ -25,7 +25,7 @@ FRANÇAISES &amp; ÉTRANGE F
 HOTEL DROUOT 
 
 PARIS 
-4 MARS 1960 </cover>
+4 MARS 1960 </front>
 
 
 
@@ -3043,7 +3043,7 @@ retiré
 
 
 
-<title>MONNAIES GRECQUES 
+<front>MONNAIES GRECQUES 
 
 ROMAINES, BYZANTINES, 
 
@@ -3075,10 +3075,10 @@ EXPOSITION PARTICULIÈRE :
 CHEZ M. BOURGEY, 7, RUE DROUOT, DU 22 FÉVRIER AU 2 MARS 1960 (jours ouvrables) 
 
 EXPOSITION PUBLIQUE : 
-LE JEUDI 3 MARS 1960, DE 14 A 18 HEURES, SALLE N°12 DE L&apos;HOTEL DROUOT </title>
+LE JEUDI 3 MARS 1960, DE 14 A 18 HEURES, SALLE N°12 DE L&apos;HOTEL DROUOT 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -3100,9 +3100,9 @@ Les numéros marqués d&apos;un astérisque sont reproduits sur les planches.
 EXPOSITION PARTICULIERE 
 
 La Collection pourra être examinée dans les bureaux de l&apos;Expert, M. BOURGEY, 
-7, rue Drouot, du 22 Février au 2 Mars 1960 (jours ouvrables). </preface>
+7, rue Drouot, du 22 Février au 2 Mars 1960 (jours ouvrables). 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 -L&apos;après-midi, de 14 h. à 18 h. : 
 
@@ -3125,11 +3125,11 @@ et
 
 Lots de Monnaies Etrangères. Médailliers 
 
-Non 536 à 542. </toc>
+Non 536 à 542. 
 
 
 
-<reference>POUR LES MONNAIES GAULOISES ET FRANÇAISES : 
+POUR LES MONNAIES GAULOISES ET FRANÇAISES : 
 
 LA TOUR 
 
@@ -3278,9 +3278,9 @@ POUR LES JETONS :
 
 FEUARDENT 
 
-Jetons et Méreaux. Paris, Londres, 1904-1915. </reference>
+Jetons et Méreaux. Paris, Londres, 1904-1915. 
 
-<preface>Les états de conservation sont indiqués de la façon suivante, par ordre décroissant : 
+Les états de conservation sont indiqués de la façon suivante, par ordre décroissant : 
 
 F.D.C. = Fleur de Coin 
 
@@ -3292,10 +3292,10 @@ TJ3.
 
 B/T.B. 
 
-B. </preface>
+B. </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 ITALIE ET SICILE 
 
@@ -6169,18 +6169,16 @@ et suisses. Arg. 183 p. et 3 bractéates. Sera divisé. B/T.B. et T.B.
 
 diamètre. 
 
--MEDAILLIER en bouleau. Hauteur : 58 cm. Largeur : 53 cm. Profondeur : 37 cm. </unit>
+-MEDAILLIER en bouleau. Hauteur : 58 cm. Largeur : 53 cm. Profondeur : 37 cm. </body>
 
 
 <back>ANCIENNE 
 
-IMPRIMERIE 
+IMPRIMERIE </back>
 
-E T A 1 X 
+<other>E T A 1 X </other>
 
-LE HAVRE 
-
-
+<back>LE HAVRE </back>
 
 
 
@@ -6202,7 +6200,9 @@ LE HAVRE
 
 
 
-ANC IMF FI.,-.. </back>
+
+
+<other>ANC IMF FI.,-.. </other>
 
 
 

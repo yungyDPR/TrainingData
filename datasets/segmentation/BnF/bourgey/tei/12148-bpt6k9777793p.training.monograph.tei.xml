@@ -13,11 +13,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] </other>
 
 
 
-E. et S. BOURGEY 
+<front>E. et S. BOURGEY 
 
 Experts en Monnaies et Médailles 
 
@@ -25,7 +25,7 @@ Experts en Monnaies et Médailles
 
 75009 PARIS 
 
-VENTE des2-3-4JUIN1988 </cover>
+VENTE des2-3-4JUIN1988 </front>
 
 <annex>RESULTAT des ENCHERES 
 
@@ -5658,7 +5658,7 @@ Estimations
 LOCÉANE GRAPHIQUE -B.P. 431 -76057 LE HAVRE Cedex </annex>
 
 
-<title>MÉDAILLES ARTISTIQUES 
+<front>MÉDAILLES ARTISTIQUES 
 
 MONNAIES 
 
@@ -5726,10 +5726,10 @@ Le mercredi 1er juin, de Il h à 18 h -Salle n°2
 
 EXPOSITION PRIVÉE 
 
-Chez M. Emile Bourgey -7, rue Drouot, du 13 au 28 mai (jours ouvrables) </title>
+Chez M. Emile Bourgey -7, rue Drouot, du 13 au 28 mai (jours ouvrables) 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -5762,13 +5762,13 @@ Bids may be placed through the Experts, by using the enclosed order.
 Tel. : (1) 47.70.88.67 and 47.70.35.18. 
 The conditions of sale are subject to existing French regulations regarding public auctions. 
 
-Seront inscrits sur les procès-verbaux de 
+Seront inscrits sur les procès-verbaux de </front>
 
-~-&gt;t 
+<other>~-&gt;t </other>
 
-7rPî,9ARD -TAlAN, Commissaires-Priseurs à Paris, les numéros 1, 2, 4 à 9, 11, 14, 15, 17, 18, 
+<other>7rPî,9ARD -TAlAN, Commissaires-Priseurs à Paris, les numéros 1, 2, 4 à 9, 11, 14, 15, 17, 18, </other>
 
-20, 22, 23, 25, 29, 32, 35, 36, 39, 41, 42, 45 à 47, 49, 52, 54 à 56, 58, 60, 61, 63 à 66, 69, 70à&apos; 72 73, 75,à 78 à 8o&apos; 82&apos; 8l&apos; 
+<front>20, 22, 23, 25, 29, 32, 35, 36, 39, 41, 42, 45 à 47, 49, 52, 54 à 56, 58, 60, 61, 63 à 66, 69, 70à&apos; 72 73, 75,à 78 à 8o&apos; 82&apos; 8l&apos; 
 
 86,88 90 100, 101, 103, 104, 106, 109, 110, 114, 117, 118, 120, 121, 124, 127, 131 
 
@@ -5804,9 +5804,9 @@ COUTURIER -de NICOLAY, Commissaires-Priseurs à Paris, les numéros 129, 144, 22
 Maître DUMOUSSET, Commissaire-Priseur à Paris, les numéros 94 à 97, 99. 
 Maître LOUDMER, Commissaire-Priseur à Paris, le numéro 667. 
 
-Maîtres OGER -DUMONT, Commissaires-Priseurs à Paris, les numéros 705, 712 à 714, 716. </preface>
+Maîtres OGER -DUMONT, Commissaires-Priseurs à Paris, les numéros 705, 712 à 714, 716. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le jeudi 2 juin 1988 à 14 h 
 
@@ -5823,9 +5823,9 @@ Le samedi 4 juin 1988 à 14 h
 Nos 529 à la fin 
 
 Monnaies féodales, étrangères. 
-Lots. Ouvrages numismatiques. Médailliers. </toc>
+Lots. Ouvrages numismatiques. Médailliers. 
 
-<preface>-ÉTATS DE CONSERVATION INDIQUÉS -
+-ÉTATS DE CONSERVATION INDIQUÉS -
 
 F.D.C. : Fleur de Coin 
 
@@ -5968,10 +5968,10 @@ gal de Minas Gerais en 1725.
 Publiques ainsi que des médailliers portatifs clôtureront cette Vente qui, par son im-
 portance, englobe presque toutes les séries numismatiques. 
 
-E. BOURGEY </preface>
+E. BOURGEY 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -6363,10 +6363,10 @@ J. WALKER. A catalogue of the Arab-Byzantine and Post-Reform Umaiyad Coins. Lond
 
 Yeo. 
 
-R.S. YEOMAN. A catalog of Modern World Coins. 1850-1964. 12th ed. Racine, Wisconsin, 1978. </reference>
+R.S. YEOMAN. A catalog of Modern World Coins. 1850-1964. 12th ed. Racine, Wisconsin, 1978. </front>
 
 
-<unit>Le jeudi 2 juin à 14 h 
+<body>Le jeudi 2 juin à 14 h 
 
 MONNAIES GRECQUES 
 
@@ -9482,7 +9482,7 @@ MÉDAILLIERS
 
 719 -Médaillier en bois noir. Hauteur 25,5 cm. Largeur 42 cm. Profondeur 30 cm. 7 tiroirs. Fermant 
 
-à clef. </unit>
+à clef. </body>
 
 
 <back>Photos Sté T. MUENKEL -Friedrichstr. 1 -6900 Heidelberg -R.F.A. </back>

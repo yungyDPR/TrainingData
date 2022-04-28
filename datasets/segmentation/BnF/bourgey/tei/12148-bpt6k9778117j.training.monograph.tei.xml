@@ -14,7 +14,7 @@
 
 
 
-<title>MINISTERE DES FINANCES 
+<front>MINISTERE DES FINANCES 
 
 SERVICE DES DOMAINES 
 
@@ -48,10 +48,10 @@ RENSEIGNEMENTS : Direction du S.C.V.M. {Bureau Commercial)
 104, Rue de Richelieu à PARIS 20. 
 Tél. RIC. 63-46 
 
-1 </title>
+1 </front>
 
 
-<unit>Lots 
+<body>Lots 
 
 Vis it le s. au l ieu de l a vente : 
 
@@ -325,13 +325,13 @@ I
 63 -7cu aux insignes. Bordeaux, 1702. Ecu aux&apos;8 L, 2è^e type. Lyon 
 1705. (H. 155.17-1). 2 p. B et E/TB. 
 
-.1i </unit>
+.1i </body>
 
-<preface>CLÂU3E3 ET CONDITIONS PARTICULIERES 
+<front>CLÂU3E3 ET CONDITIONS PARTICULIERES </front>
 
-j 
+<other>j </other>
 
-ORDRE DE LA VENTE : 
+<front>ORDRE DE LA VENTE : 
 
 .. 
 
@@ -380,7 +380,7 @@ abonner ou de vous réabonner au &quot;BULLETIN OFFICIEL D&apos;ANNONCES DE
 
 L1 ADMINISTRATION DES DONAINES&quot; qui signale toutes, les ventes , 
 
-locations, appels d&apos;offres, etc... de l&apos;A.dministration. </preface>
+locations, appels d&apos;offres, etc... de l&apos;A.dministration. </front>
 
 
 

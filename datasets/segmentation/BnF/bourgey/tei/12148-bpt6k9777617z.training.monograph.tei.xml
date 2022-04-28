@@ -14,9 +14,9 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -1160,7 +1160,7 @@ K
 
 
 
-<title>EXCEPTIONNELLE COLLECTION 
+<front>EXCEPTIONNELLE COLLECTION 
 
 DE 
 
@@ -1205,10 +1205,10 @@ Chez M. Emile Bourgey -7, rue Drouot, du 21 novembre au 2 décembre inclus (jour
 GIE DE COMMISSAIRES PRISEURS 
 
 Etudes : de CAGNY, S.C.P. CARDINET-KALCK, DEURBERGUE 
-DUMOUSSET, S.C.P. HOEBANX-COUTURIER, RIBEYRE </title>
+DUMOUSSET, S.C.P. HOEBANX-COUTURIER, RIBEYRE 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -1366,11 +1366,11 @@ plaisir du collectionneur de voir rassemblées avec beaucoup d&apos;homogénéit
 goût, les différentes étapes de l&apos;Histoire de France à travers ces documents concrets 
 et vivants que sont les Monnaies. 
 
-E. B. </preface>
+E. B. </front>
 
 
 
-<unit>MONNAIES GAULOISES 
+<body>MONNAIES GAULOISES 
 
 *1 -
 
@@ -2422,10 +2422,10 @@ divers.
 F.D.C. 
 
 -Essais et piéforts divers dont Ecu Européen. Ecrin avec 2 pièces de 10 Francs Hugues Capet en Argent. Ens. 
-23 p. Arg. et Alliage. F.D.C. </unit>
+23 p. Arg. et Alliage. F.D.C. </body>
 
 
-<reference>BIBLIOGRAPHIE 
+<front>BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GAULOISES ET MÉROVINGIENNES : 
 
@@ -2522,7 +2522,7 @@ F. POEY D&apos;AVANT. Monnaies féodales de France. Paris, 1858-1862
 
 -
 
-A. DE WITTE. Histoire monétaire des comtes de Louvain, ducs de Brabant. Anvers, 1894-1899. </reference>
+A. DE WITTE. Histoire monétaire des comtes de Louvain, ducs de Brabant. Anvers, 1894-1899. </front>
 
 <back>Photos Sté T. MUENKEL -Friedrichstr. 1 -6900 Heldelberg -R.F.A. 
 

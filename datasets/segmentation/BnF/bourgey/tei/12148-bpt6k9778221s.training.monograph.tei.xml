@@ -14,9 +14,9 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -4419,7 +4419,7 @@ W
 t cr:&quot; </annex>
 
 
-<title>COLLECTION 
+<front>COLLECTION 
 
 DE 
 
@@ -4458,10 +4458,10 @@ Mlle Sabine BOURGEY
 
 Expert Cassation Hon., Douanes, Domaines 
 Expert 
-7, rue Drouot, 75009 PARIS -Tél. : (1) 47.70.88.67 et 47.70.35.18 </title>
+7, rue Drouot, 75009 PARIS -Tél. : (1) 47.70.88.67 et 47.70.35.18 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -4495,9 +4495,9 @@ Bids may be placed through Mr. Emile BOURGEY, by using the enclosed oder blank.
 
 Tél. : (1) 47.70.88.67 et 35.18. 
 
-The conditions of sale are subject to existing French regulations regarding public auctions. </preface>
+The conditions of sale are subject to existing French regulations regarding public auctions. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le mardi 18 novembre 14 h 15 Nosl à 227 
 Monnaies grecques, romaines, gauloises, mérovingiennes, 
@@ -4508,9 +4508,9 @@ Le mercreci 19 novembre 14 h 15 Nos 228 à la fin
 
 Monnaies françaises de Louis XV à nos jours. Monnaies 
 
-féodales, coloniales, étrangères, Livres, Médailliers. </toc>
+féodales, coloniales, étrangères, Livres, Médailliers. 
 
-<preface>-ETATS DE CONSERVATION INDIQUÉS -
+-ETATS DE CONSERVATION INDIQUÉS -
 
 F.D.C. Fleur de coin 
 
@@ -4560,10 +4560,10 @@ Les numéros reproduits sur les planches sont précédés d&apos;un astérisque
 
 The numbers identified with an asterisk are illustrated on the plates 
 
-. </preface>
+. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES ANTIQUES : 
 
@@ -4763,11 +4763,11 @@ J. SCHULMAN. Nederlandse Munten. 1795-1969. Amsterdam, 1969.
 
 S. 
 
-H.A. SEABY. Coins of England and the United Kingdom. 16e éd. Londres, 1978. </reference>
+H.A. SEABY. Coins of England and the United Kingdom. 16e éd. Londres, 1978. </front>
 
 
 
-<unit>Le mardi 18 novembre à 14 h 15 
+<body>Le mardi 18 novembre à 14 h 15 
 
 MONNAIES ANTIQUES 
 
@@ -6493,7 +6493,7 @@ français (dont vtes Lambert du Logis, Richard, Tasbille, Bramsen).
 -Médaillierportatif en acajou. L. : 42 cm -P. : 35 cm -H. : 37 cm. 25 tiroirs de 30 cases de 45 mm. 
 2 poignées. Fermant à clef. Très bon état. Rare. 
 
--Médaillier portatif en acajou semblable. Très bon état. Rare. </unit>
+-Médaillier portatif en acajou semblable. Très bon état. Rare. </body>
 
 
 <back>NOTES 

@@ -14,15 +14,15 @@
 
 
 
-<cover>NUMISMATIQUE 
+<front>NUMISMATIQUE </front>
 
--
+<other>-
 
 f^i^kW!Î5riawi]:wiiMi^ViiBJâ?Î 
 
 Lelundi 4 et le mardi 5 mai LIllèliri 
 
-BOlf&gt; </cover>
+BOlf&gt; </other>
 
 
 
@@ -4144,7 +4144,7 @@ I
 
 
 
-<title>Monnaies de Collection 
+<front>Monnaies de Collection 
 
 GRECQUES -ROMAINES -BYZANTINES 
 
@@ -4164,11 +4164,11 @@ Le mardi 5 mai 1987 à 14 h 15
 
 par le ministère de : 
 
-Me Jean-Paul COUTURIER -Me Raymond de NICOLAY 
+Me Jean-Paul COUTURIER -Me Raymond de NICOLAY </front>
 
-(&apos;o m m /.s.SY// res-p riseu rs assoc 1. és 
+<other>(&apos;o m m /.s.SY// res-p riseu rs assoc 1. és </other>
 
-51, rue de Bellechasse, 75007 PARIS -Tél. : 45.55.85.44 
+<front>51, rue de Bellechasse, 75007 PARIS -Tél. : 45.55.85.44 
 
 Me Antoine ADER 
 Me Rémi ADER 
@@ -4201,12 +4201,12 @@ Expert
 7, rue Drouot, 75009 PARIS -Tél. : (1) 47.70.88.67 et 47.70.35.18 
 
 EXPOSITION PRIVÉE 
-Chez M. Emile Bourgey -7, rue Drouot, du 21 au 29 ai,t-il avri/1987(jours ouvrables) </title>
+Chez M. Emile Bourgey -7, rue Drouot, du 21 au 29 ai,t-il avri/1987(jours ouvrables) </front>
 
 
-<preface>nb-10 &apos;07-1987-23866 
+<other>nb-10 &apos;07-1987-23866 </other>
 
-CONDITIONS DE VENTE 
+<front>CONDITIONS DE VENTE 
 
 La vente sera faite au comptant 
 
@@ -4436,7 +4436,7 @@ de réaliser l&apos;intérêt que représente ce type de document, prestigieux o
 anonyme, qui offrent chacun, un reflet de l&apos;histoire essentiel ou parcellaire, 
 seul témoignage économique palpable des civilisations antérieures. 
 
-E. B. </preface>
+E. B. </front>
 
 
 <annex>Emile et Sabine BOURGEY 
@@ -6215,7 +6215,7 @@ Estimations
 800/1,000 </annex>
 
 
-<reference>BIBLIOGRAPHIE 
+<front>BIBLIOGRAPHIE 
 
 POl&apos;R i.KS .NIONNAIES GRECQUES : 
 
@@ -6564,11 +6564,11 @@ V.L.
 
 G. VAN LOON. Histoire métallique des 17 provinces des&apos;Pays-Bas. La Haye, 1732-1737. 
 
-Collection VIDAL QUADRAS Y RAMON. Réimpression. Barcelone. 1975. </reference>
+Collection VIDAL QUADRAS Y RAMON. Réimpression. Barcelone. 1975. </front>
 
 
 
-<unit>Le lundi 4 mai à 14 h 15 
+<body>Le lundi 4 mai à 14 h 15 
 
 MONNAIES GRECQUES 
 
@@ -8864,7 +8864,7 @@ naies Françaises de la Révolution à la fin du 1er Empire. 670 p. Paris, 1926-
 
 -REVUE NUMISMATIQUE. Années 1947 à 1980, sauf 1977. Ens. 31 vol. Br. Très bon 
 
-état. </unit>
+état. </body>
 
 
 <back>NOTES 

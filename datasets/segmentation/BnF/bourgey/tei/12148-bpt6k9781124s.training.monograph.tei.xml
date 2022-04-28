@@ -8,28 +8,28 @@
 
 
 
-<cover>1 
+<front>1 
 
 MONNAIES ANTIQUES 
 
 MONNAIES 
 
 FRANÇAISES 
-ET ÉTRANGÈRES 
+ET ÉTRANGÈRES </front>
 
-i 
+<other>i 
 
-1 
+1 </other>
 
-LIVRES DE NUMISMATIQUE 
+<front>LIVRES DE NUMISMATIQUE 
 
 HOTEL DROUOT 
 
-DÉCEMBRE 1955 </cover>
+DÉCEMBRE 1955 
 
 
 
-<title>MONNAIES ANTIQUES 
+MONNAIES ANTIQUES 
 
 MONNAIES 
 
@@ -69,10 +69,10 @@ EXPOSITION PUBLIQUE
 
 1-
 
-Le Mardi 6 Décembre, HOTEL DROUOT, Salle N&quot; 8, de 14 à 18 heures. </title>
+Le Mardi 6 Décembre, HOTEL DROUOT, Salle N&quot; 8, de 14 à 18 heures. 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente aura lieu au comptant. 
 Les acquéreurs paieront 21,20 pour cent en sus des enc-hères. 
@@ -84,9 +84,9 @@ L&apos;ordre du catalogue sera suivi. L&apos;Expert se réserve le droit de divi
 
 les lots. 
 
-Les numéros marqués d&apos;un astérisque sont reproduits sur les planches. </preface>
+Les numéros marqués d&apos;un astérisque sont reproduits sur les planches. 
 
-<reference>RÉFÉRENCES 
+RÉFÉRENCES 
 
 MURET et LA TOUR : Monnaies Gauloises. 
 BABELON (E.) : Monnaies de la République Romaine. 
@@ -125,10 +125,10 @@ ENGEL et LEHR : Numismatique de l&apos;Alsace.
 
 KENYON : Gold Coins of England. 
 SERAFINI : Medagliere Vaticano. 
-B-RAMSEN : Médaillier de Napoléon le Grand. </reference>
+B-RAMSEN : Médaillier de Napoléon le Grand. </front>
 
 
-<unit>MONNAIES ANTIQUES EN OR 
+<body>MONNAIES ANTIQUES EN OR 
 
 (Sauf indication contraire) 
 
@@ -1304,7 +1304,7 @@ SERRURE. Dictionnaire géographique de l&apos;Histoire monétaire de la France
 
 Pl. Il 
 
-Pl. I </unit>
+Pl. I </body>
 
 
 

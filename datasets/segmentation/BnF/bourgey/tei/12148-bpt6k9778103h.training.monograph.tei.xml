@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>MONNAIES ANTIQUES 
+<front>MONNAIES ANTIQUES 
 
 GRECQUES et ROMAINES 
 
@@ -17,11 +17,11 @@ VEnTE HOTEL DROUOT
 
 Salle N°a 
 
-LE LUnDI 23 MARS 1942 </cover>
+LE LUnDI 23 MARS 1942 
 
 
 
-<title>MONNAIES ANTIQUES 
+MONNAIES ANTIQUES 
 
 GRECQUES ET ROMAINES 
 
@@ -50,10 +50,10 @@ M. Etienne BOURGEY
 EXPERT 
 près le Tribunal Civil de la Seine 
 
-A PARIS -7, Rue Drouot </title>
+A PARIS -7, Rue Drouot 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -62,10 +62,10 @@ Les acquéreurs paieront 15 0 0 en sus des enchères.
 Les pièces décrites sont garanties authentiques. 
 
 Imprimerie C. Chaufour 
-6-8, rue Milton, Paris (9e) </preface>
+6-8, rue Milton, Paris (9e) </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 MONNAIES ANTIQUES 
 
@@ -345,7 +345,7 @@ JETONS
 86 -Reims. La Roche Aymon, archevêque. 1771. Oct. 
 Arg. TB. 
 
-PAPIER MONNAIE </unit>
+PAPIER MONNAIE </body>
 
 
 

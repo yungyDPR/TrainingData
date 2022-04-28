@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>fîrf ÂDER, Picard TAJAN 
+<other>fîrf ÂDER, Picard TAJAN </other>
 
-COMMISSAIRES-PRISEURS ASSOCIÉS 
+<front>COMMISSAIRES-PRISEURS ASSOCIÉS 
 
 Collection Morange 
 
@@ -20,11 +20,11 @@ DROUOT -RIVE GAUCHE -SALLE N°8
 
 7 quai Anatole-France, 75007 Paris (gare d&apos;Orsay) 
 
-le vendredi 19 mars 1976 </cover>
+le vendredi 19 mars 1976 
 
 
 
-<title>Collection Morange 
+Collection Morange 
 
 BELLE ET IMPORTANTE COLLECTION D&apos;ORDRES DE CHEVALERIE 
 Français et Etrangers 
@@ -70,10 +70,10 @@ COMMISSAIRES-PRISEURS ASSOCIÉS
 
 12 rue Favart, 75002 Paris -Tél. 742 68 23 
 
-assistés de </title>
+assistés de 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les acquéreurs paieront en sus des enchères : 
@@ -107,10 +107,10 @@ RESULTATS DES VENTES
 Dans la Gazette de l&apos;Hôtel Drouot chaque Vendredi 
 Abonnement 1 an : France 130 F -Etranger 160 F 
 Amérique par avion : 230 F 
-37 rue La Fayette 75009 Paris -tél. 526 61 60 </preface>
+37 rue La Fayette 75009 Paris -tél. 526 61 60 </front>
 
 
-<unit>OBJETS DE CURIOSITÉ 
+<front>OBJETS DE CURIOSITÉ 
 
 -Quatre moulages d&apos;intailles, en fonte, sur fond de maroquin. 75X88 
 
@@ -1507,7 +1507,7 @@ BELGIQUE
 
 Une croix maritime civil. 
 
-U.S.A. </unit>
+U.S.A. </front>
 
 
 

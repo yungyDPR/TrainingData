@@ -12,11 +12,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -1515,7 +1515,7 @@ N°F
 
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 GRECQUES -ROMAINES -BYZANTINES -GAULOISES 
 
@@ -1562,10 +1562,10 @@ Téléfax : (1) 42 46 58 48
 
 EXPOSITION PRIVÉE 
 
-Chez M. Emile Bourgey -7, rue Drouot, de 21 au 31 mai (jours ouvrables) </title>
+Chez M. Emile Bourgey -7, rue Drouot, de 21 au 31 mai (jours ouvrables) 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -1632,9 +1632,9 @@ Seront inscrits sur les Procès-Verbaux de :
 
 -Mes MILLON-ROBERT : Nos 451, 454, 455, 462, 464 à 468, 471 à 474, 506, 512, 513 et 
 
-515. </preface>
+515. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le mardi 4 juin à 14 h : 
 
@@ -1647,9 +1647,9 @@ Monnaies grecques, romaines jusqu&apos;à Antonin le Pieux inclus.
 Le Mercredi 5 juin à 14 h : 
 Nos 256 à 566 Monnaies romaines depuis Faustine Mère. 
 Monnaies françaises, coloniales, féodales, étrangères. Jetons. Lots. 
-Ouvrages numismatiques. </toc>
+Ouvrages numismatiques. 
 
-<preface>ETATS DE CONSERVATION INDIQUÉS 
+ETATS DE CONSERVATION INDIQUÉS 
 F.D.C. : Fleur de Coin 
 
 10/10 
@@ -1686,10 +1686,10 @@ Fair
 2-3/10 
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
-The numbers identified with an-asterisk are illustrated on the plates. </preface>
+The numbers identified with an-asterisk are illustrated on the plates. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -2013,10 +2013,10 @@ F. FEUARDENT. Collection Feuardent. Jetons et méreaux. Paris, 1904-1915.
 
 L. 
 
-M.-E. et J. LEROUGE. Jetons et documents numismatiquesdu Notariat français. Paris, 1977. </reference>
+M.-E. et J. LEROUGE. Jetons et documents numismatiquesdu Notariat français. Paris, 1977. </front>
 
 
-<unit>Le mardi 4 juin 1991, à 14 heures 
+<body>Le mardi 4 juin 1991, à 14 heures 
 
 MONNAIES GRECQUES 
 
@@ -5177,7 +5177,7 @@ légèrement usés. Bon état général.
 566 -Coffrets-médailliers (2). 35x23x10 cm. Comprenant : l&apos;un 6 plateaux de 40 cases ; l&apos;autre 3 plateaux de 40 cases et 3 
 
 de 24 cases. 1 seule clef pour les 2. En bon état d&apos;usage. 
-5001800 </unit>
+5001800 </body>
 
 
 <back>lOCEANE GRAPHIQUE 8P 431 76057 LE HAVRE Cede-

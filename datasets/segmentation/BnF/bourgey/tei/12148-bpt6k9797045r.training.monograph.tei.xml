@@ -7,28 +7,28 @@
 
 
 
-<other>Reliure Devel 2011 </other>
+<front>Reliure Devel 2011 
 
 
 
 
 
 
-<cover>FRANCIS 
+FRANCIS </front>
 
-BR7EST 
+<other>BR7EST </other>
 
-Commissaire Priseur 
+<front>Commissaire Priseur 
 
 24, avenue Matignon -Paris -Tél. (1) 42 68 11 $0 
 
 eu -Paris -Salle 3 
 Mercredi 16 décembre 1987 à 14 h 
 
-TRÉSOR DE SAINT LÔ </cover>
+TRÉSOR DE SAINT LÔ 
 
 
-<preface>A) CONDITIONS DE VENTE 
+A) CONDITIONS DE VENTE 
 
 1. Conformément à la loi, les indications portées au catalogue engagent la responsabilité du 
 Commissaire-Priseur. 
@@ -127,10 +127,10 @@ Fair
 2-3/10 
 
 Les numérosreproduits sur les planchessont précédésd&apos;un astérisque. 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. 
 
 
-<title>FRANCIS 
+FRANCIS 
 
 BRIESl 
 
@@ -175,10 +175,10 @@ Mardi 15 décembre 1987 de 11 h à 18 h, salle 3
 Mercredi 16 décembre de 11 h à 12 h, salle 3 
 
 EXPOSITION PRIVÉE : 
-Chez Monsieur BOURGEY, 7 rue Drouot 75009, du 7 au 12 décembre (jours ouvrables). </title>
+Chez Monsieur BOURGEY, 7 rue Drouot 75009, du 7 au 12 décembre (jours ouvrables). 
 
 
-<preface>LE TRÉSOR DE SAINT-LÔ 
+LE TRÉSOR DE SAINT-LÔ 
 
 Le trésor a été découvert à Saint-Lô, dans la Manche, en novembre 1986, par hasard, lors de travaux 
 d&apos;agrandissement d&apos;une banque. Personne n&apos;en connait l&apos;origine, mais plusieurs hypothèses ont été 
@@ -235,10 +235,10 @@ de Nantes et sa Révocation (Éditions du Seuil, 1985).
 (4) Réforme et contre-réforme en Normandie. dans la Revue du Département de la Manche, tome 24-1982. 
 (5) Janine Garisson, op. cit. 
 
-Recherche Eric Bungener et Nicolas Bouët. </preface>
+Recherche Eric Bungener et Nicolas Bouët. </front>
 
 
-<unit>TRÉSOR DE SAINT-LÔ 
+<body>TRÉSOR DE SAINT-LÔ 
 
 MONNAIES D&apos;OR 
 
@@ -608,7 +608,7 @@ MÉDAILLES
 
 87 -Médailles, médaillettes, dont 2 monnaies à sujet religieux : papales, antipapales... Métaux divers dont 
 
-6 </unit>
+6 </body>
 
 
 <back>Emile et Sabine BOURGEY 

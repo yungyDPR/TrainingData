@@ -4,13 +4,13 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>BOU 
+<other>BOU 
 
 1949 
 
-FEV11 
+FEV11 </other>
 
-Monnaies Grecques 
+<front>Monnaies Grecques 
 
 Romaines et Françaises 
 
@@ -21,19 +21,19 @@ HOTEL DROUOT
 
 Salle N&quot; 8 
 
-VENDREDI 1 l FEVRIER 1949 </cover>
+VENDREDI 1 l FEVRIER 1949 
 
 
 
-<title>MONNAIES GRECQUES 
+MONNAIES GRECQUES 
 
 Romaines et Françaises 
 
-Médailles de la Renaissance </title>
+Médailles de la Renaissance 
 
 
 
-<title>MONNAIES GRECQUES 
+MONNAIES GRECQUES 
 
 Romaines et Françaises 
 
@@ -59,11 +59,11 @@ Expert
 
 PARIS 
 
-Exposition publique le Jeudi 10 Février 1949, Salle N&quot; 8. </title>
+Exposition publique le Jeudi 10 Février 1949, Salle N&quot; 8. </front>
 
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 &gt; ETRURIE. Populonia. Gorgoneion de face; dessous: X. X. 
 
@@ -951,7 +951,7 @@ d&apos;abondance (A. I. 165-14). Leone Leoni. Br. 32 m/m. TB.
 
 287 P. 7. Orsim. Buste à g Ri. Apollon et Marsyas: (A. -Voir I. 
 
-223-11). Fred, Parmense. Br. 33 m/m. TB. </unit>
+223-11). Fred, Parmense. Br. 33 m/m. TB. </body>
 
 
 

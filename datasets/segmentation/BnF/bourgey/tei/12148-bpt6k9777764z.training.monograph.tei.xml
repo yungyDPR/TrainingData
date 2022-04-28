@@ -14,16 +14,16 @@
 
 
 
-<cover>COLLECTION EUGÈNE LUCIEN MEUNIER 
+<front>COLLECTION EUGÈNE LUCIEN MEUNIER </front>
 
-[texte_manquant] 
+<other>[texte_manquant] </other>
 
-PARIS DROUOT -RIVE GAUCHE -SALLE N°14 
+<front>PARIS DROUOT -RIVE GAUCHE -SALLE N°14 
 
-Le Vendredi 30 Novembre 1979 </cover>
+Le Vendredi 30 Novembre 1979 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -56,7 +56,7 @@ The conditions of sale are subject to existing French regulations regarding publ
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. </front>
 
 
 <annex>Émile BOURGEY 
@@ -2444,9 +2444,9 @@ i
 ! </annex>
 
 
-<title>Collection Eugène Lucien MEUNIER 
+<front>Collection Eugène Lucien MEUNIER </front>
 
-P&quot;&quot; 
+<other>P&quot;&quot; 
 
 .11 /-
 
@@ -2458,9 +2458,9 @@ eY~~p
 
 ~rIr -11 
 
-4t 
+4t </other>
 
-en or, argent, platine, nacre, terre cuite et bronze 
+<front>en or, argent, platine, nacre, terre cuite et bronze 
 
 dont la vente aux enchères publiques aura lieu 
 
@@ -2496,10 +2496,10 @@ Le Jeudi 29 Novembre 1979 de 11 à 18 heures, salle n°14
 EXPOSITION PRIVÉE 
 chez M. Émile BOURGEY, 7 rue Drouot, du 15 au 27 Novembre 1979 
 
-(jours ouvrables) </title>
+(jours ouvrables) 
 
 
-<preface>Ces lignes, en forme de préface au catalogue de la Vente de la Collection Eugène Lucien 
+Ces lignes, en forme de préface au catalogue de la Vente de la Collection Eugène Lucien 
 Meunier, sont, avant toute chose, le tribut que je dois à l&apos;amitié plus que trentenaire qui nous a 
 
 unis. 
@@ -2728,10 +2728,10 @@ homme de goût, fruit de plus de trente ans d&apos;efforts et de recherchespassi
 l&apos;on pourra admirer la beauté d&apos;une glyptiquecertaine, souvent méconnue, qu&apos;elle soit 
 d&apos;or, de platine, d&apos;argent, de nacre ou de bronze. 
 
-E. BOURGEY </preface>
+E. BOURGEY 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 -
 
@@ -2905,10 +2905,10 @@ J. TRICOU. Médailles Lyonnaises du xv&apos; au xvnr siècle. Paris, E. Bourgey,
 
 -
 
-A. WEIL. Histoire et numismatique du patriote Palloy. Paris, 1976. </reference>
+A. WEIL. Histoire et numismatique du patriote Palloy. Paris, 1976. </front>
 
 
-<unit>MÉDAILLES FRANÇAISES 
+<body>MÉDAILLES FRANÇAISES 
 
 1 -GUILLAUMED&apos;ESTOUTEVILLE. (1403-1483). (Jean de Candida). G. DESTOVTE VILLA. EPIS. OSTI. CAR. 
 ROTHO. S.R.E.CAM. Buste à dr. tête nue avec une couronne de cheveux. R/. Écusson surmonté du chapeau de 
@@ -5363,7 +5363,7 @@ Inscription en cyrillique. Buste barbu à g. Dessous : L. Sinayeff-Bernstein en 
 forestier sous un brouillard hivernal. A l&apos;exergue : 1828-1910. Sur la tranche : BOUCHERON,trois poinçons; et 
 TIRAGE LIMITÉ A 250 N°64. (Coll. Marx --F. -). Arg. 59,6 mm. Très Beau à Superbe. 
 
-Gravée à Paris. </unit>
+Gravée à Paris. </body>
 
 
 

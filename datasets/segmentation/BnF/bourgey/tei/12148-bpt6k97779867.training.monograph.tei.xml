@@ -4,14 +4,14 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>BOU 
+<other>BOU 
 
 &quot;lMISMA ATIQUE 
 ,IES -MÉDAILLES 
 
-.BINE BOURGEY 
+.BINE BOURGEY </other>
 
-EXPERT C.N.E. 
+<front>EXPERT C.N.E. 
 
 Assesseurde la C.C.E. Douanière 
 
@@ -37,10 +37,10 @@ BOURGEY 8309-68 G. PARIS.
 
 ETATS DE CONSERVATION 
 
-(par ordre dléoroiesaïant) </title>
+(par ordre dléoroiesaïant) 
 
 
-<preface>S&amp;bÈm® BOURGEY 
+S&amp;bÈm® BOURGEY 
 
 Expert C.N.E. 
 
@@ -76,10 +76,10 @@ Observations -N&apos;s de
 
 remplacement éventuels 
 
---l </preface>
+--l </front>
 
 
-<unit>MONNAIES EN OR 
+<body>MONNAIES EN OR 
 
 -GRECQUE. MACEDOINE. ALEXANDRE LE GRAND. (336-323 av. J.C). Statère. 
 (Muller.-). 8,39g. Très Beau 
@@ -1117,7 +1117,7 @@ Perse antique. 3 tomes reliés. Paris. 1927-1933
 
 -W.WROTH. Catalogue of the Vandals, Ostrogoths and Lombards. Londre. 
 
-1911. In the British Muséum ......................................... 1.900 </unit>
+1911. In the British Muséum ......................................... 1.900 </body>
 
 
 </text>

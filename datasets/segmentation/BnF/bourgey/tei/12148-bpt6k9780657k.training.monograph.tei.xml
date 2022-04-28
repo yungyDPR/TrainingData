@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="hr">
-<cover>COLLECTION 
+<front>COLLECTION 
 
 DE 
 
@@ -14,7 +14,7 @@ Salle du Centre Administratif de L&apos;ISLE-D&apos;ABEAU
 
 Vente aux Enchères 
 
-le Dimanche 14 Novembre 1976 à 14 h. 15 </cover>
+le Dimanche 14 Novembre 1976 à 14 h. 15 </front>
 
 
 
@@ -3010,7 +3010,7 @@ J
 
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 ANTIQUES 
 
@@ -3056,10 +3056,10 @@ Expert national agréé près les Cours d&apos;Appel, les Tribunaux et les Douan
 
 EXPOSITION PUBLIQUE : 
 
-Salle du Centre Administratif de rE.p.I.D.A. -VILLE NOUVELLE DE L&apos;ISLE-D&apos;ABEAU </title>
+Salle du Centre Administratif de rE.p.I.D.A. -VILLE NOUVELLE DE L&apos;ISLE-D&apos;ABEAU 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -3123,10 +3123,10 @@ De nombreuses monnaies étrangères d&apos;Italie, Monaco, anglaises,
 puis quelques monnaies provenant d&apos;une autre collection seront 
 suivies de médailles du XIXe siècle et du XXe siècle, dont quelques 
 unes en or. 
-La Vente se terminera par des ouvrages numismatiques dont </preface>
+La Vente se terminera par des ouvrages numismatiques dont </front>
 
 
-<unit>MONNAIES ANTIQUES 
+<body>MONNAIES ANTIQUES 
 
 1 -GRECE. ALEXANDRE III LE GRAND. (336-323). Tétradrachme. Tête 
 
@@ -3935,7 +3935,7 @@ cier -Insigne russe, 1920-1921. -Réduction. Ens. 4 p.
 
 -Lot de décorations dans leurs écrins. Société Nale d&apos;Encouragement 
 décerné à La Solidarité à Lyon, le 6 juil. 1913. -Sociétés de Secours 
-Mutuels avec réduction, Palmes d&apos;Officier d&apos;Académie, Croix de </unit>
+Mutuels avec réduction, Palmes d&apos;Officier d&apos;Académie, Croix de </body>
 
 <back>IMPRIMERIE 
 

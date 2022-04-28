@@ -14,11 +14,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] </other>
 
 
-Photos de couverture : S. Bourgey. 
-Le N°150 bis est reproduit sur la lre page de couverture. Le N°92 est reproduit sur la 4e page de couverture. </cover>
+<front>Photos de couverture : S. Bourgey. 
+Le N°150 bis est reproduit sur la lre page de couverture. Le N°92 est reproduit sur la 4e page de couverture. </front>
 
 
 <annex>S. BOURGEY 
@@ -653,7 +653,7 @@ N°F N°F N°F N°F N°F
 -1 </annex>
 
 
-<title>JEANLOUIS PICARD 
+<front>JEANLOUIS PICARD 
 
 COMMISSAIRE-PRISEUR 
 
@@ -697,10 +697,10 @@ Tél. (1) 47 70 88 67 et 47 70 35 18
 Télécopie : (1) 42 46 58 48 
 
 EXPOSITION PRIVEE 
-Chez Sabine BOURGEY -7, rue Drouot du 10 au 22 juin (jours ouvrables). </title>
+Chez Sabine BOURGEY -7, rue Drouot du 10 au 22 juin (jours ouvrables). 
 
 
-<preface>CONDITIONS DE VENTE. 
+CONDITIONS DE VENTE. 
 
 La vente sera faite au comptant. 
 
@@ -802,7 +802,7 @@ Les numéros reproduits sur les planches sont précédés d&apos;un astérisque.
 
 The numbers identifiedwith an asterisk are illustrated on the plates. 
 
---</preface>
+--
 
 
 BIBLIOGRAPHIE. 
@@ -855,7 +855,7 @@ B.
 BABELON. Description historique et chronologique des monnaies de la République romaine. 
 Paris, 1885-1886. 
 
-B.D. <reference>
+B.D. 
 
 S. BOURGEY -G. DEPEYROT. La République romaine. Fonds Bourgey. Paris 1988. 
 
@@ -945,11 +945,11 @@ M.E et LEROUGE
 
 . 
 
-Jetons et documents numismatiques du notariat français. Paris. 1977. </reference>
+Jetons et documents numismatiques du notariat français. Paris. 1977. </front>
 
 
 
-<unit>Le lundi 27 juin 1994. à Il heures 
+<body>Le lundi 27 juin 1994. à Il heures 
 
 GRANDE GRECE. 
 
@@ -3531,10 +3531,10 @@ Ar. Très Beau
 -Monnaies étrangères. XVIIIe, XIXe Belgique, Vatican, Italie, Suisse. Ens 34p. la plupart en arg. 
 T.B. 
 
-1.000/1.500 </unit>
+1.000/1.500 </body>
 
 
-<back>[texte_manquant] </back>
+<other>[texte_manquant] </other>
 
 
 

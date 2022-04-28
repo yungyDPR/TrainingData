@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>NUMISMATIQUE 
+<front>NUMISMATIQUE 
 MONNAIES -MÉDAILLES 
 
 SABINE BOURGEY 
@@ -21,9 +21,9 @@ TÉL. PARIS (1) 47 70 88 67
 FAX ( 1 ) 42 46 58 48 
 
 HORS CATALOGUE -VENTE DROUOT 
-30 mars 2001 </title>
+30 mars 2001 </front>
 
-<unit>1 
+<body>1 
 
 Médailles modernes, Henri IV refrappe, Bronzes romains du Bas 
 Empire (5), 5 Francs Louis XVIII, 50 centimes Louis-Philippe. Br. 
@@ -173,7 +173,7 @@ son écrin d&apos;origine. Bronze. 90mm.
 
 Croix de guerre (2), chambre syndicale ouvrière, Monneron, 50 
 francs, 10 francs... Ens 14 p.Très Beau. 
-400/500 </unit>
+400/500 </body>
 
 
 

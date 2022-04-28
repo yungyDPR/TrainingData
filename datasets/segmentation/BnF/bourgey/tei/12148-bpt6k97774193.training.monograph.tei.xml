@@ -12,13 +12,13 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-BOU [texte_manquant] 
-</cover>
+BOU [texte_manquant] </other>
 
 
-<title>COMPAGNIE DES COMMISSAIRES-PRISEURS DE L&apos;EST 
+
+<front>COMPAGNIE DES COMMISSAIRES-PRISEURS DE L&apos;EST 
 
 REIMS 
 
@@ -60,10 +60,10 @@ EXPOSITIONS PUBLIQUES
 
 Le samedi 21 avril 1990 de 11 hà 12het de 14h30à 19h30 
 
-Le dimanche 22 avril 1990 de 10 h à 11 h 30 </title>
+Le dimanche 22 avril 1990 de 10 h à 11 h 30 
 
 
-<preface>CONDITIONSDE VENTE 
+CONDITIONSDE VENTE 
 
 La vente sera faite au comptant. 
 Les acquéreurs paieront, en sus des enchères : pour chaque lot adjugé : 
@@ -147,10 +147,10 @@ réceafsS^n asté
 
 Les numéros reproduits sur les planches sont preblïwsSSin&apos;astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates.. </preface>
+The numbers identified with an asterisk are illustrated on the plates.. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIESGRECQUES : 
 
@@ -240,11 +240,11 @@ J. FERRARO VAZ. Livro das moedas de Portugal. Braga, 1978.
 
 F. 
 
-R. FRIEDBERG. Gold coins of the world. 5e éd. New York, 1980. </reference>
+R. FRIEDBERG. Gold coins of the world. 5e éd. New York, 1980. </front>
 
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 *1. CALABRE. TARENTE. ALEXANDRE LE MOLOSSE. (334-
 333). Obole d&apos;or. Tête radiée d&apos;Hélios, légèrement tournée à g. R/. Fou-
@@ -1211,7 +1211,7 @@ divers.
 198. 50 Francs, 10 Francs, 50 Centimes, 5 Centines, 1 Centime. XXe siè-
 cle. Quelques pièces XIXe siècle. Ens. 350 p. environ. Métaux divers. 
 Quelques-unes en argent. Etat divers. 
-1.200/1.500 </unit>
+1.200/1.500 </body>
 
 
 

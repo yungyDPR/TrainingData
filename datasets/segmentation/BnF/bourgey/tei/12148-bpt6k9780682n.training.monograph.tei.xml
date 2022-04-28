@@ -14,11 +14,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -1568,7 +1568,7 @@ N°Estimations
 
 
 
-<title>Monnaies 
+<front>Monnaies 
 
 GRECQUES -ROMAINES 
 BYZANTINES -GAULOISES -FRANÇAISES 
@@ -1607,10 +1607,10 @@ EXPOSITIONPUBLIQUE
 Le mercredi 23 février 1983 de 11 heures à 18 heures, salle n°3 
 
 EXPOSITION PRIVÉE 
-chez M. Emile Bourgey, 7, rue Drouot, du 1er au 19 février 1983 (jours ouvrables) </title>
+chez M. Emile Bourgey, 7, rue Drouot, du 1er au 19 février 1983 (jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant 
 
@@ -1651,9 +1651,9 @@ Les numéros 10, 48, 52, 67, 136, 208, 213, 216, 217, 228 à 234, 256 à 258, 26
 
 Les numéros 168, 171, 177 à 179, 198, 200, 201, 215, 296, 589 seront inscrits sur le procès-verbal de M&quot; Boisgirard et de Heeckeren, 
 
-commissaires-priseursà Paris. </preface>
+commissaires-priseursà Paris. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le jeudi 24 février 1983 
 
@@ -1672,9 +1672,9 @@ carolingiennes,françaises jusqu&apos;à Louis XIV.
 Monnaies françaises de Louis XV à nos jours. 
 Monnaies féodales, coloniales, étrangères. Lots. Médail-
 
-les. Ouvrages numismatiques. </toc>
+les. Ouvrages numismatiques. 
 
-<preface>ÉTATS DE CONSERVATION INDIQUÉS 
+ÉTATS DE CONSERVATION INDIQUÉS 
 
 F.D.C. ; Fleur de coin 
 
@@ -1851,10 +1851,10 @@ Enfin, un médaillier et quelques ouvrages clôtureront cette vente
 
 importante qui permettra à de nombreux amateurs d&apos;enrichir leur collection. 
 
-E. BOURGEY </preface>
+E. BOURGEY 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -2171,10 +2171,10 @@ M. HtENNtN]. Histoire numismatiquede la Révolutionfrançaise. Paris, 1826.
 
 W. 
 
-A. WEIL..Histoire et numismatiquedu patriotePalloy. Paris, 1976. </reference>
+A. WEIL..Histoire et numismatiquedu patriotePalloy. Paris, 1976. </front>
 
 
-<unit>Le jeudi 24 février 1983 à 14 h 
+<body>Le jeudi 24 février 1983 à 14 h 
 
 MONNAIES GRECQUES 
 
@@ -4749,7 +4749,7 @@ J -AUTRICHE. FRANÇOIS Ier. (1745-1765). Ducat. (F. 282). 1750.-JOSEPH Il. (1765
 
 (M. 1455, 1479). Paris, 1857.Strasbourg, 1866. Trouées.-Jetonde Nuremberg de Louis XVI. Ens. 5 p. 4 
 
-Or dont 2 trouées. 1 Laiton. T.B. (500/700). </unit>
+Or dont 2 trouées. 1 Laiton. T.B. (500/700). </body>
 
 
 

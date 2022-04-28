@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>OA 
+<other>OA 
 
-M ON N At ES 
+M ON N At ES </other>
 
-JETONS 
+<front>JETONS 
 
 MÉDAILLES 
 
@@ -25,11 +25,11 @@ LUNDI
 
 -
 
-JUIN 1943 </cover>
+JUIN 1943 
 
 
 
-<title>MONNAIES 
+MONNAIES 
 
 JETONS -MÉDAILLES 
 
@@ -51,16 +51,16 @@ EXPERT
 
 à Paris, 7, rue Drouot 
 
-Exposition Publique le Samedi 26 Juin 1943, Salle 9 </title>
+Exposition Publique le Samedi 26 Juin 1943, Salle 9 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant, 15 et 25 0/0 en 
 
 plus des enchères. 
 
-Les pièces décrites sont garanties authentiques. </preface>
+Les pièces décrites sont garanties authentiques. </front>
 
 
 <annex>Procès-
@@ -649,7 +649,7 @@ M
 M </annex>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 
 14 -Autre. Drachmes, même type.Tétradrachmes de 
@@ -1382,7 +1382,7 @@ TB.
 
 -Allemagne. Lot de 13 médailles en argent, à diviser. 
 
---Lot de médailles bronze et étain, 36 pièces. </unit>
+--Lot de médailles bronze et étain, 36 pièces. </body>
 
 
 

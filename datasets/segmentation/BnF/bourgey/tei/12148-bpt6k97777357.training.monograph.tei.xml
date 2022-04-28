@@ -12,13 +12,13 @@
 
 
 
-<cover>PI AS A 
+<other>PI AS A 
 
 Pa 
 
-r 1 s 
+r 1 s </other>
 
-Ventes aux Enchères -Expertises 
+<front>Ventes aux Enchères -Expertises 
 
 BIBLIOTHEQUE NUMISMATIQUE 
 
@@ -26,18 +26,18 @@ HÔTEL DROUOT
 
 MARDI 15 AVRIL 2003 
 
-Expert : Sabine BOURGEY </cover>
+Expert : Sabine BOURGEY </front>
 
 
-<title>PIA S A 
+<other>PIA S A 
 
 Pa r i s 
 
 \ 
 
-y 
+y </other>
 
-Ventes aux Enchères -Expertises 
+<front>Ventes aux Enchères -Expertises 
 
 JEAN-LOUIS PICARD 
 
@@ -104,14 +104,14 @@ MICHEL RAMBERT
 
 TÉL. 33 (0)4 78 00 86 65 -FAX 33 (0)4 78 00 32 17 
 
-e-mail rambert@intei-encheres.com </title>
+e-mail rambert@intei-encheres.com </front>
 
 
-<title>PI AS A 
+<other>PI AS A 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-BIBLIOTHEQUE NUMISMATIQUE 
+<front>BIBLIOTHEQUE NUMISMATIQUE 
 
 de 
 
@@ -156,10 +156,10 @@ PICARD AUDAP SOLANET VELLIET
 
 Télécopie : (33) 01 53 34 10 II 
 
-Internet : http://www.auctionconsult.com/piasa -E-mail contact@piasa-paris.com </title>
+Internet : http://www.auctionconsult.com/piasa -E-mail contact@piasa-paris.com 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente se fera expressément au comptant 
 
@@ -266,18 +266,18 @@ net numismatique se trouve aussi bien dans les livres qu&apos;il possède que da
 
 sente. 
 
-Sabine BOURGEY </preface>
+Sabine BOURGEY 
 
 
-<toc>ORDRE DE VACATION 
+ORDRE DE VACATION 
 
 Mardi 15 avril 2003 
 
 A 11 heures : Nos 1 à 140 
-A 14 heures : Nos 141 à 505 </toc>
+A 14 heures : Nos 141 à 505 </front>
 
 
-<unit>OUVRAGES GENERAUX 
+<body>OUVRAGES GENERAUX 
 
 1 -
 
@@ -4195,19 +4195,19 @@ frontispice la photo de l&apos;artiste (relié demi-cuir). -Canessa/De Nicola. 2
 
 505 -J. Schulman. Ventes à Amsterdam. 33 catalogues de 1908 à 1975 (vte Vierordt). Dupriez à 
 Bruxelles. 17 ventes et listes de 1890 à 1930. 6 catalogues divers. 56 catalogues. 
-60/80 </unit>
+60/80 </body>
 
 
 
 
 
-<back>PI AS A 
+<other>PI AS A </other>
 
-Ventes aux Enchères -Expertises 
+<back>Ventes aux Enchères -Expertises </back>
 
-P a r i s 
+<other>P a r i s </other>
 
-PICARD AUDAP SOLANET VELLIET 
+<back>PICARD AUDAP SOLANET VELLIET 
 
 5, RUE DROUOT 75009 PARIS 
 

@@ -4,18 +4,18 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>ÉTIENNE BOURGEY 
+<front>ÉTIENNE BOURGEY 
 
-N°XXIX 
+N°XXIX </front>
 
-,~n Médailles 
+<other>,~n Médailles 
 
 rouot, 7 
 -Ixe 
 
------) VENCE 88-67 
+-----) VENCE 88-67 </other>
 
-MONNAIES ANTIQUES 
+<front>MONNAIES ANTIQUES 
 
 MONNAIES NAPOLÉONIENNES 
 
@@ -28,9 +28,9 @@ Les pièces sont garanties authentiques, de l&apos;époque et conformes à la de
 Les prix en francs français sont absolument nets. Le port est à la charge des 
 
 acheteurs. Les commandes seront servies selon l&apos;ordre de réception. 
-Payement au comptant à la livraison. </title>
+Payement au comptant à la livraison. </front>
 
-<unit>PLUIES RNTIQUES 
+<body>PLUIES RNTIQUES 
 
 1 Gaule. Volques A récomiques. Tête barbare. rf. Cheval (La Tour 
 
@@ -1894,7 +1894,7 @@ Souverainetés données. 1806 Br. 41 mm. TB.
 
 Aigle couronné par la Victoire, i807&apos; Br. 41 mm. TB. 
 
-40 </unit>
+40 </body>
 
 
 </text>

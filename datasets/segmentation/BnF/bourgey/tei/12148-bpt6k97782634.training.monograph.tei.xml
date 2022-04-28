@@ -14,9 +14,9 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -711,7 +711,7 @@ N°F N°F N°F N°F N°F
 1 </annex>
 
 
-<title>JEANLOUIS PICARD 
+<front>JEANLOUIS PICARD 
 
 COMMISSAIRE-PRISEUR 
 5, RUE DROUOT -75009 PARIS 
@@ -749,10 +749,10 @@ Télécopie : (1) 42 46 58 48
 
 EXPOSITION PRIVÉE 
 
-Chez Sabine BOURGEY -7, rue Drouot du 20 janvier au 3 février inclus (jours ouvrables). </title>
+Chez Sabine BOURGEY -7, rue Drouot du 20 janvier au 3 février inclus (jours ouvrables). 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente se fera expressément au comptant. 
 
@@ -859,10 +859,10 @@ Fair
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIESGRECQUES : 
 
@@ -1030,11 +1030,11 @@ Y.R.S
 
 YEOMAN. A guide of United-Statescoins 47th ed. Racine. Wisconsin. 1993. 
 
-3 </reference>
+3 
 
 
 
-<preface>PREFACE 
+PREFACE 
 
 Henry Vernin (1912-1980) était de ces collectionneurs qui avaient suffisamment 
 d&apos;érudition pour pouvoir s&apos;intéresser à tous les domaines de la numismatique avec le 
@@ -1068,10 +1068,10 @@ grossière&quot; de Louis XIII, frappé à Paris en 1640, en très bel état. He
 étonnante pour un numismate, puisqu&apos;il mourut en pleine salle des ventes, en achetant 
 une monnaie byzantine, après avoir satisfait une dernière fois sa passion des pièces. 
 
-Sabine BOURGEY </preface>
+Sabine BOURGEY </front>
 
 
-<unit>NUMISMATIQUE MODERNE 
+<body>NUMISMATIQUE MODERNE 
 
 1 -AFRIQUE DU SUD. Pound 1892,1898. (F.2). SERBIE. MILAN OBRENOVICH IV. (1868-1889). 20 dinars, 10 
 dinars. 1882. (FA; F.5). ROUMANIE. CAROL 1er. (1866-1914). 20 Lei. 1883. (F.3). ITALIE. UMBERTO 1er. 
@@ -3330,7 +3330,7 @@ Arg. Ens 15p. Très Beau et Superbe.
 
 427 -SUISSE. 5 francs. 1936 à 1967. Métaux divers. La plupart en arg. Ens 18p. Très Beau et Superbe. 
 
-800/1.000 </unit>
+800/1.000 </body>
 
 
 

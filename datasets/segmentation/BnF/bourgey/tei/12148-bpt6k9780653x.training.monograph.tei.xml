@@ -14,15 +14,15 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 mmm JÊÊKmÊÊm 
 
-^mtÊatmmmtÊÊÊÊIIÉImmk 
+^mtÊatmmmtÊÊÊÊIIÉImmk </other>
 
-MONNAIE 
+<front>MONNAIE </front>
 
-iA RGEN&quot;l~~« 
+<other>iA RGEN&quot;l~~« 
 
 mr 
 
@@ -36,11 +36,11 @@ mr
 .&quot;, 
 4. 
 
-wmrnuâ </cover>
+wmrnuâ 
 
 
 
-<cover>W,e,, 
+W,e,, 
 
 ~,o,,. , 
 
@@ -49,9 +49,9 @@ f.&apos;/ête
 ee-t 
 
 , 
-:: 0 </cover>
+:: 0 </other>
 
-<title>MONNAIES GRECQUES 
+<front>MONNAIES GRECQUES 
 
 ROMAINES FRANÇAISES et ÉTRANGÈRES 
 
@@ -116,10 +116,10 @@ ROUEN
 20 Rue Croix de Fer 
 
 Samedi 20 juin de 14 h à 18 h 
-Dimanche 21 juin de 10 h à 12 h </title>
+Dimanche 21 juin de 10 h à 12 h 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant 
 
@@ -196,10 +196,10 @@ Fair
 
 Les numérosreproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identifiedwith an asterisk are illustrated on the plates. </preface>
+The numbers identifiedwith an asterisk are illustrated on the plates. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES ET ROMAINES : 
 
@@ -310,10 +310,10 @@ Vienne, 1948.
 
 Sch. 
 
-H. SCHLUMBERGER.Goldmünzen Katalog. München, 1980. </reference>
+H. SCHLUMBERGER.Goldmünzen Katalog. München, 1980. </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 *1 -CALABRE. TARENTE.(Vers 334-330 av. J.-C.). Statère. Arg. Cavalier au galop à dr. R/. Taras nu chevau-
 
@@ -1827,7 +1827,7 @@ GRÉGOIRE XVI. (1831-1846). 10 Scudi. Buste à g. (F. 263). 1836, an VI. Très B
 
 1 .00011.200 
 
-*289 -YOUGOSLAVIE. ALEXANDRE1er. (1921-1934). 4 Ducats. Bustes accolés à g. d&apos;Alexandre et Marie. R/. </unit>
+*289 -YOUGOSLAVIE. ALEXANDRE1er. (1921-1934). 4 Ducats. Bustes accolés à g. d&apos;Alexandre et Marie. R/. </body>
 
 
 <back>NOTES 

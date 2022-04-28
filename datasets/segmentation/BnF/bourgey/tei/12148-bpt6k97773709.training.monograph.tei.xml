@@ -12,15 +12,15 @@
 
 
 
-<cover>P I A S A 
+<other>P I A S A 
 
 Pa r 1 s 
 
 » 
 
--Y 
+-Y </other>
 
-PICARD AUDAP SOLANET &amp; ASSOCIÉS 
+<front>PICARD AUDAP SOLANET &amp; ASSOCIÉS 
 
 COMMISSAIRES-PRISEURS 
 
@@ -31,14 +31,14 @@ SABINE BOURGEY
 EXPERT 
 
 HOTEL AMBASSADOR 
-MERCREDI ler-IEUDI 2 DECEMBRE 1999 </cover>
+MERCREDI ler-IEUDI 2 DECEMBRE 1999 </front>
 
 
-<title>PIASA 
+<front>PIASA </front>
 
-Pa r 1 s 
+<other>Pa r 1 s </other>
 
-JEAN-LOUIS PICARD 
+<front>JEAN-LOUIS PICARD 
 
 PIERRE E. AUDAP 
 
@@ -52,14 +52,14 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 
 5, RUE DROUOT 75009 PARIS 
 
-TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </title>
+TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 11 </front>
 
 
-<title>P I A S A 
+<other>P I A S A 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-Commissaires Priseurs 
+<front>Commissaires Priseurs 
 
 VENTE A PARIS 
 HOTEL AMBASSADOR 
@@ -96,10 +96,10 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 
 5, RUE DROUOT 75009 PARIS 
 
-TÉLÉPHONE : (33) 01 53 34 1010 -TÉLÉCOPIE : (33) 0153 34 10 11 </title>
+TÉLÉPHONE : (33) 01 53 34 1010 -TÉLÉCOPIE : (33) 0153 34 10 11 
 
 
-<preface>La vente se fera expressément au comptant. 
+La vente se fera expressément au comptant. 
 L&apos;authenticité est formellementgarantie. Aucune réclamation ne sera recevable dès l&apos;adjudication prononcée, les 
 expositions successives ayant permis aux acquéreursde constater l&apos;état des objets présentés. 
 
@@ -208,14 +208,14 @@ Fair
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-2 
+2 </front>
 
 
-0 PI ASA 
+<other>0 PI ASA 
 
-Pa r 1 s 
+Pa r 1 s </other>
 
-Commissaires priseurs 
+<front>Commissaires priseurs 
 
 HOTEL AMBASSADOR 
 
@@ -251,10 +251,10 @@ Catalogue sur Internet : http/ / www.auction-consult.com/piasa
 
 PICARD AUDAP SOLANET &amp; ASSOCIÉS 
 
-5, RUE DROUOT 75009 PARIS </preface>
+5, RUE DROUOT 75009 PARIS </front>
 
 
-<unit>COLLECTION D&apos;UN AMATEUR 
+<body>COLLECTION D&apos;UN AMATEUR 
 
 Grèce 
 
@@ -4751,7 +4751,7 @@ Médaillier acajou et placage d&apos;acajou, 11 tiroirs, avec poignées latéral
 
 Photos Tarek Charara 
 
-72 </unit>
+72 </body>
 
 
 

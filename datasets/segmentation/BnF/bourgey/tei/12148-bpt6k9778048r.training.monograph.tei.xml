@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>GALERIE DE CHARTRES 
+<front>GALERIE DE CHARTRES 
 
 Rue Colin d&apos;Harleville 
 
@@ -51,9 +51,9 @@ PARIS 9ème -Tél.770.88.67.
 
 EXPOSITIONS : Samedi 14 février de 10 H à 12 H et de 14 H à 18 H. 
 Dimanche 15 février de 9 H à 10 H pour les objets vendus le matin, et de 9 H à 12 H pour les 
-objets vendus l&apos;après-midi. </title>
+objets vendus l&apos;après-midi. 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 1) -les objets et monnaies de collection vendus dans le cadre de l&apos;opération «Boule de Neige» sont vendus 
 
@@ -65,10 +65,10 @@ avec exonération de tous droits, taxes et honoraires.
 
 -16 % jusqu&apos;à 6.000 Frs 
 -11,50 % de 6.001 à 20.000 Frs 
--10 % au-dessus de 20.000 Frs </preface>
+-10 % au-dessus de 20.000 Frs </front>
 
 
-<unit>CATALOGUE DES MONNAIES 
+<body>CATALOGUE DES MONNAIES 
 
 1ère partie monnaies vendues au profit de l&apos;Association 
 pour le développement de la recherche sur le cancer à Villejuif 
@@ -720,7 +720,7 @@ fleuronnéedans un quadrilobe cantonné de 4 trèfles. (Lafaurie 292). 4,52 gr. 
 
 J 
 
-CHARLES V. (1364-1380). Franc à pied. Le Roi deb. sous un dais tenant l&apos;épée et la main </unit>
+CHARLES V. (1364-1380). Franc à pied. Le Roi deb. sous un dais tenant l&apos;épée et la main </body>
 
 
 </text>

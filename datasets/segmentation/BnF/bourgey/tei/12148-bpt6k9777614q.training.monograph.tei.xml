@@ -7,16 +7,16 @@
 
 
 
-<cover>RENOV LIVRES S.A.S. 
+<front>RENOV LIVRES S.A.S. 
 
-2004 
-
-
+2004 </front>
 
 
 
 
-[texte_manquant] 
+
+
+<other>[texte_manquant] 
 
 &apos;YUlqu»W 
 
@@ -24,10 +24,10 @@
 
 [texte_manquant] 
 
-^BBBHBB™^ </cover>
+^BBBHBB™^ </other>
 
 
-<title>P I A S A 
+<front>P I A S A 
 
 Pa r i s 
 
@@ -44,16 +44,16 @@ ALEXIS VELLIET
 PIASA S.A. SOCIÉTÉ DE VENTES VOLONTAIRES AUX ENCHÈRES PUBLIQUES AU CAPITAL DE 6 9°1 100 € -RCS PARIS B 440 257 145 
 
 5, RUE DROUOT 75009 PARIS 
-TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 II </title>
+TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 II </front>
 
 
-<title>P I A S A 
+<other>P I A S A 
 
 Pa r i s 
 
-y 
+y </other>
 
-Ventes aux Enchères -Expertises 
+<front>Ventes aux Enchères -Expertises 
 
 VENTE A PARIS 
 DROUOT-RICHELIEU 
@@ -84,10 +84,10 @@ Assesseurde la C.C.E. Douanière
 Télécopie 01.42.46.58.48 
 internet : www.franceantiq.fr/sna/bourgey 
 
-PICARD AUDAP SOLANET VELLIET </title>
+PICARD AUDAP SOLANET VELLIET 
 
 
-<preface>La vente se fera expressément au comptant. 
+La vente se fera expressément au comptant. 
 L&apos;authenticité est formellement garantie. Aucune réclamation ne sera recevable dès l&apos;adjudication prononcée, les expositions 
 successives ayant permis aux acquéreurs de constater l&apos;état des objets présentés. 
 
@@ -199,14 +199,14 @@ Tél. : 01 47 70 93 00 -Fax : 01 47 70 93 94
 Internet : http://www.auctionconsult.com/piasa 
 E-mail : contact@piasa-paris.com 
 
-2 </preface>
+2 </front>
 
 
-<title>PIA S A 
+<other>PIA S A 
 
-Pa r i s 
+Pa r i s </other>
 
-Ventes aux Enchères -Expertises 
+<front>Ventes aux Enchères -Expertises 
 
 DROUOT-RICHELIEU 
 
@@ -236,10 +236,10 @@ E-mail : contact@piasa-paris.com
 PICARD AUDAP SOLANET VELLIET 
 
 5, RUE DROUOT 75009 PARIS -TÉLÉPHONE : (33) 01 53 34 10 10 -TÉLÉCOPIE : (33) 01 53 34 10 1 1 
-http://www.auctionconsult.com/piasa -contact@piasa-paris.com </title>
+http://www.auctionconsult.com/piasa -contact@piasa-paris.com </front>
 
 
-<unit>COLLECTION D&apos;UN AMATEUR 
+<body>COLLECTION D&apos;UN AMATEUR 
 
 Monnaies grecques 
 
@@ -2629,10 +2629,10 @@ C. Bourdier. Les Ordres Français et les Récompenses Nationales. Versailles, 19
 292 
 
 F. Mazerolle, &quot;Jean Varin.&quot; Tome 1. Editions E. Bourgey,J. Schemit. Paris. Etat neuf. 
-160/200 </unit>
+160/200 </body>
 
 
-<reference>RÉFÉRENCES BIBLIOGRAPHIQUES 
+<front>RÉFÉRENCES BIBLIOGRAPHIQUES 
 
 Pour les monnaies grecques 
 
@@ -2766,7 +2766,7 @@ English hammered coinage. 2 vol. Londres, 1960-1963.
 YEOMAN 
 Modem World Coins. USA, 1984. 
 
-1, </reference>
+1, </front>
 
 
 <back>Photos Tarek Charara -Tel. 06.60.47.99.88 -SNAG Le Havre -Tel. 02.35.22.80.51 </back>

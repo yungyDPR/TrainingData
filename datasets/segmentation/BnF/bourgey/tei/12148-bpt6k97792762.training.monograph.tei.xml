@@ -12,7 +12,7 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 m 
 
@@ -22,7 +22,7 @@ Si
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -2846,7 +2846,7 @@ H.C.5
 180 </annex>
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 GRECQUES -ROMAINES -BYZANTINES -GAULOISES 
 FRANÇAISES 
@@ -2912,10 +2912,10 @@ EXPOSITION PUBLIQUE
 Le mercredi 28 février, de 11 hà 18h, Salle n°8 
 
 EXPOSITION PRIVÉE 
-Chez M. Emile Bourgey -7, rue Drouot, du 12 au 23 février (jours ouvrables) </title>
+Chez M. Emile Bourgey -7, rue Drouot, du 12 au 23 février (jours ouvrables) 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -3011,10 +3011,10 @@ Fair
 
 2 -3/10 
 
-Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. </preface>
+Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIESGRECQUES: 
 
@@ -3339,11 +3339,11 @@ TRÉSOR DE NUMISMATIQUE ET DE GLYPTIQUE. Paris, 1834-1836.
 
 -
 
-J. TRICOU. Les jetons consulaires de Lyon. Paris, 1955. </reference>
+J. TRICOU. Les jetons consulaires de Lyon. Paris, 1955. </front>
 
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 (en argent sauf indication contraire) 
 
@@ -5335,7 +5335,7 @@ INTAILLES ET CAMÉES DU 1ge SIÈCLE
 
 393 -5 petites Intailles, 2 Camées dont l&apos;un presque totalement détruit, une Bague en bronze. 
 
-1.500/2.000 </unit>
+1.500/2.000 </body>
 
 
 <back>La Renaissance </back>

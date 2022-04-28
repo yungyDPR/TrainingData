@@ -14,13 +14,13 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 GRECQUES, ROMAINES, BYZANTINES, FRANÇAISES, 
 FEODALES, ETRANGERES, MEDAILLES, JETONS, 
@@ -64,10 +64,10 @@ Chez Sabine BOURGEY -7, rue Drouot du 26 février au 11 mars (jours ouvrables).
 
 De 9h 15 à 12h et de 13h à 18h 
 
-1 </title>
+1 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -151,10 +151,10 @@ Fair
 
 2-3/10 
 
-Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. </preface>
+Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -271,10 +271,10 @@ FEUARDENT
 
 H. 
 
-G. F. HILL, &quot;A corpus of italian medals of the Renaissancebefore Cellini&quot;, 1930. </reference>
+G. F. HILL, &quot;A corpus of italian medals of the Renaissancebefore Cellini&quot;, 1930. 
 
 
-<preface>PREFACE 
+PREFACE 
 
 Deux objets romains en or exceptionnels se détachent de cette vente. Un aureus de l&apos;empereur 
 Postume (dans la deuxième partie du Ille siècle après J.-C.) avec un très rare portrait à gauche, d&apos;un 
@@ -314,10 +314,10 @@ numismatique. Enfin, pour conclure, une très importante collection de billets d
 
 l&apos;activité numismatique. 
 
-Sabine BOURGEY </preface>
+Sabine BOURGEY </front>
 
 
-<unit>MONNAIES GRECQUES 
+<body>MONNAIES GRECQUES 
 
 *1-TARENTE. Didrachme. (344-334).Ephèbe nu couronnant son cheval. Sous le cheval, un autre éphèbe retire une épine du 
 
@@ -1524,7 +1524,7 @@ Vietnam, Yemen, Yougoslavie, Serbie, Zaïre, Zambie,Zimbawe.Ens. environ 510. Ex
 
 213 -Mallette en skaï. 7 plateaux : 40 petites cases (6) + 24 cases (1). Feutrine rouge. 
 
-500/700 </unit>
+500/700 </body>
 
 
 

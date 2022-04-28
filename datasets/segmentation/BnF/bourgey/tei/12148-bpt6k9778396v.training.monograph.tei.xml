@@ -4,15 +4,15 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>BOU 
+<other>BOU 
 
 1979 
 
 M A 1 
 
-20 
+20 </other>
 
-FRANCE -CHARTRES 
+<front>FRANCE -CHARTRES 
 
 Collection de Me B... 
 
@@ -58,10 +58,10 @@ ExpertNational près les Cours d&apos;Appel et les Douanes
 
 EXPOSmONS : Vendredi 18 Mai de 15 h. à 17 h. et de 20 h. 30 à 22 h. 
 Samedi 19 Mai de 10 h. à 12 h. et de 14 h. à 17 h. 
-Dimanche 20 Mai de 10 h. à 11 h. 30. </title>
+Dimanche 20 Mai de 10 h. à 11 h. 30. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -89,9 +89,9 @@ B./T.B.
 
 8 à 9/10 
 
-4 à 5/10 </preface>
+4 à 5/10 </front>
 
-<unit>DIMANCHE 20 MAI 1979 
+<body>DIMANCHE 20 MAI 1979 
 
 à 10 H. 30 
 
@@ -2206,9 +2206,9 @@ PIE IX. (1846-1870). 2,50 Scudi. Buste à g. R/. Valeur et millésime dans une c
 
 189 
 
-Scudo. Mêmes types variés. (P. 391 p. 257). Rome, 1865, an XIX. Or. Presque Superbe. </unit>
+Scudo. Mêmes types variés. (P. 391 p. 257). Rome, 1865, an XIX. Or. Presque Superbe. </body>
 
-<preface>et à la Galerie de Chartres : Vendredi 18 Mai de 15 h. à 17 h. 
+<front>et à la Galerie de Chartres : Vendredi 18 Mai de 15 h. à 17 h. 
 Samedi 19 Mai de 10 h. à 12 h. et de 14 h. à 18 h. 
 Dimanche 20 Mai de 10 h. à 12 h. 
 
@@ -2224,10 +2224,10 @@ CONDITIONS DE LA VENTE
 ORDRES D&apos;ACHATS 
 
 -Mes Jean et Jean-Pierre LELIEVRE et l&apos;Expert se chargent d&apos;exécuter gratuitement les ordres d&apos;achats 
-qui leur sont confiés, en particulier pour les amateurs ne pouvant assister à la vente. </preface>
+qui leur sont confiés, en particulier pour les amateurs ne pouvant assister à la vente. 
 
 
-<advertising>FRANCE -CHARTRES 
+FRANCE -CHARTRES 
 
 GALERIE DE CHARTRES 
 
@@ -2263,9 +2263,9 @@ et d&apos;AMEUBLEMENT XVIIe -XVIIIe -XIXe.
 S.C.P. Jean et Jean-Pierre LELIEVRE -Commissaires-PriseursAssociés 
 
 1 bis, Place Général de Gaulle -28000 CHARTRES 
-Tél. (37) 36.04.33 -Télex Chamco 760.830. 
+Tél. (37) 36.04.33 -Télex Chamco 760.830. </front>
 
-egatt sâtael </advertising>
+<other>egatt sâtael </other>
 
 
 

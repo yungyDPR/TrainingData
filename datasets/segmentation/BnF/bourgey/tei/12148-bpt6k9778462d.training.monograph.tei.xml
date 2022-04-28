@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>BOURGEY 
+<front>BOURGEY 
 
 L Médailles 
 
@@ -29,11 +29,11 @@ Les pièces sont garanties authentiques, de l&apos;époque et conformes à la de
 Les prix en francs français sont absolument nets. Le port est à la charge des 
 
 acheteurs. Les commandes seront servies selon l&apos;ordre de réception. 
-Payement au comptant à la livraison. </title>
+Payement au comptant à la livraison. </front>
 
-<unit>PfJfUIIES ROMPES 
+<other>PfJfUIIES ROMPES </other>
 
-1 
+<front>1 
 
 République. Sextans. Mercure. R. Proue (B. p. 46 n°1 8). Br. 
 
@@ -1900,7 +1900,7 @@ Protestation de Napoléon. 1815. Buste avec le petit chapeau. Rogat,
 
 Mort de Napoléon à Sainte-Hélène, 1821. Br. 5i mm. TB. 
 
-80 </unit>
+80 </front>
 
 
 </text>

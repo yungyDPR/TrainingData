@@ -14,15 +14,15 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-30mars [texte_manquant] </cover>
+30mars [texte_manquant] </other>
 
 
 
-<title>TRÈS IMPORTANTE COLLECTION 
+<front>TRÈS IMPORTANTE COLLECTION 
 
 DE 
 
@@ -78,10 +78,10 @@ Chez M. Emile Bourgey
 
 -
 
-7, rue Drouot, du 12 au 27 mars 1990 (jours ouvrables) </title>
+7, rue Drouot, du 12 au 27 mars 1990 (jours ouvrables) 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -171,7 +171,7 @@ Fair
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. </front>
 
 
 <annex>E. et S. BOURGEY 
@@ -987,7 +987,7 @@ N°F
 2.100 </annex>
 
 
-<preface>Cette très importante collection composée uniquement de monnaies fran-
+<front>Cette très importante collection composée uniquement de monnaies fran-
 çaises du début de l&apos;époque carolingienne jusqu&apos;au XXe siècle, présente de 
 
 multiples attraits. 
@@ -1107,10 +1107,10 @@ nombreux exemplaires d&apos;excellente qualité qui forment une Numismatiquehaut
 
 ment recherchée pour sa qualité et sa variété. 
 
-E. BOURGEY </preface>
+E. BOURGEY 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 -
 
@@ -1172,7 +1172,7 @@ M. PROU. Les monnaies carolingiennes de la Bibliothèque Nationale. Paris, 1896.
 
 -
 
-H.A. SEABY. Coins of England and the United Kingdom. 16e éd. Londres, 1978. </reference>
+H.A. SEABY. Coins of England and the United Kingdom. 16e éd. Londres, 1978. </front>
 
 
 
@@ -1180,7 +1180,7 @@ H.A. SEABY. Coins of England and the United Kingdom. 16e éd. Londres, 1978. </r
 
 
 
-<unit>MONNAIES CAROLINGIENNES 
+<body>MONNAIES CAROLINGIENNES 
 
 CHARLEMAGNE. (768-814). 
 
@@ -3977,7 +3977,7 @@ Superbe
 
 5.000/6.000 
 
-DIVERS. </unit>
+DIVERS. </body>
 
 
 <back>Imprimé en Suisse par Attinger. Neuchâtel </back>

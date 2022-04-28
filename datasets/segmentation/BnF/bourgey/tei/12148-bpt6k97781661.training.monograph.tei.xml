@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>NUMISMATIQUE 
+<front>NUMISMATIQUE 
 MONNAIES -MÉDAILLES 
 
 SABINE BOURGEY 
@@ -30,10 +30,10 @@ Paiement au comptantà la réception du bordereau. C.C.P. au nom de
 Sabine BOURGEYParis 8309-68 G. 
 
 ETATS DE CONSERVATION 
-( Par ordre décroissant) </title>
+( Par ordre décroissant) </front>
 
 
-<unit>MONNAIES D&apos;OR (saufindications contraires) 
+<body>MONNAIES D&apos;OR (saufindications contraires) 
 
 -1 MYSIE. Cyzique. (Ve s. av.). Hecté d&apos;electrum. Thons. R/. Carré creux quadriparti en 
 
@@ -1184,7 +1184,7 @@ DIVERS
 
 -219 Coffret. 2 plateaux. 18 cases, skaï rouge. 24 cm x 13 cm. 
 
-500 </unit>
+500 </body>
 
 
 </text>

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>Mes Jacques-Philippe BONDU et Dominique BONDU 
+<front>Mes Jacques-Philippe BONDU et Dominique BONDU 
 
 Commissaires-PriseursAssociés 
 
@@ -12,10 +12,10 @@ MONNAIES
 BIJOUX -
 ORFÈVRERIE 
 
-NOUVEAU DROUOT, SALLE N°1 </cover>
+NOUVEAU DROUOT, SALLE N°1 
 
 
-<cover>NOUVEAU DROUOT, SALLE N°4 
+NOUVEAU DROUOT, SALLE N°4 
 LUNDI 27 JUIN A 14 HEURES 
 
 OBJETS D&apos;ART ET D&apos;AMEUBLEMENT 
@@ -23,10 +23,10 @@ OBJETS D&apos;ART ET D&apos;AMEUBLEMENT
 principalement du XVIIIe 
 
 Exposition publique : Samedi 25 juin de 11 heures à 18 heures. 
-Catalogue : </cover>
+Catalogue : 
 
 
-<title>MONNAIES D&apos;OR 
+MONNAIES D&apos;OR 
 FRANÇAISES ET ÉTRANGÈRES 
 
 BIJOUX 
@@ -89,10 +89,10 @@ Pour les bijoux et l&apos;orfèvrerie
 M. R. DECHAUT, Expert près la Cour d&apos;Appel de Paris-Assesseurprès les Douanes Françaises 
 M. T. STETTEN, Expert Joaillier -14, rue Favart, 75002 Paris -Tél. : 260.27.14. 
 
-Exposition publique : Mardi 24 Mai, salle 1, de 11 heures à 18 heures. </title>
+Exposition publique : Mardi 24 Mai, salle 1, de 11 heures à 18 heures. 
 
 
-<preface>Ventes aux Enchères 
+Ventes aux Enchères 
 
 Conditions de Ventes : elles se font au comptant. 
 
@@ -121,9 +121,9 @@ cas où les personnes désirent connaître le prix d&apos;un Objet.
 Il peut établir un ACTE pour faire obstacle à la règle des 5 (j&apos;Y (IMPOT sur les GRANDES 
 FORTUNES). 
 Pour les ASSURANCES, il peut, avant le contrat, dresser l&apos;état estimatifdes biens à garan-
-tir et en cas de sinistre, défendre les intérêts de l&apos;assuré. </preface>
+tir et en cas de sinistre, défendre les intérêts de l&apos;assuré. 
 
-<toc>ORDRE DE VACATION 
+ORDRE DE VACATION 
 
 Pièces de monnaies 
 du n°1 au n°11 
@@ -136,10 +136,10 @@ du n°116aun°147
 Argenterie moderne 
 du n°148 au n°192 
 Métal argenté 
-du n°193 au n°200 </toc>
+du n°193 au n°200 </front>
 
 
-<unit>MONNAIES D&apos;OR 
+<body>MONNAIES D&apos;OR 
 
 MONNAIES FRANÇAISES. 
 
@@ -1084,7 +1084,7 @@ Travail français.
 
 200. Lot en métal argenté composé de : onze fourchettes à huîtres et deux pelles à 
 
-glace. </unit>
+glace. </body>
 
 
 

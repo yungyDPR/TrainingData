@@ -8,14 +8,14 @@
 
 
 
-<cover>~NDÔME 
+<other>~NDÔME 
 
-)ES VENTES 
+)ES VENTES </other>
 
-5 Blois -41100 Vendôme 
-,80.24.24 
+<front>5 Blois -41100 Vendôme </front>
+<other>,80.24.24 </other>
 
-PHILIPPE ROUILLAC 
+<front>PHILIPPE ROUILLAC 
 
 Commissaire-Priseur 
 
@@ -23,9 +23,9 @@ au département du Loir-et-Cher
 
 Dimanche 17 mai 
 
-A 14 h 30 </cover>
+A 14 h 30 </front>
 
-<unit>MONNAIES D&apos;OR 
+<body>MONNAIES D&apos;OR 
 
 Trouvaille de 75 pièces, principalement 33 écus d&apos;or à la couronne de Charles VI, et monnaies XVIII--XIXe 
 
@@ -104,9 +104,9 @@ trouées eu soudées.
 
 56-2 lots de pièces en bronze 
 
-57 et suivants... </unit>
+57 et suivants... </body>
 
-<preface>Conditions de la vente : Paiement comptant -Frais en sus 17, 674 %. </preface>
+<front>Conditions de la vente : Paiement comptant -Frais en sus 17, 674 %. </front>
 
 
 

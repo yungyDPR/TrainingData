@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>E. &amp; S. BOURGEY 
+<front>E. &amp; S. BOURGEY 
 
 Experts 
 
@@ -19,11 +19,11 @@ BOU
 
 VENTE A L&apos;AMIABLE 
 
-Septembre 1987 </cover>
+Septembre 1987 
 
 
 
-<preface>IX-87 
+IX-87 
 
 Les prix, en francs français, sont nets. Le port est à la charge des acheteurs. Les ordres seront exécutés 
 selon l&apos;ordre de réception. 
@@ -52,9 +52,9 @@ B/T.B
 
 B ..................................................... 
 
-1/10 </preface>
+1/10 </front>
 
-<unit>MONNAIES EN OR 
+<body>MONNAIES EN OR 
 
 1 ZEUGITANE. Carthage. Statère. Tête de Tanit couronnée de roseaux à g. R/. Cheval 
 
@@ -1842,11 +1842,11 @@ pression de l&apos;éd. 1942. Cart
 
 
 
-Classeurs, coffrets et mallettes : nous consulter. </unit>
+Classeurs, coffrets et mallettes : nous consulter. </body>
 
 
 
-<advertising>Nous vous rappelons l&apos;ensemble de nos activités : 
+<front>Nous vous rappelons l&apos;ensemble de nos activités : 
 
 0 Achats 
 0 ventes à l&apos;amiable 
@@ -1866,7 +1866,7 @@ Chaque volume comportera des notices historiques, thématiques et numismatiques.
 parution du Ier volume : LA RÉPUBLIQUE ROMAINE 
 
 180 francs environ. 
-Éditeur EPONA, 33 bis boulevard Bourdon, 75004 Paris -Tél. (1) 48.04.55.55. </advertising>
+Éditeur EPONA, 33 bis boulevard Bourdon, 75004 Paris -Tél. (1) 48.04.55.55. </front>
 
 
 </text>

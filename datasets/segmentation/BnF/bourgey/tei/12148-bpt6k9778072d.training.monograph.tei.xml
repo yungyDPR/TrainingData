@@ -14,24 +14,24 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] </other>
 
-MONNAIES 
+<front>MONNAIES 
 
 JETONS 
 
-MEREAUX 
+MEREAUX </front>
 
-[texte_manquant] 
+<other>[texte_manquant] </other>
 
-Expert national 
+<front>Expert national 
 
 PALAIS D&apos;ORSAY 
 
 DROUOT 
 -RIVE GAUCHE 
 
-Les lundi 13 et mardi 14 juin 1977 </cover>
+Les lundi 13 et mardi 14 juin 1977 </front>
 
 
 
@@ -3338,7 +3338,7 @@ iii iii </annex>
 
 
 
-<title>MONNAIES 
+<front>MONNAIES 
 
 GRECQUES -ROMAINES 
 BYZANTINES -GAULOISES 
@@ -3386,10 +3386,10 @@ EXPOSITION PRIVÉE
 
 chez M. Émile Bourgey 7, rue Drouot, du 31 mai au 8 juin 1977 
 
-(jours ouvrables) </title>
+(jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 
@@ -3423,9 +3423,9 @@ record.
 N°161 will be registered on Me Chochon&apos;s auction official record. 
 The conditions of sale are subject to existing French regulations regarding 
 
-public auctions. </preface>
+public auctions. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le lundi 13 juin à 14 h 15 : N°1 à 238 -Monnaies Grecques, Romaines, 
 
@@ -3433,9 +3433,9 @@ Gauloises, Françaises.
 
 Le mardi 14 juin à 14 h 15 : N°239 à la fin -Essais monétaires et divers, 
 Monnaies Féodales, Etrangères, Jetons et méreaux, Lots, Ouvrages 
-numismatiques. </toc>
+numismatiques. 
 
-<preface>ETATS DE CONSERVATION 
+ETATS DE CONSERVATION 
 
 indiqués 
 
@@ -3578,10 +3578,10 @@ Tel est l&apos;essentiel de cet ensemble qui se terminera par la présentation
 
 aux enchères, de monnaies en lots de toutes les époques de la Numismatique. 
 
-Emile BOURGEY. </preface>
+Emile BOURGEY. </front>
 
 
-<unit>Le Lundi 13 Juin à 14 h. 15 
+<body>Le Lundi 13 Juin à 14 h. 15 
 
 MONNAIES GRECQUES 
 
@@ -6089,10 +6089,10 @@ et imperatorum romanorum numismata... Deux tomes en un volume. 1663-1671. 38 et 
 
 veau. Reliure d&apos;époque, cuir en état moyen. 
 
--Lot de 30 cartons, un classeur et trois boites. La plupart 24x36. </unit>
+-Lot de 30 cartons, un classeur et trois boites. La plupart 24x36. </body>
 
 
-<reference>BIBLIOGRAPHIE 
+<front>BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -6490,7 +6490,7 @@ ROBERT. Numismatique de Cambrai. Paris, 1861.
 
 R. 
 
-LA TOUR. Catalogue de la Collection Rouyer. Paris, 1899-1910. </reference>
+LA TOUR. Catalogue de la Collection Rouyer. Paris, 1899-1910. </front>
 
 
 <back>Imprimerie des Arts et Manufactures 

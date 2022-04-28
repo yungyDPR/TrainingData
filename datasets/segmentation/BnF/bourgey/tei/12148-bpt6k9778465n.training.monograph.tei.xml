@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>N XXVII 
+<front>N XXVII 
 
 MONNAIES 
 
@@ -17,12 +17,12 @@ JETONS
 Vente à l&apos;amiable 
 
 Les pièces sont garanties authentiques, de l&apos;époque el conformes à la description. 
-Les prix en francs français sont absolument nets. Le port est à la charge les 
+Les prix en francs français sont absolument nets. Le port est à la charge les </front>
 
-jk&apos;//c/c&apos;!&lt;/&apos;.s. Les commandes seront servies selon l&apos;ordre de réception. 
-Payement au comptant à la livraison. </title>
+<other>jk&apos;//c/c&apos;!&lt;/&apos;.s. Les commandes seront servies selon l&apos;ordre de réception. </other>
+<front>Payement au comptant à la livraison. </front>
 
-<unit>PLAIES DE hll RÉPUBLIQUE ROMAINE* 
+<body>PLAIES DE hll RÉPUBLIQUE ROMAINE* 
 
 
 Calpurnia. Saturne. l!f. Piso et Caepio \B. 5). Den. Arg. TB. 
@@ -1776,7 +1776,7 @@ Tours, 1780(F. 8364). Arg. TB.
 
 TB. 
 
--225 </unit>
+-225 </body>
 
 
 </text>

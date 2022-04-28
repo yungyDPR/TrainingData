@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>ÉTUDE DE MAITRE GILLES THÉLOT 
+<front>ÉTUDE DE MAITRE GILLES THÉLOT 
 
 Commissaire 
 -Priseur à BLOIS (41000) 
@@ -26,10 +26,10 @@ Tél. : (54) 78
 -67 
 ou 770 
 
--35 -18. </cover>
+-35 -18. 
 
 
-<preface>, .. CONDITIONS DE LA VENTE 
+, .. CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -43,10 +43,10 @@ ORDRES D&apos;ACHATS
 Le Commissaire 
 
 -Priseur se charge d&apos;exécuter gratuitement les ordres d&apos;achats qui 
-lui sont confiés en particulier par les amateurs ne pouvant assister à la vente. </preface>
+lui sont confiés en particulier par les amateurs ne pouvant assister à la vente. </front>
 
 
-<unit>1 
+<body>1 
 
 -MONNAIES : (de 14 h 30 à 15 h 30) 
 
@@ -414,7 +414,7 @@ Nombreux bibelots
 
 Bijoux -Tableaux -
 
-Gravures Mobilier rustique. </unit>
+Gravures Mobilier rustique. </body>
 
 
 

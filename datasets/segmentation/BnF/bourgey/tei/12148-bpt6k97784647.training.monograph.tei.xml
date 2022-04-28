@@ -4,38 +4,38 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>ETIENNE BOURGEY 
+<front>ETIENNE BOURGEY </front>
 
-m-xxwm 
+<other>m-xxwm 
 
 BOU 
 LISTE 
 1939 
 
-----
+----</other>
 
-en Médailles 
+<front>en Médailles 
 
-Drouot, 7 
+Drouot, 7 </front>
 
-S-IXB 
+<other>S-IXB 
 
--.OVENCE 88-67 
+-.OVENCE 88-67 </other>
 
-MONNAIES ANTIQUES 
+<front>MONNAIES ANTIQUES 
 
 MONNAIES FRANÇAISES 
 ET ÉTRANGÈRES 
 
-Vente à l&apos;amiable </title>
+Vente à l&apos;amiable 
 
-<preface>Les pièces sont garanties authentiques, de l&apos;époque et conformes ci la description. 
+Les pièces sont garanties authentiques, de l&apos;époque et conformes ci la description. 
 Les prix en francs français sont absolument nets. Le port est à la charge des 
 
 ,ldleteurs. Les commandes seront servies selon l&apos;ordre de réception. 
-Payement au comptant ci la livraison. </preface>
+Payement au comptant ci la livraison. </front>
 
-<unit>PLUIES GRECQUES 
+<body>PLUIES GRECQUES 
 
 i Campanie. Naples. Tête de nymphe. Rf. Taureau couronné par 
 
@@ -1915,7 +1915,7 @@ Italie. Benevent. Grimoald. Tiers-de sou d&apos;or. TB.
 
 Vatican. Pie IX. Scudo, 1862. Or. TB. 
 
-iso </unit>
+iso </body>
 
 
 </text>

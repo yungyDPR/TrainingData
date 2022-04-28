@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>BOU 
+<other>BOU 
 
 1944 
 
@@ -14,32 +14,32 @@ FEV16
 
 
 
-MON N AIES 
+MON N AIES </other>
 
-JETONS 
+<front>JETONS 
 
 VENTE HOTEL DROUOT 
 
 Salle N°9 
 
-LE MERCREDI16 FEVRIER 1944 </cover>
+LE MERCREDI16 FEVRIER 1944 </front>
 
 
 
-<title>M 0 N N A 1 E S 
+<other>M 0 N N A 1 E S </other>
 
-JETONS -
+<front>JETONS -
 MÉDAILLES 
 
 1 
 
 Vente HOTEL DROUOT, Salle N°9 
 
-Le MERCREDI 16 FEVRIER 1944, à 14 heures 
+Le MERCREDI 16 FEVRIER 1944, à 14 heures </front>
 
-.-
+<other>.-</other>
 
-1 
+<front>1 
 
 Me Roger MOREL d&apos;ARLEUX 
 
@@ -57,17 +57,17 @@ Exposition Publique le Mardi 15 Février 1944, Salle 9
 
 EXPOSITION PARTICULIÈRE du 7 au 12 Février 1944 
 
-Maison BOURGEY, 7, rue Drouot </title>
+Maison BOURGEY, 7, rue Drouot 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant, 17,50 ou 27,50 % en plus des enchères. 
 
-Les pièces décrites sont garanties authentiques. </preface>
+Les pièces décrites sont garanties authentiques. </front>
 
 
-<unit>M&apos;ONNAIES ANTIQUES 
+<body>M&apos;ONNAIES ANTIQUES 
 
 I. GRÈCE. Lot de pièces diverses : tétradrachmes, didrachme, drachme. Arg. 10 p. AB. 
 et B. 
@@ -466,7 +466,7 @@ ments. Arg. 3 p. B. et TB.
 222. Médailles de bronze diverses. 20 p. TB. 
 223. Lot de refrappes en bronze. 18 p.. TB. 
 
-224. GRAND LOT de monnaies françaises et étrangères en bronze, nickel.&apos; </unit>
+224. GRAND LOT de monnaies françaises et étrangères en bronze, nickel.&apos; </body>
 
 
 

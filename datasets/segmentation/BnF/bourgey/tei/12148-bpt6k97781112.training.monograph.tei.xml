@@ -14,11 +14,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -1456,7 +1456,7 @@ N°Estimations
 
 
 
-<title>Monnaies 
+<front>Monnaies 
 
 GRECQUES -ROMAINES 
 BYZANTINES -GAULOISES -FRANÇAISES 
@@ -1498,10 +1498,10 @@ Le mercredi 16 mai 1984 de 11 heures à 18 heures, salle n°10
 
 EXPOSITION PRIVÉE 
 
-chez M. Emile Bourgey, 7, rue Drouot, du 2 au 15 mai 1984 (jours ouvrables) </title>
+chez M. Emile Bourgey, 7, rue Drouot, du 2 au 15 mai 1984 (jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant 
 
@@ -1544,9 +1544,9 @@ Les numéros 345, 346 et 361 seront inscrits sur le procès-verbalde Mes Libert 
 
 Les numéros 533, 534, 538, 539, 670 à 676 seront inscrits sur le procès-verbalde M&quot; Oger et Dumont, commissaires-priseursà Paris. 
 
-Le numéro 327 sera inscrit sur le procès-verbal de Me Vincent, commissaire-priseurà Paris. </preface>
+Le numéro 327 sera inscrit sur le procès-verbal de Me Vincent, commissaire-priseurà Paris. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le jeudi 17 mai 1984 
 14 h Nos 1 à 289 
@@ -1561,9 +1561,9 @@ wisigothe.
 Monnaies royales françaises. 
 Monnaiesfrançaises de Bonaparte à nos jours. Monnaies 
 coloniales et féodales. Monnaies étrangères. Jetons du 
-Languedoc. Médailles. Livres. Coffrets-médailliers. </toc>
+Languedoc. Médailles. Livres. Coffrets-médailliers. 
 
-<preface>ÉTATS DE CONSERVATION INDIQUÉS 
+ÉTATS DE CONSERVATION INDIQUÉS 
 SCALE DESCRIBING THE CONDITIONS 
 OF THE COINS 
 
@@ -1692,10 +1692,10 @@ jetonophiles, puis quelques médailles clôtureront cet ensemble numismatique de
 
 où toutes les disciplines sont représentées. 
 
-E. BOURGEY </preface>
+E. BOURGEY 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -2058,10 +2058,10 @@ A. LOBBECKE.Sammlung Arthur LÓbbecke. Munich, 1908.
 
 V.L. 
 
-G. VAN LOON. Histoire métallique des 17 provincesdes Pays-Bas. La Haye, 1 732-1737. </reference>
+G. VAN LOON. Histoire métallique des 17 provincesdes Pays-Bas. La Haye, 1 732-1737. </front>
 
 
-<unit>Le Jeudi 17 mai 1984 à 14 heures 
+<body>Le Jeudi 17 mai 1984 à 14 heures 
 
 MONNAIES GRECQUES 
 
@@ -4794,7 +4794,7 @@ AFFRY DE LA MONNOYE(A. d&apos;). Les Jetons de l&apos;Echevinage parisien. Paris
 679 
 
 COFFRETS-MÉDAILLIERS (2) de 24 x 20 x 7,5 cm. comportant chacun 5 plateaux de 12 cases de 45 x 
-45 mm. Pourra être divisé. </unit>
+45 mm. Pourra être divisé. </body>
 
 <back>Photos Tarek Charrara pour IBMA-833-22-29 
 

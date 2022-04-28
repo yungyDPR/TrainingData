@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>NUMISMATIQUE 
+<front>NUMISMATIQUE 
 MONNAIES -MÉDAILLES 
 
 SABINE BOURGEY 
@@ -22,9 +22,9 @@ FAX ( ) 42 46 58 48
 
 HORS CATALOGUE 
 VENTE HOTEL MILLENNIUM 
-2-3 avril 2001 </title>
+2-3 avril 2001 </front>
 
-<unit>1Monnaies romaines. Deniers. République romaine. M. Baebius 
+<body>1Monnaies romaines. Deniers. République romaine. M. Baebius 
 
 Tampilus. Mn. Aquilius (fourré). C. Caecilius Metellus. Empire 
 romain. Auguste, Lyon. Tibère (fourré), Néron, Vespasien, Rome... 
@@ -290,7 +290,7 @@ Rennes. 1589. (Dy. 1133). Louis XIII. Douzième d&apos;écu. Paris.
 
 Ens. 5 p. TB. 
 
-2.000/2.300 </unit>
+2.000/2.300 </body>
 
 
 

@@ -4,12 +4,12 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>BOU 
+<other>BOU 
 1980 
 
-JUIl2 
+JUIl2 </other>
 
-MONNAIES 
+<front>MONNAIES 
 
 DE 
 
@@ -43,10 +43,10 @@ le 1er juillet 1980 de 11 à 18 heures
 EXPOSITION PRIVÉE 
 chez M. Émile BOURGEY, 7, rue Drouot, du 23 au 30 juin 1980 
 
-(jours ouvrables) </title>
+(jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant 
 Les acquéreurs paieront, en sus du prix d&apos;adjudication : 
@@ -78,10 +78,10 @@ T.B.
 
 B/T.B. 
 
-= entre 3 à 2/10 </preface>
+= entre 3 à 2/10 </front>
 
 
-<unit>MONNAIES EN OR 
+<body>MONNAIES EN OR 
 
 1 -GRECE. ROYAUME DE MACÉDOINE. PHILIPPE II. (359-336). Statère. 
 
@@ -631,7 +631,7 @@ Ancône. 1734. Par O. Hameranus. (Forrer II, p. 405). 72mm. Très Beau.
 
 médailles diverses. Ens. 26p. 4 Arg. 1 Pb., les autres Br. Quelques galvano. 
 B./T.B. et T.B. 
-300/400 </unit>
+300/400 </body>
 
 
 

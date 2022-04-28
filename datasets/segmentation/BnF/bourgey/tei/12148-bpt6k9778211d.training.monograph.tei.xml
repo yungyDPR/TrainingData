@@ -14,11 +14,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -4677,7 +4677,7 @@ N°Estimations
 
 
 
-<title>Monnaies 
+<front>Monnaies 
 
 GRECQUES -ROMAINES 
 BYZANTINES -GAULOISES -FRANÇAISES 
@@ -4724,10 +4724,10 @@ EXPOSITIONPUBLIQUE
 Le samedi 5 et le dimanche 6 novembre 1983 de 11 heures à 18 heures, salle n°14 
 
 EXPOSITION PRIVÉE 
-chez M. Émile Bourgey, 7, rue Drouot, du 20 octobre au 3 novembre 1983 (jours ouvrables) </title>
+chez M. Émile Bourgey, 7, rue Drouot, du 20 octobre au 3 novembre 1983 (jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant 
 
@@ -4768,9 +4768,9 @@ Les numéros 4, 34, 41, 61, 93, 97, 204 à 211, 213 à 217, 219, 222 à 225, 227
 
 412, 413, 415, 417 à 419, 447, 453, 458, 459, 463, 534, 600 à 606, seront inscrits sur le procès-verbalde Me Cornette de Saint-Cyr, commissaire-
 
-priseur à Paris. </preface>
+priseur à Paris. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le lundi 7 novembre 1983 
 14 h Nos 1 à 297 
@@ -4780,9 +4780,9 @@ Le mardi 8 novembre 1983
 14 h Nos 298 à la fin 
 Monnaies françaises de Bonaparteà nos jours. Monnaies 
 coloniales, féodales, étrangères. Lots. Jetons. Médailles. 
-Ouvrages numismatiques. </toc>
+Ouvrages numismatiques. 
 
-<preface>ÉTATS DE CONSERVATION INDIQUÉS 
+ÉTATS DE CONSERVATION INDIQUÉS 
 
 F.D.C. ; Fleur de coin 
 10/10 
@@ -4904,11 +4904,11 @@ Louis XV, continuée par celle de Louis XVI à la Révolution ; pour finir, est 
 
 un très grand ensemble de médailles et médaillettes du XIXe siècle à nos jours. 
 
-E. BOURGEY </preface>
+E. BOURGEY </front>
 
 
 
-<unit>Le lundi 7 novembre 1983 à 14 h 
+<body>Le lundi 7 novembre 1983 à 14 h 
 
 MONNAIES GRECQUES 
 
@@ -7410,7 +7410,7 @@ Beau et T.B.
 
 Très Beau. 
 
-Les n°s 300 et 301 ont été retirés par le vendeur. </unit>
+Les n°s 300 et 301 ont été retirés par le vendeur. </body>
 
 
 

@@ -12,7 +12,7 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
@@ -22,21 +22,21 @@
 
 [texte_manquant] 
 
-PARI ci </cover>
+PARI ci </other>
 
 
 
-<title>BOURGEY NUMISMATIQUE 
+<front>BOURGEY NUMISMATIQUE 
 
 SABINE BOURGEY 
 
 7, Rue Drouot -75009 Paris 
 Tél : 01 47 70 35 18 -01 47 70 88 67 -Fax : 01 42 46 58 48 
 
-1 </title>
+1 
 
 
-<preface>Préface 
+Préface 
 
 Cette liste a choisi de s articuler autour d&apos;un thèmeprincipal:les portraitsdefemmes sur les monnaies et autour d&apos;un 
 
@@ -66,10 +66,10 @@ fontaine du Trastevere,plus proche de la médaille que de la monnaie ou ce ducat
 Les collectionneurs de monnaies modernes seront sans doute plus sensibles à ces pièces de Madagascar ou d&apos;Hawaï ou 
 aux essais en or des XIXe et XXe siècles. 
 
-Sabine BOURGEY </preface>
+Sabine BOURGEY </front>
 
 
-<unit>PORTRAITSDE FEMMES 
+<body>PORTRAITSDE FEMMES 
 
 1 
 
@@ -1511,7 +1511,7 @@ A. Delmonte. Le Bénélux d&apos;Or. 1964.
 
 A. Delmonte. Le Bénélux d&apos;Argent. 1967. 
 
-500 </unit>
+500 </body>
 
 
 

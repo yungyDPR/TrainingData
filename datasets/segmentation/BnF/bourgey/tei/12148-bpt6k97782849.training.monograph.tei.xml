@@ -14,9 +14,9 @@
 
 
 
-<cover>PI AS A 
+<other>PI AS A </other>
 
-Commissaires Priseurs 
+<front>Commissaires Priseurs 
 Paris 
 
 NUMISMATIQUE 
@@ -29,11 +29,11 @@ SABINE BOURGEY
 
 EXPERT 
 
-DROUOT -LUNDI 17 MARS 1997 </cover>
+DROUOT -LUNDI 17 MARS 1997 
 
 
 
-<title>PIASA 
+PIASA 
 
 Commissaires Priseurs 
 
@@ -74,12 +74,12 @@ PICARD AUDAP SOLANET &amp; ASSOCIÉS
 5, RUE DROUOT 75009 PARIS 
 
 TÉLÉPHONE (33) 01 53 34 10 10 -
-TÉLÉCOPIE (33) 01 53 34 10 11 
+TÉLÉCOPIE (33) 01 53 34 10 11 </front>
 
-[texte_manquant] </title>
+<other>[texte_manquant] </other>
 
 
-<preface>La vente se fera expressément au comptant. 
+<front>La vente se fera expressément au comptant. 
 Aucune réclamation ne sera recevable dès l&apos;adjudication prononcée, les expositions successives ayant permis aux 
 
 acquéreurs de constater l&apos;état des objets présentés. 
@@ -237,10 +237,10 @@ la plus belle destination d&apos;un objet de collection est d&apos;aller au fil 
 
 l&apos;autre, comblant ainsi les désirs et les aspirations des amateurs. 
 
-Sabine BOURGEY. </preface>
+Sabine BOURGEY. 
 
 
-<reference>BIBLIOGRAPHIE : 
+BIBLIOGRAPHIE : 
 
 L. CIANI. Les monnaies royales françaises de Hugues Capet à Louis XVI. Paris, 1926. 
 CORPUS NUMMORUM ITALICORUM. Rome, 1910-1970. 
@@ -248,10 +248,10 @@ J. DUPLESSY. Les monnaies françaises royales de Hugues Capet à Louis XVI. Pari
 
 1989. 
 
-J. LAFAURIE et P. PRIEUR. Les monnaies des rois de France. Paris-Bâle, 1951-1956. </reference>
+J. LAFAURIE et P. PRIEUR. Les monnaies des rois de France. Paris-Bâle, 1951-1956. </front>
 
 
-<unit>UN SIECLE DE COLLECTION 
+<body>UN SIECLE DE COLLECTION 
 
 PHILIPPE VI de Valois 
 
@@ -1775,7 +1775,7 @@ LOUIS XVI
 
 Cette monnaiefrappée par le Cardinal de Rohan à Strasbourg pour se venger de Louis XVI après 
 
-l&apos;affaire du collier de la Reine... </unit>
+l&apos;affaire du collier de la Reine... </body>
 
 
 <back>Achevéd&apos;imprimer 
@@ -1787,8 +1787,8 @@ Dépôt légal n°31032
 
 Février 1997 
 
-Photo de couverture S. Bourgey 
-</back>
+Photo de couverture S. Bourgey </back>
+
 
 
 

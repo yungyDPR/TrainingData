@@ -4,19 +4,19 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>BOU 
+<other>BOU 
 
 1954.-
 
 15 
 
-MARS 1,7 
+MARS 1,7 </other>
 
 
 
 
 
-MONNAIES GRECQUES 
+<front>MONNAIES GRECQUES 
 
 1 
 
@@ -38,11 +38,11 @@ VENTE HOTEL DROUOT
 SALLE N°8 
 
 Les Lundi 15, Mardi 16, 
-Mercredi 17 Mars 1954 </cover>
+Mercredi 17 Mars 1954 
 
 
 
-<title>MONNAIES GRECQUES 
+MONNAIES GRECQUES 
 
 ROMAINES 
 
@@ -77,10 +77,10 @@ Expert
 
 PARIS 
 
-Exposition publique le Samedi 13 Mars 1954, Solle N°8 </title>
+Exposition publique le Samedi 13 Mars 1954, Solle N°8 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. 
 Les acquéreurs paieront 21,20 pour cent en sus des enchères. 
@@ -91,9 +91,9 @@ L&apos;ordre du catalogue sera suivi. L&apos;Expert se réserve le droit
 
 de diviser ou réunir les lots. 
 Exposition Particulière chez l&apos;Expert du 8 au 12 Mars 1954 
-(Pro 88-67). </preface>
+(Pro 88-67). 
 
-<reference>RÉFÉRENCES 
+RÉFÉRENCES 
 
 BABELON (E.) : Monnaies Consulaires. 
 COHEN : Monnaies de l&apos;Empire Romain. 
@@ -115,10 +115,10 @@ ORDRE DES VACATIONS
 Lundi 15 Mars : N°1 à 232. 
 
 Mardi 16 Mars : N°233 à 460. 
-Mercredi 17 Mars : N°461 à 716. </reference>
+Mercredi 17 Mars : N°461 à 716. </front>
 
 
-<unit>I. 
+<body>I. 
 
 -
 
@@ -2954,7 +2954,7 @@ ACQUE IL 1843. Or. 45 m/m. Anneau de suspension.
 plateaux velours rouge de 16,5 sur 25, dont 2 de 30 
 cases, 3 de 20 et 1 de 12. 
 
--Meuble-médaillier de style chinois, en bois noir, </unit>
+-Meuble-médaillier de style chinois, en bois noir, </body>
 
 
 

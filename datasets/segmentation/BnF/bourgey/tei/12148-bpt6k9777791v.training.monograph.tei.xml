@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>MAÎTRE DANIEL OFFRET 
+<front>MAÎTRE DANIEL OFFRET 
 
 COMMISSAIRE-PRISEUR 
 
@@ -17,14 +17,14 @@ LE MERCREDI 28 MAI 1986
 
 SALLE N°6 
 
-à 11 h. et à 14 h. 
+à 11 h. et à 14 h. </front>
 
-BOU 
+<other>BOU 
 
 
-,Ue RIBE YKT-; </cover>
+,Ue RIBE YKT-; </other>
 
-<unit>Vente du 12 mai 19ôtJ 
+<body>Vente du 12 mai 19ôtJ 
 
 -------
 
@@ -71,10 +71,10 @@ Très Beau
 7/ 4 jetons huissiers de Pontoise. 
 Très Beau 
 
-400/500 </unit>
+400/500 </body>
 
 
-<title>LA VENTE AUX ENCHÈRES PUBLIQUES AURA LIEU 
+<front>LA VENTE AUX ENCHÈRES PUBLIQUES AURA LIEU 
 
 NOUVEAU DROUOT -SALLE N°6 
 
@@ -124,10 +124,10 @@ Les acquéreurs paieront en sus des enchères :
 
 Le numéro 55 des monnaies sera porté sur le Procès-Verbal 
 de Maîtres COUTURIER -DE NICOLAY, Commissaires-Priseurs Associés 
-51, rue de Bellechasse, 75007 Paris -Tél. : 45.55.85.44 </title>
+51, rue de Bellechasse, 75007 Paris -Tél. : 45.55.85.44 </front>
 
 
-<unit>MONNAIES EN OR 
+<body>MONNAIES EN OR 
 
 238 Pièces de 20 francs Français -200 Pièces anglaises « Souverain » -10 Pièces de 20 francs Suisse 
 
@@ -1943,7 +1943,7 @@ Estimation : 2.000/2.500
 Buffet Empire en bois plaqué d&apos;acajou flammé ouvrant à deux vantaux montants à colonnes prolongés 
 par des pieds « griffe », dessus de marbre. Accidents et manques. Vantaux fendus. 
 Haut. : 112 cm. -Long. : 130 cm. -Prof. : 57 cm. 
-Estimation : 5.000/6.000 </unit>
+Estimation : 5.000/6.000 </body>
 
 
 

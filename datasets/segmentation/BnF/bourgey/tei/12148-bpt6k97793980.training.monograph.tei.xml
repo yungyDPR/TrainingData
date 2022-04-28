@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>1978 
+<front>1978 
 
 MARS 
 
@@ -42,16 +42,16 @@ DROUOT RIVE-GAUCHE SALLE No 11
 7, quai Anatole France, 75007 Paris 
 
 EXPOSITION PUBLIQUE 
-Le Lundi 6 Mars 1978 de 11 à 18 heures </title>
+Le Lundi 6 Mars 1978 de 11 à 18 heures 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant. Les acquéreurs paieront en sus des enchères : 
 16 % jusqu&apos;à 6.000 F, 11,50 % de 6.001 à 20.000 F, 10 % au-dessus de 20.000 F. 
-Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée. </preface>
+Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée. </front>
 
 
-<unit>Me P. PESCHETEAU ET Me CH. PESCHETEAU-BADIN 
+<body>Me P. PESCHETEAU ET Me CH. PESCHETEAU-BADIN 
 
 COMMISSAIRES-PRISEURS ASSOCIÉS 
 
@@ -97,7 +97,7 @@ LUSTRES A CRISTAUX EMPIRE
 
 IMPORTANTE BRODERIE 
 
-TAPIS D&apos;ORIENT </unit>
+TAPIS D&apos;ORIENT </body>
 
 
 </text>

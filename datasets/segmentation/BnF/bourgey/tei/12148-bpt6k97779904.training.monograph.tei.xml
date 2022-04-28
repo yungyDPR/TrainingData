@@ -4,23 +4,23 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>Jfl O N N A I E S 
+<other>Jfl O N N A I E S 
 
 BOU 
 1943 
-MARS 3 
+MARS 3 </other>
 
-MÉDAILLES 
+<front>MÉDAILLES 
 
 VEnTE HOTEL DROUOT 
 
 Salle No t0 
 
-LE MERCREDI 3 MARS 1943 </cover>
+LE MERCREDI 3 MARS 1943 
 
 
 
-<title>MONNAIES 
+MONNAIES 
 
 MÉDAILLES 
 
@@ -34,19 +34,19 @@ Me Léon FLAGEL, Commissaire-Priseur
 
 Exposition Publique le Mardi 2 Mars 1943, Salle 10 
 
-EXPOSITION PARTICULIÈRE le Lundi jer Mars 1943 </title>
+EXPOSITION PARTICULIÈRE le Lundi jer Mars 1943 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente aura lieu au comptant, 15 et 25 0/0 en 
 
 plus des enchères. 
 
-Les pièces décrites sont garanties authentiques. </preface>
+Les pièces décrites sont garanties authentiques. </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 1 
 
@@ -258,7 +258,7 @@ MÉDAILLES
 18 p. TB. 
 
 -Lot de médailles de la Révolution de 1848. Etain. 
-i5 p. TB. </unit>
+i5 p. TB. </body>
 
 
 

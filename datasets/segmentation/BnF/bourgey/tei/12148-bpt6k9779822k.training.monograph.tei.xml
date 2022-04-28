@@ -14,9 +14,9 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -3351,7 +3351,7 @@ l050,CO
 
 
 
-<title>COLLECTION CLAUDINE NAUDET 
+<front>COLLECTION CLAUDINE NAUDET 
 
 MONNAIES GRECQUES, ROMAINES, GAULOISES 
 FRANÇAISES, ÉTRANGÈRES 
@@ -3394,10 +3394,10 @@ EXPOSITION PRIVÉE
 Chez l&apos;expert -7, rue Drouot, du 19 avril au 3.0 avril (jours ouvrables) 
 
 EXPOSITION PUBLIQUE 
-Chez Me Guignard, 25, rue Paul-Guieysse -56100 Lorient, le 10 mai 10 h/12 h et 14 h/19 h </title>
+Chez Me Guignard, 25, rue Paul-Guieysse -56100 Lorient, le 10 mai 10 h/12 h et 14 h/19 h 
 
 
-<preface>CONDITIONS DE VENTE 
+CONDITIONS DE VENTE 
 
 La vente sera faite au comptant. 
 
@@ -3430,9 +3430,9 @@ Bids may be placed through the Experts, by using the enclosed order.
 
 Tel. : (1) 47.70.88.67 and 47.70.35.18. 
 Phone number during the auction : (16) 97.21.22.98. 
-The conditions of sale are subject to existing French regulations regarding public auctions. </preface>
+The conditions of sale are subject to existing French regulations regarding public auctions. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Mardi 
 11 mai 
@@ -3449,9 +3449,9 @@ Lots 330 à 531
 Mercredi 12 mai 
 
 14 h 30 
-Lots 532 à 828 </toc>
+Lots 532 à 828 
 
-<preface>ÉTATS DE CONSERVATION INDIQUÉS 
+ÉTATS DE CONSERVATION INDIQUÉS 
 
 F.D.C. : Fleur de Coin 
 
@@ -3523,7 +3523,7 @@ devient enfin accessible.
 
 Le fantasme peut devenir realite! 
 
-Sabine BOURGEY. </preface>
+Sabine BOURGEY. 
 
 
 BIBLIOGRAPHIE 
@@ -3666,7 +3666,7 @@ Sch.
 
 J. SCHULMAN. Nederlandse Munten. 1795-1969. Amsterdam, 1969. 
 
-V.G. <reference>
+V.G. 
 
 V.G. Monnaies françaises. Colonies 1670-1942. Metropole 1774-1942. Versailles, 1937-1942. 
 
@@ -3742,10 +3742,10 @@ R. GAILHOUSTE. Numismatique de l&apos;assurance. Paris, 1986.
 
 L. 
 
-M.-E. et J. LEROUGE. Jetons et documents numismatiques du notariat français. Paris, 1977. </reference>
+M.-E. et J. LEROUGE. Jetons et documents numismatiques du notariat français. Paris, 1977. </front>
 
 
-<unit>Le mardi 11 mai 1993, a 14 heures 30. 
+<body>Le mardi 11 mai 1993, a 14 heures 30. 
 
 MONNAIES GRECQUES 
 
@@ -7968,7 +7968,7 @@ AUTRE PROVENANCE
 
 Or. 6,72g. Inconnue a ce jour pour cette date. T.B. Manque sur la tranche. 
 
-20.000/25.000 </unit>
+20.000/25.000 </body>
 
 
 

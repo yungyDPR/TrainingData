@@ -14,11 +14,11 @@
 
 
 
-<cover>[texte_manquant] 
+<other>[texte_manquant] 
 
 [texte_manquant] 
 
-[texte_manquant] </cover>
+[texte_manquant] </other>
 
 
 
@@ -3180,7 +3180,7 @@ Il.000
 1.600 </annex>
 
 
-<title>Monnaies 
+<front>Monnaies 
 
 GRECQUES -ROMAINES 
 BYZANTINES -FRANÇAISES 
@@ -3215,7 +3215,7 @@ Expert Cassation Hon., Douanes, Domaines
 EXPOSITIONPUBLIQUE 
 le jeudi 7 novembre 1985, de 11 heures à 18 heures, salle n°2 
 EXPOSITION PRIVÉE 
-chez M. Emile Bourgey, 7, rue Drouot, du 21 octobre au 5 novembre 1985 (jours ouvrables) </title>
+chez M. Emile Bourgey, 7, rue Drouot, du 21 octobre au 5 novembre 1985 (jours ouvrables) </front>
 
 
 <annex>No 
@@ -3675,7 +3675,7 @@ et
 1.200 </annex>
 
 
-<title>Monnaies 
+<front>Monnaies 
 
 GRECQUES -ROMAINES 
 BYZANTINES -FRANÇAISES 
@@ -3689,10 +3689,10 @@ A SUPPRIMER
 EXPOSITIONPUBLIQUE 
 le jeudi 7 novembre 1985, de 11 heures à 18 heures, salle n°2 
 EXPOSITION PRIVÉE 
-chez M. Emile Bourgey, 7, rue Drouot, du 21 octobre au 5 novembre 1985 (jours ouvrables) </title>
+chez M. Emile Bourgey, 7, rue Drouot, du 21 octobre au 5 novembre 1985 (jours ouvrables) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente sera faite au comptant 
 
@@ -3783,10 +3783,10 @@ Fair
 2-3/10 
 
 Les numéros reproduits sur les planches sont précédés d&apos;un astérisque. 
-The numbers identified with an asterisk are illustrated on the plates. </preface>
+The numbers identified with an asterisk are illustrated on the plates. 
 
 
-<reference>BIBLIOGRAPHIE 
+BIBLIOGRAPHIE 
 
 POUR LES MONNAIES GRECQUES : 
 
@@ -4009,11 +4009,11 @@ Collection FEUARDENT. Jetons et méreaux. Paris, 1904-1915.
 
 L. 
 
-M.-E. et J. LEROUGE. Jetons et documents numismatiques du Notariat français. Paris, 1977. </reference>
+M.-E. et J. LEROUGE. Jetons et documents numismatiques du Notariat français. Paris, 1977. </front>
 
 
 
-<unit>MONNAIES ANTIQUES 
+<body>MONNAIES ANTIQUES 
 
 GRECQUES 
 
@@ -5296,7 +5296,7 @@ DIVERS
 
 -Coffret-Médaillier 35 x 23 x 10 cm comprenant 6 plateaux de 24, 40 et 60 cases. En bon état. -13 Classeurs 
 
-à feuillets plastiques. </unit>
+à feuillets plastiques. </body>
 
 
 

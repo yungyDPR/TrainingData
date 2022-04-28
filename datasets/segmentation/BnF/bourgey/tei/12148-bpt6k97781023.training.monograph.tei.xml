@@ -8,7 +8,7 @@
 
 
 
-<cover>MONNAIES D&apos;OR 
+<front>MONNAIES D&apos;OR 
 
 de 
 
@@ -18,17 +18,17 @@ provenant du
 
 Trésor de Saint 
 
--
+-</front>
 
-\\fanclrille 
+<other>\\fanclrille </other>
 
-HOTEL DROUOT 
+<front>HOTEL DROUOT 
 
-Jeudi 3 Mars 1955 </cover>
+Jeudi 3 Mars 1955 </front>
 
 
 
-<unit>A divers Amateurs 
+<body>A divers Amateurs 
 
 A. 
 
@@ -1346,7 +1346,7 @@ TOURS (Différent E)
 173G Autre. Très Beau. 
 
 299. 
-1739 Autre. Très Beau. </unit>
+1739 Autre. Très Beau. </body>
 
 
 <back>ANe. IMP ETAIX -L. </back>
