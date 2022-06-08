@@ -4,13 +4,13 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>vnumoJaiu &apos; t l ô l U l à 
+<other>vnumoJaiu &apos; t l ô l U l à 
 
 ^nçcvauù-y. 
 
-^ 0 1 j SION de jjonsieur et Jladame BOORGONHIEH 
+^ 0 1 j SION de jjonsieur et Jladame BOORGONHIEH </other>
 
-ATELIERS 
+<front>ATELIERS 
 
 DE 
 
@@ -26,20 +26,20 @@ ARTISTE PEINTRE
 
 O fficier de l &apos;In stru ction publiqu e 
 
-VENTE A PARIS 
+VENTE A PARIS </front>
 
-A I)x ix &apos;A 
+<other>A I)x ix &apos;A 
 
-HOTEL 3DROUOT, SA.LLE H » 1 
+HOTEL 3DROUOT, SA.LLE H » 1 </other>
 
-LES JEUDI 22 k VENDREDI 23 DÉCEMBRE 1921 </cover>
+<front>LES JEUDI 22 k VENDREDI 23 DÉCEMBRE 1921 </front>
 
 
-<title>H 2 ) 
+<other>H 2 ) 
 
-Qo| 
+Qo| </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -93,18 +93,18 @@ M. F. M A R B O U T IN
 
 EXPOSITION PUBLIQUE 
 
-Le M ercredi 21 Décembre 1 9 2 1 , de 2 heures à 6 heures </title>
+Le M ercredi 21 Décembre 1 9 2 1 , de 2 heures à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les adjudicataires paieront 1 7 ,5 0 p o u r cent en sus 
 des enchères pour les objets soumis a la taxe de luxe et 
-72,5o p o u r cen t pour les autres. </preface>
+72,5o p o u r cen t pour les autres. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 J e u d i 22 D écem bre 1921 
 
@@ -117,9 +117,9 @@ V en d red i 23 D écem b re 1921
 Numéros................................. 121 à 198 
 255 à 321 
 
-P a n s. -lm p . de l&apos;A rt, C h. B e r g e r , 4 1 , ru e de la V ictoire. </toc>
+P a n s. -lm p . de l&apos;A rt, C h. B e r g e r , 4 1 , ru e de la V ictoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 ATELIER CLAUDE BOURGONNIER 
 
@@ -903,7 +903,7 @@ m au x .
 
 3 16 -C hâssis. 
 
-3 17 à 320 -S ous ces n u m é ro s en v iro n v in g t cadres. </unit>
+3 17 à 320 -S ous ces n u m é ro s en v iro n v in g t cadres. </body>
 
 
 </text>

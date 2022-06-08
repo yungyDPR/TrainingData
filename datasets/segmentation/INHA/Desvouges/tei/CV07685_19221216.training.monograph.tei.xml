@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>du Samedi 16 Décembre 1922 
+<front>du Samedi 16 Décembre 1922 
 
 L DROUOT -SALLE N° 9 
 
@@ -13,10 +13,10 @@ X° 4 du Catalogue.
 ESTAMPES &amp; DESSINS 
 
 MM&quot; A. DESVOUGES et H. BAUDOIN. 
-M. LOYS DELTEIL </cover>
+M. LOYS DELTEIL 
 
 
-<title>15V1 
+15V1 
 
 AlG-
 
@@ -67,10 +67,10 @@ M* HENRI BAUDOIN
 
 EXPERT 
 
-M. LOYS DELTEIL, 2, rue des Beaux-Arts </title>
+M. LOYS DELTEIL, 2, rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -147,9 +147,9 @@ R.
 rare. 
 
 RR. 
-très rare. </preface>
+très rare. 
 
-<preface>POUR PARAITRE LE 15 DÉCEMBRE 1 9 2 2 
+POUR PARAITRE LE 15 DÉCEMBRE 1 9 2 2 
 
 Le Peintre-Graveur Illustré 
 
@@ -205,16 +205,16 @@ des Tomes X I V et X V du P E IN T R E -G R A V E U R ILL U S T R É ,
 au prix......................... 
 francs Vexemplaire. 
 
-Signature et Adresse : 
+Signature et Adresse : </front>
 
-o 
+<other>o 
 
 
 I 
 
-1 </preface>
+1 </other>
 
-<title>VENTE DE BIENS ALLEMANDS 
+<front>VENTE DE BIENS ALLEMANDS 
 
 AYANT FAIT L&apos;OBJET D&apos;UNE MESURE DE 
 
@@ -252,10 +252,10 @@ Le V e n d re d i 7 5 D écem bre 1922, de 14 h. à 18 h.
 
 E X P O S IT IO N PR IV É E 
 
-ehe4 V expert d u 4 au 19 D écem bre (Te 10 excepté). </title>
+ehe4 V expert d u 4 au 19 D écem bre (Te 10 excepté). </front>
 
 
-<unit>SÉQUESTRE HESS 
+<body>SÉQUESTRE HESS 
 
 1. BOILLY (d&apos;apr. L.). -L&apos;Amour Couronné -
 L&apos;Optique, 2 pts par Cazenave, imp. en c. avec 
@@ -1184,7 +1184,7 @@ M. LOYS DELTEIL.
 
 S jC 
 
-N° 65 du Catalogue. </unit>
+N° 65 du Catalogue. </body>
 
 
 </text>

@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>énçovauac ^4rchiceàJÎaîu&gt;naleJ 
+<other>énçovauac ^4rchiceàJÎaîu&gt;naleJ </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -52,18 +52,18 @@ R ue L affitte, 58
 
 EXPOSITION PUBLIQUE 
 
-Le M a rd i 10 J a n v i e r 1922, de 2 h e u re s à 6 h e u re s </title>
+Le M a rd i 10 J a n v i e r 1922, de 2 h e u re s à 6 h e u re s 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les acquéreurs paieront 12,So pour cent en sus 
 des enchères et i y , 5 o pour cent pour les objets soumis 
-à la taxe de luxe. </preface>
+à la taxe de luxe. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 M ercredi 11 J a n v ie r 1922 
 
@@ -76,13 +76,13 @@ N°s ...........................................................................
 
 Paris. -lm p. de l&apos;Art, C h . B e r g er , 41, rue de la Victoire. 
 
-en 
+en </front>
 
--_ 
+<other>-_ 
 . . ---■ ^ -^ 
---~^ ^ D </toc>
+--~^ ^ D </other>
 
-<unit>É SIG N A T IO N 
+<body>É SIG N A T IO N 
 
 TABLEAUX 
 
@@ -111,10 +111,10 @@ Aquarelle.
 
 BARNESI 
 
-5 -Paysan sur la route, en Italie. </unit>
+5 -Paysan sur la route, en Italie. </body>
 
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -130,9 +130,9 @@ Jeudi 12 J a n v ier 1922
 
 Paris. -lm p . de l&apos;Art, C h . B er g er , 41, rue de la Victoire. 
 
-I </preface>
+I </front>
 
-<unit>D É S IG N A T IO N 
+<body>D É S IG N A T IO N 
 
 TABLEAUX 
 
@@ -795,7 +795,7 @@ Publications, etc.
 
 243 à 25o -M étronome. -Baromètre. -Ustensiles 
 
-de photographie. -U n lot de coussins. </unit>
+de photographie. -U n lot de coussins. </body>
 
 
 </text>

@@ -4,21 +4,21 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>ESTAMPES 
+<front>ESTAMPES 
 
 PEINTURES &amp; DESSINS 
 
 ANCIENS &amp; MODERNES 
 
 M» ANDRÉ DESVOUGES. 
-M. LOYS DELTEIL. </cover>
+M. LOYS DELTEIL. </front>
 
 
 <other>/f 2 / </other>
 
-<title>CATALOGUE^ ^ 
+<other>CATALOGUE^ ^ </other>
 
-DES 
+<front>DES 
 
 ESTAMPES 
 
@@ -62,16 +62,16 @@ COMMISSAIRE-PRISEUR
 
 Assisté de M. LOYS DELTEIL, Graveur et Expert 
 
-2, Rue des Beaux-Arts </title>
+2, Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE </front>
 
-.M 
+<other>.M 
 
-r 
+r </other>
 
-Elle sera faite au comptant. 
+<front>Elle sera faite au comptant. 
 
 Les adjudicataires paieront dix pour cent en sus 
 
@@ -83,10 +83,10 @@ teurs ne pouvant y assister.
 
 MM. les Amateurs pourront visiter la Collection, 
 2, rue des Beaux-Arts, du Jeudi 18 au Mercredi 24 
-Octobre, de 2heuresà 5 heures. {Le Dimanche 21 excepté). </preface>
+Octobre, de 2heuresà 5 heures. {Le Dimanche 21 excepté). </front>
 
 
-<unit>N&apos; J 216 du Catalogue 
+<body>N&apos; J 216 du Catalogue 
 
 DÉSIGNATION 
 
@@ -1897,15 +1897,15 @@ d&apos;apr. Decamps. Trois dessins, le i er aquarellé.
 Lépine, Millet, Raffaelli, Gervex, Steinlen, etc., 
 en partie encadrés. 
 282. Mort de Turenne. Sujets divers. Vues de Suisse, 
-Suède, etc. Dix-neuf dessins à la mine de plomb. </unit>
+Suède, etc. Dix-neuf dessins à la mine de plomb. </body>
 
 
 
-<other>ANDRE DESVOUGES 
+<annex>ANDRE DESVOUGES 
 
-Successeur de M. MAURICE DELESTRE 
+Successeur de M. MAURICE DELESTRE </annex>
 
-/V.û 
+<other>/V.û 
 
 .le 
 

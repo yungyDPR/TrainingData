@@ -4,24 +4,24 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>TE 
+<other>TE </other>
 
-Mars 1920 
+<front>Mars 1920 </front>
 
-ÖT, SALLE fi3 
+<other>ÖT, SALLE fi3 
 
 ,U X H E U R E S 
 
-e a p o s i t i o h 
-p u b l i q u e 
+e a p o s i t i o h </other>
+<front>p u b l i q u e 
 
 Le 24 M a r s 1 9 2 0 
 
-D E 2 H E U R E S A 6 H E U R E S 
+D E 2 H E U R E S A 6 H E U R E S </front>
 
-! y v t 
+<other>! y v t </other>
 
-DESSINS -TABLEAUX 
+<front>DESSINS -TABLEAUX 
 
 Faïences -Curiosités -Souvenirs militaires 
 
@@ -39,15 +39,15 @@ C O M M IS S A IR E -P R IS E U R
 
 M. RENÉ BLÉE 
 
-E X P E R T P R È S L E T R IB U N A L C IV IL </cover>
+E X P E R T P R È S L E T R IB U N A L C IV IL 
 
 
-<title>CATALOGUE 
-DES 
+CATALOGUE 
+DES </front>
 
-G-IR^VTTIFtlES -ID E SSIH N TS 
+<other>G-IR^VTTIFtlES -ID E SSIH N TS </other>
 
-AQUARELLES -PASTELS 
+<front>AQUARELLES -PASTELS 
 
 TABLEAUX ANCIENS 
 
@@ -59,10 +59,10 @@ Curiosités = Souvenirs militaires
 
 CUIVRES -BRONZES 
 
-SC U LPTU R ES 
+SC U LPTU R ES </front>
 
-G -L -A -G E S -O B J E T S 
-D I V E R .S 
+<other>G -L -A -G E S -O B J E T S </other>
+<front>D I V E R .S 
 
 SIÈGES &amp; MEUBLES ANCIENS 
 
@@ -74,12 +74,12 @@ T A P IS S E R IE S
 
 APPARTENANT A MADAME X . . . 
 
-DONT LA VENTE AUX ENCHÈRES PUBLIQUES AURA LIEU A PARIS 
+DONT LA VENTE AUX ENCHÈRES PUBLIQUES AURA LIEU A PARIS </front>
 
-H O T h] I j U R O U O T , 
-I,I,b] ] X ° 11 
+<other>H O T h] I j U R O U O T , 
+I,I,b] ] X ° 11 </other>
 
-LES JEUDI 25 &amp; VENDREDI 26 MARS 1920 
+<front>LES JEUDI 25 &amp; VENDREDI 26 MARS 1920 
 
 A deux heures 
 
@@ -98,17 +98,17 @@ Rue Laffitte, 58
 
 EXPOSITION PUBLIQUE 
 
-Le M ercredi 2 4 M ars 1 9 2 0 , de deux heures à six heures </title>
+Le M ercredi 2 4 M ars 1 9 2 0 , de deux heures à six heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu expressément au comptant. 
 
 L es adjudicataires paieront 10 p o u r cent et 1 7 ,5 0 
-p o u r cent en sus des enchères. </preface>
+p o u r cent en sus des enchères. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 J e u d i 2 5 M a r s 1 9 2 0 
 
@@ -140,13 +140,13 @@ T a p i s ......................................................................
 T a p i s s e r i e s ............................................................. 345 à 352 
 Étoffes, B ro d eries............................................ 353 à 365 
 
-Paris. -lmp. d e l&apos;Art, C h . B jb r g h r , 41, rue de l a Victoirç. </toc>
+Paris. -lmp. d e l&apos;Art, C h . B jb r g h r , 41, rue de l a Victoirç. </front>
 
 <other>s**r e. (ïTf «) «&quot;&apos;♦V»-) 
 
 « alKs) 0W&amp;c&gt;jKs.I»jKs.(S M « vKet i»7tV«D-gA«t o A « </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES 
 
@@ -1618,7 +1618,7 @@ BRODERIES DIVERSES
 353 à 365 -Broderies diverses, étoffes françaises ou 
 orientales, xvn&apos;, xvm® et xixe siècles. 
 
-&quot; ■■a </unit>
+&quot; ■■a </body>
 
 
 </text>

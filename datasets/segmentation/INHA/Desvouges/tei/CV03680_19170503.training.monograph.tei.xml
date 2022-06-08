@@ -4,7 +4,20 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>Succession de Madame COLEMAN 
+<front>Succession de Madame COLEMAN 
+
+TABLEAUX MODERNES 
+
+BRONZES DE BARYE 
+
+TABLEAUX ANCIENS 
+
+TAPISSERIES ANCIENNES </front>
+
+<other>I &apos;J 1. 7 </other>
+
+
+<front>Succession de Madame COLEMAN 
 
 TABLEAUX MODERNES 
 
@@ -14,29 +27,16 @@ TABLEAUX ANCIENS
 
 TAPISSERIES ANCIENNES 
 
-I &apos;J 1. 7 </cover>
 
-
-<title>Succession de Madame COLEMAN 
-
-TABLEAUX MODERNES 
-
-BRONZES DE BARYE 
-
-TABLEAUX ANCIENS 
-
-TAPISSERIES ANCIENNES </title>
-
-
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les adjudicataires payeront dix pour cent en sus des enchères. 
 
-Paris. -Imp. Georges Petit, 12, rue Godot-ae-Mauroi. -24071-17. </preface>
+Paris. -Imp. Georges Petit, 12, rue Godot-ae-Mauroi. -24071-17. 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DES 
 
@@ -111,10 +111,10 @@ rue Grange-Batelière, M
 EXPOSITIONS 
 
 PARTICULIÈRE : Le Mardi I er Mai lyij, de 2 heures à 6 heures 
-PUBLIQUE : Le Mercredi 2 Mai l&apos;jij, de 2 heures à 0 heures </title>
+PUBLIQUE : Le Mercredi 2 Mai l&apos;jij, de 2 heures à 0 heures </front>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 Tableaux Modernes 
 
@@ -1441,7 +1441,7 @@ Haut., 1 m. 35; larg., 43 cent
 i 
 
 
--i </unit>
+-i </body>
 
 
 </text>

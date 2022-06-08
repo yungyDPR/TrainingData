@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>(N° A 
+<other>(N° A 
 
-^_ 
+^_ </other>
 
-Vente du Mercredi 9/ Janvier 1923 
+<front>Vente du Mercredi 9/ Janvier 1923 
 
 EL DROUOT -
 SALLE N» 9 
@@ -18,10 +18,10 @@ N &apos; 151 du Catalogue.
 ESTAMPES &amp; DESSINS 
 
 MM&quot; ALB. LE RICQUE et A .DESVOUGES. 
-M. LOYS DELTE1L. </cover>
+M. LOYS DELTE1L. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -82,9 +82,9 @@ rare.
 j-
 sur japon. 
 RR. 
-très rare. </preface>
+très rare. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 2 . 
 
@@ -1048,7 +1048,7 @@ rehauts, soit 2 dessins.
 ture (qq. dessins, projets de monuments ier Em 
 pire, etc.) Un fort lot. 
 
-Irap. Frazier-Soye, 168, boulevard du M ontparnasse, Paris. </unit>
+Irap. Frazier-Soye, 168, boulevard du M ontparnasse, Paris. </body>
 
 
 </text>

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>es M ercredi 7 el Jeudi 8 bevrter 
+<front>es M ercredi 7 el Jeudi 8 bevrter 
 
 HOTEL DROUOT -SALLE N° io 
 
@@ -13,10 +13,10 @@ N° 137 du Catalogue.
 ESTAMPES &amp; DESSINS 
 
 M* A. COl&apos;TTR I ER et A. DESVOUGES. 
-M. LOYS DELTEIL </cover>
+M. LOYS DELTEIL 
 
 
-<title>lus 
+lus 
 
 CATALOGUE 
 
@@ -70,10 +70,10 @@ M» ANDRE DESVOUGES
 
 EXPERT 
 
-M. LOYS DELTEIL. 2. rue des Beaux-Arts </title>
+M. LOYS DELTEIL. 2. rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -144,9 +144,9 @@ toutes marges.
 R. 
 rare. 
 RR. 
-très rare. </preface>
+très rare. </front>
 
-<unit>N° 2îO du Catalogue. 
+<body>N° 2îO du Catalogue. 
 
 I&quot; PARTIE -ESTAMPES 
 
@@ -2240,14 +2240,14 @@ daté : 1785. Coll. de Chennevières.
 
 &lt;349. WILLETTE (L -A.). -La Commère -Liberté. 
 Deux dessins à la plume (un reh. d&apos;aquarelle), 
-sign. Enc. </unit>
+sign. Enc. </body>
 
-<back>I m p . F razier-S oy&apos;e. P a n s 
+<back>I m p . F razier-S oy&apos;e. P a n s </back>
 
 
-Z é J s / / / / &apos; ; / &quot; &apos; / / / • &apos; 
+<other>Z é J s / / / / &apos; ; / &quot; &apos; / / / • &apos; </other>
 
-N° 20 du Catalogue </back>
+<back>N° 20 du Catalogue </back>
 
 
 </text>

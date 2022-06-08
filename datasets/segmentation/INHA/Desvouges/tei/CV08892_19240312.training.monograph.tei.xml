@@ -4,18 +4,18 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>PARIS 
+<front>PARIS </front>
 
-f&amp;ÏSXlCXliESiOX 1 2 M A E S 1934: 
+<other>f&amp;ÏSXlCXliESiOX 1 2 M A E S 1934: 
 
 (y(tM uß ru }(2^ &amp; m itiiàôcûieô^3&apos;liiew cii 
 
 S n ç c i aux J lr c h ceé &apos; 
-j ï a t w n a l &apos;j 
+j ï a t w n a l &apos;j </other>
 
-Beaux Bijoux 
+<front>Beaux Bijoux 
 
-ARGENTERIE </cover>
+ARGENTERIE </front>
 
 <other>ft 
 
@@ -37,7 +37,7 @@ r . -
 r 1,-m s 
 S r« v </other>
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 D E S 
 
@@ -85,10 +85,10 @@ Rue Drouot, 17
 
 EXPOSITION PUBLIQUE 
 
-L e M a r d i // M a r s 1 9 2 4 , d e 2 h eu res à 6 h eu res </title>
+L e M a r d i // M a r s 1 9 2 4 , d e 2 h eu res à 6 h eu res 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -96,9 +96,9 @@ Les adjudicataires paieront i j , 5 o pour cent
 
 en sus des enchères. 
 
-Paris. -lm p . de l&apos;Art, C h . B e r g e r , 41, rue de la V ictoire. </preface>
+Paris. -lm p . de l&apos;Art, C h . B e r g e r , 41, rue de la V ictoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 SUCCESSION D E M A D A M E L... 
 
@@ -315,7 +315,7 @@ huit couteaux. De chez Keller.
 
 67 -Trente et un jetons en argent. 
 
-68 -Salière en argent. </unit>
+68 -Salière en argent. </body>
 
 
 </text>

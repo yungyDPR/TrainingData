@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>60 du Catalogue. 
+<front>60 du Catalogue. 
 
 &gt;LLECT10N LOUIS DE FOURCAUD 
 
@@ -15,10 +15,10 @@ DESSINS -SCULPTURES
 OBJETS D&apos;ART 
 
 M&quot; F. LAIR-DUBREUIL et ANDRE DESVOUGES 
-M. LOYS DELTEIL </cover>
+M. LOYS DELTEIL 
 
 
-<title>(N° 539) 
+(N° 539) 
 
 CATALOGUE 
 
@@ -71,10 +71,10 @@ EXPERT :
 M. LOYS DELTEIL, 2. rue des Beaux-Arts 
 
 EXPOSITION -PARTICULIÈRE : le Mardi 2J Mars îqij. de 1 h. 1/2 à 6 h. 
-EXPOSITION PUBLIQUE : le Mercredi 2S Mars i&lt;)i/. de 1 h. 12 à 6 heures. </title>
+EXPOSITION PUBLIQUE : le Mercredi 2S Mars i&lt;)i/. de 1 h. 12 à 6 heures. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -100,11 +100,11 @@ EXPOSITION PARTICULIÈRE, le Mardi 27 Mars 1917, de
 1 h. 1/2 à 6 heures. 
 
 EXPOSITION PUBLIQUE : le Mercredi 2S Mars 191J, de 
-1 h. 1/2 à 6 heures. 
+1 h. 1/2 à 6 heures. </front>
 
-( </preface>
+<other>( </other>
 
-<unit>N° 6S du Catalogue. 
+<body>N° 6S du Catalogue. 
 
 DÉSIGNATION 
 
@@ -992,7 +992,7 @@ fortes originales.
 
 Vingt EAUX-FORTES par Puvis de Chavannes, Helleu. 
 P. Mathey, F. Thaulow, Dagnan-Bouveret, etc. 
-Epreuves tirées sur papier du Japon. </unit>
+Epreuves tirées sur papier du Japon. </body>
 
 <back>N° 81 du Catalogue. 
 

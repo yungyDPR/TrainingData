@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>u 
+<other>u 
 
 , 
 &gt; -
@@ -26,13 +26,13 @@ u
 ; 
 i 
 
-A T A L O G U E 
+A T A L O G U E </other>
 
-DES 
+<front>DES </front>
 
-? &apos; R U B L E S 
+<other>? &apos; R U B L E S </other>
 
-Bijoux en or -Argenterie -Métal 
+<front>Bijoux en or -Argenterie -Métal 
 
 OBJETS VARIÉS 
 
@@ -62,10 +62,10 @@ M 9 A îldré D E S V O U G S S , 26, rue de la Grange-Batelière
 
 EXPOSITION PUBLIQUE 
 
-Le J e u d i 19 J a n v i e r 1922, de 2 iie u re s à 6 h e u re s </title>
+Le J e u d i 19 J a n v i e r 1922, de 2 iie u re s à 6 h e u re s 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -74,9 +74,9 @@ Les adjudicataires paieront i j i 5 o pour cent
 en sus des enchères pour les objets soumis à la 
 taxe de luxe et /2,5o pour cent pour les autres. 
 
-Paris. -l m p . d e l&apos;Art, Ch. B e r g e r , 41, rue de la Victoire. </preface>
+Paris. -l m p . d e l&apos;Art, Ch. B e r g e r , 41, rue de la Victoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 LIVRES 
 
@@ -343,7 +343,7 @@ Empire.
 
 69 -Tapis fond rouge à ramages. 
 
-70 -Ciel de lit et quatre rideaux en soie brodée. </unit>
+70 -Ciel de lit et quatre rideaux en soie brodée. </body>
 
 
 </text>

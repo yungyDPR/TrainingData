@@ -4,22 +4,22 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>TABLEAUX ANCIENS 
+<front>TABLEAUX ANCIENS 
 
 ET MODERNES 
 
 ESTAMPES, AQUARELLES, DESSINS 
 
-PARIS 
+PARIS </front>
 
-L E VE3Sr:DR.EEI 1 4 JA.N&quot;VIER. 1 9 2 1 </cover>
+<other>L E VE3Sr:DR.EEI 1 4 JA.N&quot;VIER. 1 9 2 1 </other>
 
 
-<title>mi 
+<other>mi 
 
-12-
+12-</other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 D E S 
 
@@ -61,23 +61,23 @@ Me ANDRÉ DESVOUGES, C o m m i s s a i r e -P r i s e u r
 
 EXPOSITION PUBLIQUE 
 
-Le J e u d i 13 J a n v ie r 19 2 1 , de 2 h e u r e s à 6 h e u r e s </title>
+Le J e u d i 13 J a n v ie r 19 2 1 , de 2 h e u r e s à 6 h e u r e s 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les acquéreurs paieront 77,5o pour cent en sus des 
-enchères. 
+enchères. </front>
 
-i-ails. -lmp. de 1 Art Ch. Usrger, 41, rue de la Victoire. </preface>
+<other>i-ails. -lmp. de 1 Art Ch. Usrger, 41, rue de la Victoire. </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION </body>
 
-J 
+<other>J </other>
 
-ESTAMPES, DESSINS, AQUARELLES 
+<body>ESTAMPES, DESSINS, AQUARELLES 
 
 B O U C H E R (D&apos;après) 
 
@@ -652,7 +652,7 @@ Panneau. Haut., 60 cent.; larg., g5 cent.
 
 9(j 
 Sous ce numéro, seront vendues les peintures non 
-cataloguées. </unit>
+cataloguées. </body>
 
 
 </text>

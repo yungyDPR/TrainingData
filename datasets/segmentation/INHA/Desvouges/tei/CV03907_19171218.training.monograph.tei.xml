@@ -4,26 +4,26 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>&lt;N° 349) 
+<front>&lt;N° 349) 
 
 Vente du Mardi 18 Décembre igi7 
 
-HOTEL DROUOT -SALLE N° 10 
+HOTEL DROUOT -SALLE N° 10 </front>
 
-/, ./ R /•;/••/.!•:c rio.y 
+<other>/, ./ R /•;/••/.!•:c rio.y </other>
 
-N° 12s du Catalogue 
+<front>N° 12s du Catalogue 
 
 ESTAMPES 
 
 ANCIENNES &amp; MODERNES 
 
-M&apos; ANDRE DESVOl&apos;GES. 
+M&apos; ANDRE DESVOl&apos;GES. </front>
 
-M. I.OYS niil.TEIL </cover>
+<other>M. I.OYS niil.TEIL </other>
 
 
-C<title>ATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -56,10 +56,10 @@ COMMISSAIRE-PR ISEUR
 
 Assisté de M. LOYS DELTEIL, Graveur et Expert 
 
-Rue des Beaux-Arts </title>
+Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les adjudicataires paieront dix pour cent en sus 
@@ -74,13 +74,13 @@ MM. les Amateurs pourront visiter la Collection,
 rue des Beaux-Arts, du Samedi 8 au Jeudi 13 et le 
 Lundi 17 Décembre 1917, de 2 heures à 5 heures (le 
 
-dimanche except &apos;). </preface>
+dimanche except &apos;). </front>
 
 <other>m 
 
 t</other> 
 
-<unit>X&quot; 141 du Catalogue 
+<body>X&quot; 141 du Catalogue 
 
 DÉSIGNATION 
 
@@ -1577,7 +1577,7 @@ WATTEAU (d&apos;après Ant.j
 
 W1ER1X (les) 
 
-260. Sujets Religieux, 43 pl. Belles épreuves. </unit>
+260. Sujets Religieux, 43 pl. Belles épreuves. </body>
 
 <back>Imprimerie Frazier-Soye, 16«, boulevard du Montparnasse. 
 

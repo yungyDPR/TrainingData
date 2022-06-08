@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>&apos;ite du Mercredi 2j 
+<front>&apos;ite du Mercredi 2j 
 
 OTEL DROUOT -
 
@@ -20,16 +20,16 @@ DESSINS &amp; ESTAMPES
 MODERNES 
 
 M&quot; A. DESVOUGES et H. BAUDOIN. 
-M. LOYS DELTEIL. </cover>
+M. LOYS DELTEIL. </front>
 
 
-<title>m q 
+<other>m q 
 
 TS) 
 
-CA i. _ )GUE 
+CA i. _ )GUE </other>
 
-DES 
+<front>DES 
 
 ESTAMPES &amp; DESSINS 
 
@@ -76,10 +76,10 @@ Expert :
 
 M. LOYS DELTEIL 
 
-2. R ue des B e a u x -A rts </title>
+2. R ue des B e a u x -A rts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -167,9 +167,9 @@ rarissime.
 j-
 
 sur japon. 
-t. au v. texte au verso. </preface>
+t. au v. texte au verso. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 PREMIÈRE PARTIE 
 
@@ -897,7 +897,7 @@ fac-s.). Enc.
 249. Sujets divers, paysages, animaux, 54 est. et dess. anc. et 
 mod. 
 250. Sous ce n° il sera vendu 104 pl. en feuilles, 13 pl. enc. et 
-un fort lot de brochures. </unit>
+un fort lot de brochures. </body>
 
 
 <back>IMP. FRAZIER-SOYE 

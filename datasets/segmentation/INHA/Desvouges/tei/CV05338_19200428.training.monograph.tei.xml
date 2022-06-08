@@ -4,32 +4,32 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>CÀui &apos;.Y.ht (Sn MUS6jiî€ài&apos;îkiozii&apos;c6 
+<other>CÀui &apos;.Y.ht (Sn MUS6jiî€ài&apos;îkiozii&apos;c6 
 
 867 £jW&lt;ùcùi&amp;j}ffJiiçieâ«Cd!iorude4 
 
 . v-« 
 
-. ! i 
+. ! i </other>
 
-ESTAMPES 
-ANCIENNES 
+<front>ESTAMPES 
+ANCIENNES </front>
 
-G G G © 
+<other>G G G © </other>
 
-COSTUMES 
+<front>COSTUMES 
 Militaires 
 
 « André DESVOUGES 33 M&apos; Auo. GEOFFROY 
 
 PARIS 
 
-Vente les Mercredi 2.8 , Jeudi 2-9&apos; Vendredi 3o Api il iq2,0 
+Vente les Mercredi 2.8 , Jeudi 2-9&apos; Vendredi 3o Api il iq2,0 </front>
 
-(ÂDxixm </cover>
+<other>(ÂDxixm </other>
 
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle sera faite au com ptant. 
 
@@ -53,9 +53,9 @@ DROUOT, SALLE N° 9
 
 LE M ARDI 27 AVRIL, de z heures à 6 heures 
 
-L &apos;O rdre du Catalogue sera suivi </preface>
+L &apos;O rdre du Catalogue sera suivi 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 M ER C RED I 28 AVRIL 1920 N os 
 t à 238 
@@ -69,9 +69,9 @@ a
 V EN D R ED I 3o 
 » 
 » 
-453 à Fin </toc>
+453 à Fin 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 D&apos;ESTAMPES 
 
@@ -111,14 +111,14 @@ MARCHAND D ESTAMPES
 j 
 5, Hue Blanche 
 
-PARIS </title>
+PARIS </front>
 
 
 <other>r 
 
 -</other>
 
-<unit> A LA ii i l i t . 1 EU NESSE. 
+<other> A LA ii i l i t . 1 EU NESSE. 
 
 R E C I M E NT 
 
@@ -145,9 +145,9 @@ iau g m en ta tio n d u n e C o m p a r e de G renadier&gt; &amp; de C h a /fe u
 C f i x tju; lut p n x u r tr o r v dt beaux Hommes . feront •entreufemeni rccompenJe: 
 l . &quot;&quot; 
 
-N ° 7 4 
+N ° 7 4 </other>
 
-PREMIÈRE VACATION 
+<body>PREMIÈRE VACATION 
 
 MERCREDI a8 AVRIL t9zo 
 
@@ -4581,21 +4581,21 @@ Trente pièces. Belles épreuves. Marges.
 
 693. -Sous ce num éro il sera vendu un m illier d&apos;estampes 
 diverses que le temps n &apos;a pas permis de 
-cataloguer. </unit>
+cataloguer. </body>
 
-<back>W 
+<other>W 
 
-ÜL 
+ÜL </other>
 
 
-lm p. Ch. BRANDJÎ 
+<back>lm p. Ch. BRANDJÎ 
 
 23, Rue de l&apos;Église 
 
-LE VÉSINET © © 
+LE VÉSINET © © </back>
 
-© 
-© &lt;v&gt; (s.-B T -o ). </back>
+<other>© 
+© &lt;v&gt; (s.-B T -o ).</other> 
 
 
 </text>

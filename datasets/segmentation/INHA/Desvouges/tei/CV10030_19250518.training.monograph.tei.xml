@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>7 \ 
+<other>7 \ 
 
 I 
 
@@ -22,9 +22,9 @@ Priât -y; i f
 
 J 
 
-7 / 
+7 / </other>
 
-(N&quot; 490) 
+<front>(N&quot; 490) 
 
 Vente des Lundi iS et Mardi iç Mai iç&gt;2=j 
 
@@ -37,12 +37,12 @@ PEINTURES -DESSINS
 ESTAMPES 
 
 Me ANDRÉ DESVOUGES 
-M. LOYS DELI EIL </cover>
+M. LOYS DELI EIL </front>
 
 
-<title>\q?js 
+<other>\q?js </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 des 
 
@@ -88,10 +88,10 @@ e x p e r t
 
 M. LOYS DELTEIL 
 
-2, rue des Beaux-Arts, 2 </title>
+2, rue des Beaux-Arts, 2 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 Les adjudicataires paieront 13,50 p o u r cent en sus 
@@ -110,16 +110,16 @@ EXPOSITION PUBLIQUE
 
 Le Dimanche 17 Mai 1925 
 
-H otel D r o u o t , S alle N&quot; 8, de 2 heures à 6 heures. </preface>
+H otel D r o u o t , S alle N&quot; 8, de 2 heures à 6 heures. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 L u n d i 18 M a i................................................................. 
 No s 1 à 262 
 M ardi 19 M a i .............................................................. 
-No s 263 à 478 </toc>
+No s 263 à 478 
 
-<preface>TABLE DES ABRÉVIATIONS 
+TABLE DES ABRÉVIATIONS 
 
 aj. 
 ajouté. 
@@ -181,9 +181,9 @@ Hors-texte.
 t. au v. texte au verso. 
 
 j-
-sur japon. 
+sur japon. </front>
 
-T H O l &apos; O &apos; H T S 
+<other>T H O l &apos; O &apos; H T S 
 M A T R ! M O X Y 
 
 * &gt; * ■ * ............... 
@@ -197,9 +197,9 @@ A I &lt; ■ &apos;
 4*. 
 
 V &apos; * 
-• • </preface>
+• • </other>
 
-<unit>N° 54 du C atalogue. 
+<body>N° 54 du C atalogue. 
 
 PREMIÈRE PARTIE 
 
@@ -1876,7 +1876,7 @@ Léandre, Le Sidaner, Luce, Roll, Schwartz, etc.
 477. Sujets divers, 39 p. par Bonnard, Chéret, M. Denis, Tou 
 louse-Lautrec, Vuillard (la plup. im p. enc.) 
 478. Sujets divers et paysages, 43 p., par Doré, Gavarni, Dau 
-bigny, Delacroix Jacque, Jongkind, J. Veber, Ribot, etc. </unit>
+bigny, Delacroix Jacque, Jongkind, J. Veber, Ribot, etc. </body>
 
 
 <back>Im prim erie FRAZIER-SOYE 

@@ -4,27 +4,27 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>9 
+<other>9 
 
 of C \v IVUMOO.VU&apos;&apos;^&apos; 
 
 410 ,&apos;I,, 
 
-_^/er 1917 
+_^/er 1917 </other>
 
-yr, SALLE N° II 
+<front>yr, SALLE N° II 
 
 HEURES 
 
 EXPOSITIOn PUBLIQUE 
 Le Lundi 22 Janvier 1917 
-De 2 heures à Ö heures 
+De 2 heures à Ö heures </front>
 
-4» 
+<other>4» 
 
-VEfiTE 
+VEfiTE</other> 
 
-De Mademoiselle R... 
+<front>De Mademoiselle R... 
 
 Artiste-Dramatique 
 
@@ -34,12 +34,12 @@ M ANDRÉ DESVOUGES
 
 EXPERTS 
 
-MM. DUCHESNE &amp; DUPLAN 
+MM. DUCHESNE &amp; DUPLAN </front>
 
 
-h ii </cover>
+<other>h ii </other>
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DE 
 
@@ -97,10 +97,10 @@ MM. DUCHESNE &amp; DUPLAN
 10, rue Rossini 
 
 EXPOSITION PUBLIQUE 
-Le Lundi 22 Janvier 1917, de deux heures à six heures </title>
+Le Lundi 22 Janvier 1917, de deux heures à six heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu expressément au comptant. 
 
@@ -112,14 +112,14 @@ compte de l&apos;état et de la nature des objets mis en vente,
 aucune réclamation ne sera admise une fois l&apos;adjudication 
 prononcée. 
 
-Paris. -Imp. de l&apos;Art, CH. BERCER, 41, rue de la Victoire. 
+Paris. -Imp. de l&apos;Art, CH. BERCER, 41, rue de la Victoire. </front>
 
-VITVTs&gt; »&quot;tTg) V**V a&quot;*&quot;£. &apos;* f V 1 »t-«i 
+<other>VITVTs&gt; »&quot;tTg) V**V a&quot;*&quot;£. &apos;* f V 1 »t-«i 
 
 (Ti 
-f f»7*Vc </preface>
+f f»7*Vc </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 TABLEAUX, DESSINS 
 
@@ -681,7 +681,7 @@ des Flandres : verdure avec oiseau premier plan.
 
 I 
 
-i </unit>
+i </body>
 
 
 </text>

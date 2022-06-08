@@ -4,18 +4,18 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
 3&gt; 3&gt; } E S T A M P E S 
 Tableaux -Dessins -Aquarelles 
 
-ANCIENS &amp; MODERNES 
+ANCIENS &amp; MODERNES </front>
 
-3 S AE A .B .B R E S -B R O N Z E S 
+<other>3 S AE A .B .B R E S -B R O N Z E S </other>
 
-MEUBLES 
+<front>MEUBLES 
 
 PORCELHIHES -OBJETS DIVERS 
 
@@ -35,21 +35,21 @@ COMMISSAIRE-PRISEUR
 
 EXPOSITION PUBLIQUE 
 
-Le Dimanche 9 Mai 1920, de 2 heures à 6 heures </title>
+Le Dimanche 9 Mai 1920, de 2 heures à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les adjudicataires paieront dix-sept et demi 
 pour cent en sus des enchères. 
 
-Paris. -lm p. de l&apos;A rt,&quot;Ch. B e r g e r , 41, rue de la Victoire. 
+Paris. -lm p. de l&apos;A rt,&quot;Ch. B e r g e r , 41, rue de la Victoire. </front>
 
-/9?o </preface>
+<other>/9?o </other>
 
-D<unit>ÉSIGNATION 
+<body>DÉSIGNATION 
 
 ESTAMPES 
 
@@ -79,20 +79,20 @@ m a rg e s .)
 6 -Pièce encadrée : Napoléon au berceau du 
 Roi de Rome, par L a l a u z e . 
 
-V. </unit>
+V. </body>
 
 
-<preface>C O N D IT IO N S DE LA V E N T E 
+<front>C O N D IT IO N S DE LA V E N T E </front>
 
-D* 
+<other>D* 
 &quot; 
 i &apos; 
 v; 
 »• 
 
-y 
+y </other>
 
-Elle sera faite au comptant. 
+<front>Elle sera faite au comptant. 
 
 Les adjudicataires paieront d ix -sep t et dem i 
 pour cent en sus des enchères. 
@@ -101,9 +101,9 @@ P a r is .-lm p . de l&apos;Art,&quot;Ch. B e r g e r , 41, rue de la V ictoire.
 
 IV 7c. 
 
-3S) </preface>
+3S) </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 ESTAMPES 
 
@@ -529,7 +529,7 @@ décor de fleurs.
 
 de fleurs. 
 
-128 -Deux châles en cachemire. </unit>
+128 -Deux châles en cachemire. </body>
 
 
 </text>

@@ -4,15 +4,15 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>(5 &gt; 1 9 
+<other>(5 &gt; 1 9 </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
-DES 
+DES </front>
 
-.nßliEAUX ÄJ1GIE11S 
+<other>.nßliEAUX ÄJ1GIE11S </other>
 
-GRAVURES 
+<front>GRAVURES 
 
 FAIENCES -PORCELAINES 
 
@@ -20,13 +20,13 @@ BRONZES
 
 Pendules, Girandoles, Appliques, Suspensions 
 
-MARBRES 
+MARBRES </front>
 
-&apos; . 
+<other>&apos; . 
 . 
-I 
+I </other>
 
-Meubles Anciens et Modernes 
+<front>Meubles Anciens et Modernes 
 
 SIÈGES -T E N T U R E S 
 
@@ -49,7 +49,7 @@ Me ANDRÉ DESVOUGES, C o m m issaire-P r is e u r
 &apos; J r 
 
 EXPOSITION PUBLIQUE 
-Le Dimanche 22 Juin 1919, de 2 heures à 6 heures </title>
+Le Dimanche 22 Juin 1919, de 2 heures à 6 heures </front>
 
 <other>ÂDhxJY 
 
@@ -111,25 +111,25 @@ JTE
 -. &apos; V : : 
 -</other>
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les acquéreurs paieront d ix pour cent en sus 
 des enchères et dix-sept et demi po u r cent sur 
-les objets de luxe. 
+les objets de luxe. </front>
 
-&amp;fâ£&amp;SÈ v 8oem&gt;K *&apos; 
+<other>&amp;fâ£&amp;SÈ v 8oem&gt;K *&apos; 
 
-ÿm m 
+ÿm m </other>
 
-Paris. -lm p. de l&apos;Art, C h . B e r g e r , 41, rue de la Victoire </preface>
+<front>Paris. -lm p. de l&apos;Art, C h . B e r g e r , 41, rue de la Victoire </front>
 
 <other>&apos;« &apos; 2 . 
 
 O f t </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES, TABLEAUX 
 
@@ -415,7 +415,7 @@ galerie en bronze.
 
 I06 -Mobilier de cuisine. 
 
-M i </unit>
+M i </body>
 
 
 </text>

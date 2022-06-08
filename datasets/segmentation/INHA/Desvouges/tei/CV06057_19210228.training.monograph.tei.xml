@@ -4,26 +4,26 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>r 
+<other>r 
 
-oo 
+oo </other>
 
-PEINTURES ÄRGIENNES 
+<front>PEINTURES ÄRGIENNES 
 
-Marbres, Terres cuites, Plâtres 
+Marbres, Terres cuites, Plâtres </front>
 
-BD ELO ISTZES 
+<other>BD ELO ISTZES </other>
 
-PARIS 
+<front>PARIS </front>
 
-1-E X-XJNEI 2 8 FÉVR.IER. 1 921 </cover>
+<other>1-E X-XJNEI 2 8 FÉVR.IER. 1 921 
 
 
-<other>.......... ......... . </other>
+.......... ......... . </other>
 
-<title>m \ 
+<other>m \ </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -53,10 +53,10 @@ IVP ANDRÉ DESVOUGES , C o m m i s s a i r e -P r i s e u r
 
 EXPOSITION PUBLIQUE 
 
-L e D im a n c h e 2 7 F é v r ie r 1 9 2 1 , de 2 h. à 6 h e u r e s </title>
+L e D im a n c h e 2 7 F é v r ie r 1 9 2 1 , de 2 h. à 6 h e u r e s 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -64,9 +64,9 @@ Les adjudicataires paieront i2 ,5 o pour cent
 en sus des enchères ou ry,5o pour cent pour les 
 objets soumis à la taxe de luxe. 
 
-Paris. -Im-&apos;, de i&apos;A rt, Ch Bkrokb, 41. rue de la Victoire. </preface>
+Paris. -Im-&apos;, de i&apos;A rt, Ch Bkrokb, 41. rue de la Victoire. </front>
 
-<unit>D É SIG N A T IO N 
+<body>D É SIG N A T IO N 
 
 1 -Sous ce numéro, seront vendues des pièces 
 non cataloguées. 
@@ -395,7 +395,7 @@ deux torchères à dix lumières, en bronze doré.
 C a r p e a u x . 
 
 115 -Deux statues de femmes sur socles. Plâ 
-tre. Epoque Empire. </unit>
+tre. Epoque Empire. </body>
 
 
 </text>

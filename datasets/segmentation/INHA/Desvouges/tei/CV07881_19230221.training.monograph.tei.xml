@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>TABLEAUX ANCIENS 
+<front>TABLEAUX ANCIENS 
 
-DU XVI* SIÈCLE 
+DU XVI* SIÈCLE </front>
 
-&apos; . ; • . • &apos; *-&apos; . J 
+<other>&apos; . ; • . • &apos; *-&apos; . J 
 •* : ; r 
 -
 r v &apos; ; 
@@ -19,9 +19,9 @@ r v &apos; ;
 i ,&quot; 
 &apos; 
 
-&apos; •_ 
+&apos; •_ </other>
 
-ET 
+<front>ET 
 
 BELLES SCULPTURES 
 
@@ -31,7 +31,7 @@ XIV% XV% XVI*, XVII* SIÈCLES
 
 Provenant du Cabinet d9un Amateur 
 
-PARIS -/ 923 </cover>
+PARIS -/ 923 </front>
 
 
 <other>-&apos; * &apos;.&apos;V &quot; -• S. &quot; . 
@@ -91,14 +91,14 @@ i
 
 A --&apos; ? * </other>
 
-<cover>TABLEAUX ANCIENS 
+<front>TABLEAUX ANCIENS 
 
 E T 
 
-BELLES SCULPTURES </cover>
+BELLES SCULPTURES 
 
 
-<title>C A T A L O G U E 
+C A T A L O G U E 
 
 D E S 
 
@@ -144,10 +144,10 @@ i
 
 EXPOSITION PUBLIQUE 
 
-Le M ardi 2 0 Février 1 9 2 3 , de 2 heures à 6 heures. </title>
+Le M ardi 2 0 Février 1 9 2 3 , de 2 heures à 6 heures. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -155,12 +155,12 @@ Les Acquéreurs paieront ip ,5 o p o u r cent en sus des adju
 
 dications. 
 
-N o t a . -L &apos;o rd re num érique ne sera pas suivi. </preface>
+N o t a . -L &apos;o rd re num érique ne sera pas suivi. </front>
 
 <other>tlÊ Ê Ê Ê I </other>
 
 
-<unit>TABLEAUX ANCIENS 
+<body>TABLEAUX ANCIENS 
 
 ÉCOLE RHÉNANE 
 
@@ -450,7 +450,7 @@ Haut., o™2i.
 -
 ■ 
 
-g* </unit>
+g* </body>
 
 
 </text>

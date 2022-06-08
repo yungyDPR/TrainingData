@@ -4,27 +4,27 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>(y n ç o ta tu r . jln J u v e â &apos;J C d io n a le J 
+<other>(y n ç o ta tu r . jln J u v e â &apos;J C d io n a le J </other>
 
-Collection V. LUNEAU 
+<front> V. LUNEAU 
 
 3&apos; PFLRTIE 
 
-MONNAIES 
+MONNAIES </front>
 
-f r â h ç â i s e s </cover>
-
-
-<title>COLLECTION V. LUNEAU 
-
-TROISIÈME PARTIE 
-
-M onrm iE S f r a i i ç â i s e s </title>
+<other>f r â h ç â i s e s </other>
 
 
-<preface>C o r L c L r tio n s d e la , ~X7~e n t e 
+<front>COLLECTION V. LUNEAU 
 
-La vente aura lieu au comptant. 
+TROISIÈME PARTIE </front>
+
+<other>M onrm iE S f r a i i ç â i s e s 
+
+
+C o r L c L r tio n s d e la , ~X7~e n t e </other>
+
+<front>La vente aura lieu au comptant. 
 
 Les acquéreurs paieront d ix -s e p t et d em i p o u r cent en sus des 
 
@@ -66,9 +66,9 @@ Champs, Paris;
 
 P u b liq u e : A L&apos;H O T E L D R O U O T , salle n° 8, le Dimanche 
 
-4 février 1923, de 2 heures à 6 heures. </preface>
+4 février 1923, de 2 heures à 6 heures. 
 
-<toc>O rdre d e s V a c a tio n s 
+O rdre d e s V a c a tio n s 
 
 Le premier jour, lundi, vente du n* 1 jusqu&apos;au n&quot; 334 inclus. 
 
@@ -76,9 +76,9 @@ Le deuxième jour, mardi, du n° 335 jusqu&apos;au n° 634 inclus.
 
 Le troisième jour, mercredi, du n° 635 jusqu&apos;au n° 912. 
 
-Le quatrième jour, jeudi, du n° 913 jusqu&apos;à la fin. </toc>
+Le quatrième jour, jeudi, du n° 913 jusqu&apos;à la fin. 
 
-<title>COLLECTION V. LUNEAÜ 
+COLLECTION V. LUNEAÜ 
 
 3&apos; P A R T IE 
 
@@ -108,22 +108,22 @@ M.CLÉMENT PLATT
 
 EX PER T 
 
-19, Rue des Petits-Champs 
+19, Rue des Petits-Champs </front>
 
-3 ? _A_ 33, X S 
+<other>3 ? _A_ 33, X S </other>
 
-PRIX du CATALOGUE avec 24 planches ; 10 francs 
+<front>PRIX du CATALOGUE avec 24 planches ; 10 francs 
 
-(Liste des Prix d&apos;Adjudication : 3 francs) 
+(Liste des Prix d&apos;Adjudication : 3 francs) </front>
 
-■ ■ &apos; 
+<other>■ ■ &apos; </other>
 
-EXPOSITION PUBLIQUE, SALLE N° 8 
+<front>EXPOSITION PUBLIQUE, SALLE N° 8 
 
-L e D im a n ch e 4 F é v r ie r 1 9 2 3 , de 2 h e u r e s à 6 h e u r e s </title>
+L e D im a n ch e 4 F é v r ie r 1 9 2 3 , de 2 h e u r e s à 6 h e u r e s </front>
 
 
-<unit>M O N N A IES GAVLOLSES 
+<body>M O N N A IES GAVLOLSES 
 
 L = Llenri De La Tour. -Atlas de Monnaies Gauloises préparé par la 
 
@@ -5577,7 +5577,7 @@ La C ollection des Jeton s-M o n n a ies émis p a r les V illes de F rance d u 
 
 guerre 191^-1918, ré u n ie par M . V . L u n ea u , a été offerte par lu i au D épartem ent 
 
-des M édailles de la B ib lio th èq u e N a tio n a le, à P a ris. </unit>
+des M édailles de la B ib lio th èq u e N a tio n a le, à P a ris. </body>
 
 <back>Le Catalogue des MONNAIES FÉODALES FRANÇAISES et 
 
@@ -5612,10 +5612,10 @@ CLÉMENT PLATT
 
 19, Rue des Petits-Champs, 19 
 
-PARIS 
-■ 
+PARIS </back>
+<other>■ </other>
 
-Téléphone: CENTRAL 13-33 
+<back>Téléphone: CENTRAL 13-33 
 
 Achat au comptant, aux plus hauts prix, de Monnaies, 
 Médailles, Jetons et Décorations. 
@@ -5638,11 +5638,11 @@ par
 R . T a h o t e 
 Graveur-Imprimeur&apos; à Paruo 
 
-4 7. R ue de R ichelieu 
+4 7. R ue de R ichelieu </back>
 
-• 3 --
+<other>• 3 --
 &apos;■ 
-■ ■ r c &amp; A L j ■ ■ &quot; ■■■■■■■ --3&gt; </back>
+■ ■ r c &amp; A L j ■ ■ &quot; ■■■■■■■ --3&gt; </other>
 
 
 </text>

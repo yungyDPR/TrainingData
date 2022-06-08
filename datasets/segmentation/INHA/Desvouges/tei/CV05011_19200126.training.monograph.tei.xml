@@ -4,15 +4,15 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>âlo 
+<other>âlo 
 
 (Fc it* » « À i a i ï t ^! j À u &gt; i &apos;A &apos;U&gt; 
 
 O n çc ia ^ixji&lt; tliç e.â JL ;i-o /ia ju &apos; A 
 
-TION W . TALBOT READY 
+TION W . TALBOT READY </other>
 
-(3e ET DERNIÈRE VENTE) 
+<front>(3e ET DERNIÈRE VENTE) 
 
 Monnaies 
 
@@ -30,11 +30,11 @@ Salle N° 8
 
 VENTE 
 
-les 26 et 27 Janvier 1920. </cover>
+les 26 et 27 Janvier 1920. 
 
 
 
-<title>COLLECTION W . TA LB O T READY 
+COLLECTION W . TA LB O T READY 
 
 Monnaies 
 
@@ -64,17 +64,17 @@ FEUARDENT FRÈRES, 4, rue de Louvois
 
 EXPOSITION PUBLIQUE: le î5 JANVIER de 2 à 5 heures 
 
-1920 </title>
+1920 
 
 
-<preface>C o n d itio n s d e la v e n te . 
+C o n d itio n s d e la v e n te . 
 
 Elle sera faite au comptant. 
 
 Les ; 
-acquéieuis payeront 17 1/2 pour cent en sus du prix d&apos;Adjudication. </preface>
+acquéieuis payeront 17 1/2 pour cent en sus du prix d&apos;Adjudication. </front>
 
-<unit>MONNAIES 
+<body>MONNAIES 
 
 DU 
 
@@ -2526,7 +2526,7 @@ i/ji±!x m . , r&apos;
 PLANCHE III 
 
 
-PLANCHE IV </unit>
+PLANCHE IV </body>
 
 
 <back>MACON, PROTAT FRÈHES, IMPRIMEURS </back>

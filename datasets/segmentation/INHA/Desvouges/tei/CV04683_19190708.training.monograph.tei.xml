@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>-LECTION W . TA LB O T READY 
+<other>-LECTION W . TA LB O T READY 
 
-3&gt;Zo 
+3&gt;Zo </other>
 
-Monnaies Grecques 
+<front>Monnaies Grecques 
 
 et Romaines 
 
@@ -20,7 +20,7 @@ Salle N° io
 
 VENTE 
 
-du 8 au 12 ju illet igrg </cover>
+du 8 au 12 ju illet igrg </front>
 
 
 <other>-
@@ -31,9 +31,9 @@ du 8 au 12 ju illet igrg </cover>
 
 # </other>
 
-<title>&apos; b i o 
+<other>&apos; b i o </other>
 
-COLLECTION W . TALBOT READY 
+<front>COLLECTION W . TALBOT READY 
 
 Monnaies Grecques 
 
@@ -70,10 +70,10 @@ FEUARDENT FRÈRES
 
 4 , m e de L o u v o is 
 
-1919 </title>
+1919 
 
 
-<preface>Conditions de la vente. 
+Conditions de la vente. 
 
 Elle sera faite au comptant. 
 
@@ -81,9 +81,9 @@ Les acquéreurs payeront 17 1/2 pour cent en sus du prix d&apos;Adjudication.
 
 A vis. -Les monnaies françaises et étrangères, de même que les médailles 
 
-tistiques, pierres gravées, etc., seront vendues à une date ultérieure </preface>
+tistiques, pierres gravées, etc., seront vendues à une date ultérieure </front>
 
-<unit>MONNAIES ANTIQUES 
+<body>MONNAIES ANTIQUES 
 
 ESPAGNE 
 
@@ -7276,7 +7276,7 @@ Boite en acajou, co ntenant 12 planchettes. H. 17 ce n t., 1. 27 ce n t.,
 p. 24 cent. 
 A utre boîte, co ntenant 16 plan ch ettes. H. 23 ce n t., 1. 30 ce n t., 
 
-p. 27 cent. </unit>
+p. 27 cent. </body>
 
 <back>MAÇON, PR O T A T F R ÈR ES, IM PRIM EURS 
 
@@ -7299,19 +7299,19 @@ PLANCHE IV
 •&apos; A t t / &apos; » &apos; 
 
 
-PLANCHE V 
+PLANCHE V </back>
 
-: s /■ v 4 i 
+<other>: s /■ v 4 i 
 
 à. MjvfrJ&apos;rt j 
 
 • W -&apos;r v . ï , v -&gt; f &amp; 
 ■ * 
 A 
-* 
+* </other>
 
 
-PLANCHE VI 
+<back>PLANCHE VI 
 
 
 PLANCHE VII 

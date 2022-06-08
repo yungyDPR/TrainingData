@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>•/ 
+<other>•/ </other>
 
-TABLEAUX 
+<front>TABLEAUX 
 
 anciens &amp; modernes 
 
@@ -19,10 +19,10 @@ appartenant à Monsieur
 
 VENTE à PARIS -HOTEL DROUOT -Salle Nu 11 
 
-Le Vendredi 12 Juin 1925 </cover>
+Le Vendredi 12 Juin 1925 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -38,11 +38,11 @@ compte de l&apos;état et de la nature des objets, aucune ré
 
 clamation, pour quelque cause que ce soit, ne sera 
 
-admise une fois l&apos;adjudication prononcée. </preface>
+admise une fois l&apos;adjudication prononcée. </front>
 
-<title>9lo 
+<other>9lo </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -102,10 +102,10 @@ A
 EXPOSITION 
 PUBLIQUE 
 
-Le Jeudi II Juin 1925, de 2 à 6 heures </title>
+Le Jeudi II Juin 1925, de 2 à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -121,9 +121,9 @@ compte de l&apos;état et de la nature des objets, aucune ré
 
 clamation, pour quelque cause que ce soit, ne sera 
 
-admise une fois l&apos;adjudication prononcée. </preface>
+admise une fois l&apos;adjudication prononcée. 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 D E S 
 
@@ -186,10 +186,10 @@ it
 EXPOSITION 
 PUBLIQUE 
 
-Le Jeudi 11 Juin 1925, de 2 à 6 heures </title>
+Le Jeudi 11 Juin 1925, de 2 à 6 heures </front>
 
 
-<unit>ESTAMPES 
+<body>ESTAMPES 
 
 anciennes &amp; modernes 
 
@@ -974,7 +974,7 @@ Toile : Haut.. 0,50 -larg. 0,61.
 -Tableaux et dessins omis. 
 
 
-L CI EKCX, 4 bis, r. Nobel. Paris-18e. Marc. 17-06. </unit>
+L CI EKCX, 4 bis, r. Nobel. Paris-18e. Marc. 17-06. </body>
 
 
 </text>

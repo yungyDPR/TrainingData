@@ -4,27 +4,27 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>ß m u u U ia iie &amp; x iie u t i 
+<other>ß m u u U ia iie &amp; x iie u t i 
 
 S n ç w o u to J l n À i ç e j J l d ti o m i l &amp; i 
 
 ^L L H C T IO N de M C.iF 
 
-Jhitssütl 
+Jhitssütl </other>
 
-ESTAMPES 
+<front>ESTAMPES </front>
 
-HI 
+<other>HI </other>
 
-XVIe &amp; XVIIe SIÈCLES 
+<front>XVIe &amp; XVIIe SIÈCLES </front>
 
-{ £ j 
+<other>{ £ j </other>
 
-Me ANDRÉ DESVOLIGES 
-M -LOYS DELTEIL. </cover>
+<front>Me ANDRÉ DESVOLIGES 
+M -LOYS DELTEIL. 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DES 
 
@@ -63,10 +63,10 @@ C O M M ISSA IRE -PR ISEU R
 
 Assisté de M. LOYS DELTEIL, Graveur et Expert 
 
-2, Rue des Beaux-Arts </title>
+2, Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au com ptant. 
 
@@ -83,9 +83,9 @@ MM. les Amateurs pourront visiter la Collection,
 1920. (Le D im a n c h e excepté). 
 
 E xposition Publique, le M ercredi 21 A v r il 1920. 
-H o te l D ro u o t, S a lle N&quot; 7, de 2 h. à 6 heures. </preface>
+H o te l D ro u o t, S a lle N&quot; 7, de 2 h. à 6 heures. </front>
 
-<unit>N® 78 du C atalogue, 
+<body>N® 78 du C atalogue, 
 
 DÉSIGNATION 
 
@@ -584,7 +584,7 @@ ZAGEL (Martin)
 122. L&apos;Embrassement (B. 15). Très belle épreuve des 
 collections Donadieu et Lemarié. 
 
-N0 n o du C atalogue. </unit>
+N0 n o du C atalogue. </body>
 
 
 <back>F R A 2 I B R -S O Y E 

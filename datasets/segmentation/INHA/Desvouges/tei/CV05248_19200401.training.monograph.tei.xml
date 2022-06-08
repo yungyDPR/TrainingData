@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>fî.y ? 
+<other>fî.y ? 
 
 ae-
 f 
@@ -19,11 +19,11 @@ u
 s a m 
 e d i 
 1 « 
-a v 
+a v </other>
 
-tel D r o u o t, salle n°M 
+<front>tel D r o u o t, salle n°M </front>
 
-&apos; 1 W 
+<other>&apos; 1 W 
 •-
 
 . 
@@ -37,9 +37,9 @@ AEt
 
 p r o v e n a n t «1« sa lo n cie 
 
-WÈÈÈÈÈÈÊl i l ÊËÊBÊSffl BÈÉSk 
+WÈÈÈÈÈÈÊl i l ÊËÊBÊSffl BÈÉSk </other>
 
-par 
+<front>par 
 
 Henri Avelot 
 Marcel Capy 
@@ -67,10 +67,10 @@ Sem
 Jean Véber 
 A ndré W arnod 
 
-M_e A n d r é D e s v o u g e s , co m m issa ire-p riseu r. </cover>
+M_e A n d r é D e s v o u g e s , co m m issa ire-p riseu r. </front>
 
 
-<cover>C7v«xV,*,\ /&apos;&lt; I 
+<other>C7v«xV,*,\ /&apos;&lt; I 
 
 ifrtuçtfâ JUu &apos;cmuïA | 
 
@@ -94,9 +94,9 @@ ZLj
 L 
 vaux 
 
-essms ni,s, &quot;G m vitre s 
+essms ni,s, &quot;G m vitre s </other>
 
-Par 
+<front>Par 
 
 H enri Avelot 
 M arcel C apy 
@@ -130,10 +130,10 @@ Sem
 Jean V éber 
 A ndré W arnod 
 
-M e A n d r é D e sv o u g e s, com m issaxre-pnseur. </cover>
+M e A n d r é D e sv o u g e s, com m issaxre-pnseur. 
 
 
-<title>C a ta lo g u e 
+C a ta lo g u e 
 
 T a b l e a u x , D e55in5 e t G r a v u r e 5 
 
@@ -193,10 +193,10 @@ dont la vente aura lieu à Paris, H ôtel Drouot, salle
 n° 9, le jeudi i er avril 1920, à 3 h. et demie précises. 
 
 M &apos; A n d ré D esv o u g es, com m issaire-priseur, 
-26, ru e de la G ra n g e -B a te liè re , P a ris . </title>
+26, ru e de la G ra n g e -B a te liè re , P a ris . 
 
 
-<preface>C onditions â e l a V ente 
+C onditions â e l a V ente 
 
 elle sera faite au comptant ; les adju 
 dicataires paieront dix pour cent en sus 
@@ -206,11 +206,11 @@ au-dessus de ce clnfFre.
 
 Exposition Publique le jeudi 1er avril 
 1930, H ôtel Drouot, salle n° 9, de deux 
-teures à trois keures et demie. 
+teures à trois keures et demie. </front>
 
-J </preface>
+<other>J </other>
 
-<unit>D esignation : 
+<body>D esignation : 
 
 AVELOT (Henri). 
 
@@ -436,7 +436,7 @@ WARNOD (André).
 73. Le P ortrait de Ninon 
 aquarelle 
 
-VIII </unit>
+VIII </body>
 
 <other>■&apos;/ i 
 

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>VENTE 
+<front>VENTE 
 
 DU 19 DÉCEMBRE 1921 
 
@@ -20,10 +20,10 @@ FEUARDENT FRÈRES
 
 4 , R U E D E L O U V O IS , 4 
 
-1921 </cover>
+1921 
 
 
-<title>1922 
+1922 
 
 en 
 
@@ -63,10 +63,10 @@ les 13, 14 et 15 D écem bre de 2 à 5 heures
 
 F * -A . I R I S 
 
-1921 </title>
+1921 
 
 
-<preface>Conditions de la vente. 
+Conditions de la vente. 
 
 L a v e n te sera faite au c o m p ta n t. 
 
@@ -81,9 +81,9 @@ L &apos;ex p o sitio n m e tta n t le p u b lic à m êm e d e se re n d re c o 
 
 de la n a tu re des o b je ts, il n e sera a d m is a u c u n e ré c la m a tio n u n e fo is l &apos;a d ju 
 
-d ic a tio n p ro n o n c é e . </preface>
+d ic a tio n p ro n o n c é e . </front>
 
-<unit>MONNAIES ANTIQUES 
+<body>MONNAIES ANTIQUES 
 
 GRECQUES 
 
@@ -1247,7 +1247,7 @@ Pl.. IV
 
 I 
 
-« </unit>
+« </body>
 
 
 

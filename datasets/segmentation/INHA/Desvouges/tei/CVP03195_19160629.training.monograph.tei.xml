@@ -4,23 +4,23 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>(N&quot; 338). 
+<front>(N&quot; 338). 
 
 N° 71 du Catalogue. 
 
-ESTAMPES ANCIENNES 
+ESTAMPES ANCIENNES </front>
 
-. &amp; 
+<other>. &amp; </other>
 
-MODERNES 
+<front>MODERNES 
 
 M&quot; ANDRÉ COUTURIER &amp; ANDRÉ DESVOUGES. 
-M. LOYS DELTEIL. </cover>
+M. LOYS DELTEIL. </front>
 
 
 <other>Vf JS&gt;AC&gt;fc&gt;\*l </other>
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -72,10 +72,10 @@ COMMISSAIRE-PRISEUR
 
 Assistés de M. LOYS DELTEIL, Graveur et Expert 
 
-5, Rue des Beaux-Arts </title>
+5, Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -90,10 +90,10 @@ teurs ne pouvant y assister.
 
 MM. les Amateurs pourront visiter la Collection, 
 les Samedi 24, Lundi 26, Mardi 2j et Mercredi 28 Juin 
-1916, de 10 heures à midi et de 2 heures à 5 heures. </preface>
+1916, de 10 heures à midi et de 2 heures à 5 heures. </front>
 
 
-<unit>N° 26 du Catalogue. 
+<body>N° 26 du Catalogue. 
 
 DÉSIGNATION 
 
@@ -1565,13 +1565,13 @@ dais -Voitures à vapeur, etc., 17 pièces.
 nombre d&apos;estampes anciennes de toutes les 
 écoles. 
 
-tr.-ift. rnHïmiïHOït, 15&lt;1-15&apos;/J rue laoniniarue. </unit>
+tr.-ift. rnHïmiïHOït, 15&lt;1-15&apos;/J rue laoniniarue. </body>
 
 
-<back>m 
+<other>m </other>
 
 
-FRAZIER-SOYE 
+<back>FRAZIER-SOYE 
 
 GHAVBUR-IMPItlMKCK 
 
@@ -1579,9 +1579,9 @@ i53, \o-j, Rue Montmartre
 
 PARIS 
 
-INHA Institut National d&apos;histoire de l&apos;Art 
+INHA Institut National d&apos;histoire de l&apos;Art </back>
 
-090300141886 </back>
+<other>090300141886 </other>
 
 
 </text>

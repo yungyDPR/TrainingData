@@ -21,12 +21,12 @@ V.R.
 
 **ï&lt; &quot; 
 
-Ifilil </other>
+Ifilil 
 
 
-<cover>1&quot; 495) 
+1&quot; 495) </other>
 
-Vente du Mercredi 9 Décembre 1925 
+<front>Vente du Mercredi 9 Décembre 1925 
 
 HOTEL 
 DROUOT -SALLE N° 9 
@@ -38,11 +38,11 @@ ESTAMPES &amp; DESSINS
 ANCIENS &amp; MODERNES 
 
 M* ANDRÉ DESVOUGES. 
-M. LOYS DELTEIL. </cover>
+M. LOYS DELTEIL. </front>
 
 
-<title>m s 
-CATALOGUE 
+<other>m s </other>
+<front>CATALOGUE 
 
 DES 
 
@@ -87,10 +87,10 @@ e x p e r t
 
 M. LOYS DELTEIL 
 
-2, rue des Beaux-Arts, 2 </title>
+2, rue des Beaux-Arts, 2 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -112,9 +112,9 @@ EXPOSITION PUBLIQUE
 
 Le Mardi 8 Décembre 1925 
 
-H o t e l D r o u o t , S a l l e N° 9, de 2 heures à 6 heures. </preface>
+H o t e l D r o u o t , S a l l e N° 9, de 2 heures à 6 heures. </front>
 
-<unit>ESTAMPES DU XVIII&apos; SIÈCLE 
+<body>ESTAMPES DU XVIII&apos; SIÈCLE 
 
 N° 22 du Catalogue. 
 
@@ -832,7 +832,7 @@ _
 
 -
 
-_ _ _ _ _ </unit>
+_ _ _ _ _ </body>
 
 
 </text>

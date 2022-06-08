@@ -4,29 +4,29 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>è n ç o fja u x Â rc h ic e A .&apos;liiù e n iile à 
+<other>è n ç o fja u x Â rc h ic e A .&apos;liiù e n iile à 
 
-U A 1 ALUCiU t 
+U A 1 ALUCiU t </other>
 
-DES 
+<front>DES </front>
 
-22 ieaux Anciens 
+<other>22 ieaux Anciens </other>
 
-DESSINS de INGRES 
+<front>DESSINS de INGRES 
 
 FAIENCES a n c ie n n e s 
 
 MEUBLES ANCIENS &amp; MOBEBNES 
 
-B ronzes -Objets v ariés 
+B ronzes -Objets v ariés </front>
 
-1^1 V T ^i:H M O O E K J V E ae 
+<other>1^1 V T ^i:H M O O E K J V E ae 
 
-T A P I S D &apos;O P I E K T T 
+T A P I S D &apos;O P I E K T T </other>
 
-DONT LA VENTE AURA LIEU 
+<front>DONT LA VENTE AURA LIEU </front>
 
-H O T E L O Ï ^O X J O T , S A J L L E jV® 
+<other>H O T E L O Ï ^O X J O T , S A J L L E jV® 
 L 
 
 E L U N D I 16 J A N V I E R 1 9 2 2 
@@ -34,38 +34,38 @@ E L U N D I 16 J A N V I E R 1 9 2 2
 A 2 h e u rts 
 1 
 
-v &apos; !T ut&apos;,&apos;-&apos;-&apos; &apos; y 
+v &apos; !T ut&apos;,&apos;-&apos;-&apos; &apos; y </other>
 
-COMMISSAIRE-PRISEUR 
+<front>COMMISSAIRE-PRISEUR 
 
 Me André D E S V O U G r E S , 26, rue de la Grange-Batelière 
 
 EXPOSITION PUBLIQUE 
 
-L e D im a n c h e 1 5 J a n v i e r 1 9 2 2 , d e 2 h . à 6 h e u r e s </title>
+L e D im a n c h e 1 5 J a n v i e r 1 9 2 2 , d e 2 h . à 6 h e u r e s 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les acquéreurs paieront ry,5o p o u r cen t en sus 
 des enchères pour les objets soum is à la taxe de luxe et 
-I2,5o p o u r cen t pour les autres. 
+I2,5o p o u r cen t pour les autres. </front>
 
-P a ris. -lm p . de l&apos;A rt C», R k r g e s , 41, ru e de la V ictoire. 
+<other>P a ris. -lm p . de l&apos;A rt C», R k r g e s , 41, ru e de la V ictoire. 
 
 I 
 
 iJT L 
 
-Z &apos;L </preface>
+Z &apos;L 
 
-<unit>DES 1 «NATION 
+DES 1 «NATION 
 
-J 
+J </other>
 
-LIVRES 
+<body>LIVRES 
 
 i à 5o -Environ i5o volumes en parfait état, demi-
 reliures, quelques-uns reliés en maroquin. Jean 
@@ -90,10 +90,10 @@ Sainte Chantai ; 1 volume mar. vert. -La Satire
 Ménippée; 3 volumes. -Sismondi : Histoire des 
 Français. -Vecellio : Costumes. -Wallon : Jeanne 
 
-d&apos;Arc. 
+d&apos;Arc. </body>
 
 
-CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -102,13 +102,13 @@ des enchères pour les objets soum is à la taxe de luxe e t
 
 1 2 , 5 o pour cent pour les autres. 
 
-P a ris. -lm p . de l&apos;A rt Ch . B ï r g e s , 41, m e d e la V ictoire. 
+P a ris. -lm p . de l&apos;A rt Ch . B ï r g e s , 41, m e d e la V ictoire. </front>
 
-m a 
+<other>m a 
 
-ea 
+ea </other>
 
-D ESIG NA TIO N 
+<body>D ESIG NA TIO N 
 
 LIVRES 
 
@@ -248,7 +248,7 @@ jaune et verte.
 
 82 -Petit tapis persan fond bleu; bordure rouge. 
 
-83 -Tapis d&apos;Orient, fond rouge. </unit>
+83 -Tapis d&apos;Orient, fond rouge. </body>
 
 
 </text>

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>Collection de M. le Comte de X ... 
+<front>Collection de M. le Comte de X ... 
 
 (2&apos; V E N T E &apos; 
 
@@ -24,10 +24,10 @@ SALLE N° 1
 
 Les Lundi 8 et Mardi 9 Décembre 1924 
 
-à 2 heures. </cover>
+à 2 heures. 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 Objets d&apos;Art et d&apos;Ameublement 
 
@@ -74,10 +74,10 @@ i&quot;4 , faubourg Saint-H onoré, 1 -4
 
 EXPOSITK)N PUBLIQUE 
 
-Le Dimanche 7 Décembre 1924, de 2 heures à G heures </title>
+Le Dimanche 7 Décembre 1924, de 2 heures à G heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 E lle sera faite au com plant. 
 
@@ -85,9 +85,9 @@ L es acquéreu rs p aiero n t i3, 5o p o u r cent en sus des enchères et 19,5o 
 
 cent p o u r les o b je ts soum is à la taxe de luxe. 
 
-Aucune réclam ation ne sera adm ise une fois l&apos;adjudication p ro n o n cée. </preface>
+Aucune réclam ation ne sera adm ise une fois l&apos;adjudication p ro n o n cée. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Le L u n d i 8 D é c e m b re 1924 
 
@@ -111,9 +111,9 @@ N ns 200 à 220
 S ièg es et M e u b le s......................................................................... 
 N os 226 à 281 
 
-91.3 7 4 . -Im p rim erie L ahure, 1), rue de F leu ru s, à P a r is </toc>
+91.3 7 4 . -Im p rim erie L ahure, 1), rue de F leu ru s, à P a r is </front>
 
-<unit>DESIGNATION 
+<body>DESIGNATION 
 
 GRAVURES 
 
@@ -1498,7 +1498,7 @@ de couleur à fleurs.
 2 8 0 
 Petite vitrine à pans en bois mouluré et verre. 
 
-281 -Piano à queue de Bechstein. </unit>
+281 -Piano à queue de Bechstein. </body>
 
 
 </text>

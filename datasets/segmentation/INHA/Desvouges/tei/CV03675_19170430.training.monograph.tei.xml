@@ -4,20 +4,20 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>7-6 
+<front>7-6 
 
 COLLECTION 
 
 DE 
 
-Madame L. 
+Madame L. </front>
 
-l&apos;A 1US 
+<other>l&apos;A 1US 
 
-iO AVlilli, 1 er . y. &apos;i, 4 &amp; 5 MAI. 191? </cover>
+iO AVlilli, 1 er . y. &apos;i, 4 &amp; 5 MAI. 191? </other>
 
 
-<title>COLLECTION DE MADAME L... 
+<front>COLLECTION DE MADAME L... 
 
 MEUBLES &amp; SIÈGES ANCIENS DU XVIII&quot; SIÈCLE 
 
@@ -31,9 +31,9 @@ ocenter.e ancienne, époques Louis XV, Louis XVI &amp; Empire
 
 CRISTAUX MONTHS -PORCELAINES MONTÉ«* 
 
-Carte d Entrée à l&apos;Exposition Particulière 
+Carte d Entrée à l&apos;Exposition Particulière </front>
 
-LesïS D ^U°/ Tl SALLES N &quot; 5 * 6 «ÉUNtES 
+<other>LesïS D ^U°/ Tl SALLES N &quot; 5 * 6 «ÉUNtES 
 
 J-c 
 2 n . | Vf il i ri t -Aé&gt; V.. . ; 
@@ -42,9 +42,9 @@ J-c
 
 tgij, de deux heures a six heures 
 
---I « I 
+--I « I </other>
 
-COMMISSAIRES -F1U8EUR S 
+<front>COMMISSAIRES -F1U8EUR S 
 
 M&apos; Gh. DUBOURG 
 ™ 
@@ -57,9 +57,9 @@ A &quot; d r é DES VOUGES
 
 M Edouard PAPE, ^prfle Trônai eM ie la Seine 
 
-&gt;74. faubourg Saint-Honoré </title>
+&gt;74. faubourg Saint-Honoré 
 
-<title>COLLECTION DE MADAME L.. 
+COLLECTION DE MADAME L.. 
 
 CATALOGUE 
 
@@ -123,77 +123,77 @@ PARTICULIÈRE. Le Samedi 28 Avril 1917
 
 &apos; de 2 h. a b heures 
 
-PUBLIQUE. . . Le Dimanche 29 Avril 1917 ) </title>
+PUBLIQUE. . . Le Dimanche 29 Avril 1917 ) 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les adjudicataires paieront dix pour cent en sus des prix d&apos;adjudi 
 cation. 
 
-Paris. -Imp. de l&apos;Art, Ch. Berger, 41, rue de .a Victoire. </preface>
+Paris. -Imp. de l&apos;Art, Ch. Berger, 41, rue de .a Victoire. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 Lundi 30 Avril 1917, à 2 heures 
 
-Gravures anciennes 
-, ^ 
-Dessins anciens 
+Gravures anciennes </front>
+<other>, ^ </other>
+<front>Dessins anciens 
 80 à 112 
 Cadres anciens 
 113 à 137 
 
 Mardi 1« Mai 1917, à 2 heures 
 
-Cadres anciens 
-i38à2io 
-Porcelaines anciennes 
-,,, \ 
+Cadres anciens </front>
+<other>i38à2io </other>
+<front>Porcelaines anciennes </front>
+<other>,,, \ </other>
 
-Mercredi 2 Mai 1917, à 2 heures 
+<front>Mercredi 2 Mai 1917, à 2 heures 
 
-Porcelaines anciennes 
-2y3 à 391 
-Faïences anciennes 
-3^2 ^ ^0g 
+Porcelaines anciennes </front>
+<other>2y3 à 391 </other>
+<front>Faïences anciennes </front>
+<other>3^2 ^ ^0g </other>
 
-Jeudi 3 Mai 1917, à, 2 heures 
+<front>Jeudi 3 Mai 1917, à, 2 heures 
 
 Argenterie ancienne 
 409 à 482 
-Porcelaines anciennes montées 
-^83 à 5o3 
-Cristaux montés 
-5^ ^ 5^3 
+Porcelaines anciennes montées </front>
+<other>^83 à 5o3 </other>
+<front>Cristaux montés </front>
+<other>5^ ^ 5^3 </other>
 
-Vendredi 4 Mai 1917, à 2 heures 
+<front>Vendredi 4 Mai 1917, à 2 heures 
 
-Coffrets anciens, Divers 
-5^3 ^ 533 
-Bronzes anciens 
-53^ ^ 555 
+Coffrets anciens, Divers </front>
+<other>5^3 ^ 533 </other>
+<front>Bronzes anciens </front>
+<other>53^ ^ 555 </other>
 
-Samedi 5 Mai 1917, à 2 heures 
+<front>Samedi 5 Mai 1917, à 2 heures 
 
-Meubles anciens 
-55g ^ 7g0 
-Sièges anciens 
-761 à 794 
+Meubles anciens </front>
+<other>55g ^ 7g0 </other>
+<front>Sièges anciens 
+761 à 794 </front>
 
-J 
+<other>J 
 
 
 VE HU S SUR IL Iß S AUX 3 
 
 ÉBMÉBBi 
 
-i </toc>
+i </other>
 
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES ANCIENNES 
 
@@ -5684,7 +5684,7 @@ couvert de damas rouge.
 yg3 -Fauteuil, époque Régence, en noyer sculpté. Ba 
 guettes enrubannées. Il est couvert en soie rouge. 
 
-794 -Objets omis. </unit>
+794 -Objets omis. </body>
 
 
 </text>

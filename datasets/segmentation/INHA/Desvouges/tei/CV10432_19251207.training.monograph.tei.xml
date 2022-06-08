@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>p 
+<other>p 
 
 &apos; j û y 
 
@@ -12,9 +12,9 @@
 
 1 ; 
 
-u L u n d i 7 D ÉC EM BR E 1 9 2 5 
+u L u n d i 7 D ÉC EM BR E 1 9 2 5 </other>
 
-tel DROUOT -
+<front>tel DROUOT -
 
 C ollection de M . L . 
 
@@ -39,10 +39,10 @@ M a rc h a n d d E s ta m p e s
 
 EX PO SIT IO N P U B L IQ U E 
 
-le D im a n c h e 6 D é c e m b r e 1 9 2 5 , H ô te l D r o u o t, S a lle n ° 9 , d e 2 à 6 h e u r e s </cover>
+le D im a n c h e 6 D é c e m b r e 1 9 2 5 , H ô te l D r o u o t, S a lle n ° 9 , d e 2 à 6 h e u r e s 
 
 
-<title>C A T A L O G U E 
+C A T A L O G U E 
 
 D&apos;ESTAMPES HISTORIQUES 
 
@@ -71,10 +71,10 @@ LÉ° P ELTEIL
 M a r c h a n d d e s ta m p e s 
 
 2 6, rue G range-Batelière 
-38, rue d e C hateaudun </title>
+38, rue d e C hateaudun 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -100,9 +100,9 @@ bre 1925.
 
 Exposition publique le 6 décembre 1925, H ôtel Drouot, 
 
-salle n° 9, de 2 à 6 heures. </preface>
+salle n° 9, de 2 à 6 heures. </front>
 
-<unit>ESTAMPES HISTORIQUES 
+<body>ESTAMPES HISTORIQUES 
 
 ALBANA 
 
@@ -924,7 +924,7 @@ fi
 
 j* 
 
-t </unit>
+t </body>
 
 
 </text>

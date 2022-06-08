@@ -4,28 +4,28 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>! J$U 
+<other>! J$U 
 ~?o 
 
 \ r ente du Jeudi 2g /uin 1916 
 
 HOTJiL DROUOT 
-SAI I I N° 10 
+SAI I I N° 10 </other>
 
-N 0 71 du Catalogue. 
+<front>N 0 71 du Catalogue. 
 
 ESTAMPES ANCIENNES 
 
 &amp; 
 
-MODERNES 
+MODERNES </front>
 
-M AN DR I. 
+<other>M AN DR I. 
 &gt;1 II RI l.K i\ WDRl DKSVOIV, l&apos;.S. 
-M. I.OYS Di.i/r1:11 </cover>
+M. I.OYS Di.i/r1:11 
 
 
-<other>• 
+• 
 
 m 
 
@@ -33,7 +33,7 @@ H
 
 1 </other>
 
-<title>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -84,10 +84,10 @@ COMMISSAIRE-PRISEUR
 
 Assistés de M. LOYS DELTEIL, Graveur et Expert 
 
-2, Rue des Beaux-Arts </title>
+2, Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -100,11 +100,11 @@ teurs ne pouvant y assister.
 
 MM. les Amateurs pourront visiter la Collection, 
 les Samedi 24, Lundi 26, Mardi 27 et Mercredi 28 Juin 
-1916, de 10 heures à midi et de 2 heures à 5 heures. 
+1916, de 10 heures à midi et de 2 heures à 5 heures. </front>
 
-i </preface>
+<other>i </other>
 
-<unit>N° 26 du Catalogue. 
+<body>N° 26 du Catalogue. 
 
 DÉSIGNATION 
 
@@ -1426,7 +1426,7 @@ GHAVKl&apos;lt-lMPKIMIii H
 
 i53, 107, Hue Moiilinurlii 
 
-PARIS </unit>
+PARIS </body>
 
 
 </text>

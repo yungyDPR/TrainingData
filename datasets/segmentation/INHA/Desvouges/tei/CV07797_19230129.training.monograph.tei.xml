@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>29 Janvier au Vendredi 2 Février 1923 
+<front>29 Janvier au Vendredi 2 Février 1923 
 
 HOTEL DROUOT -SALLE N° 8 
 
@@ -50,12 +50,12 @@ LIBRAIRE-EXPERT
 
 (6e Arrond.) 
 
-1923 </cover>
+1923 </front>
 
 
-<cover>&apos; 
+<other>&apos; </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DE 
 
@@ -69,10 +69,10 @@ D eu x ièm e P a rtie
 
 LIVRES RELATIFS A L &apos;H ISTO IRE DE PA RIS 
 
-(2e Vente) </cover>
+(2e Vente) 
 
 
-<preface>LA VENTE AURA LIEU 
+LA VENTE AURA LIEU 
 
 du Lundi 29 Janvier au Vendredi 2 février 1923 
 
@@ -129,9 +129,9 @@ Personnes qui ne pourraient y assister.
 
 MM. H. LECLERC et Ch. BO SSE se réservent la faculté, 
 dans l &apos;intérêt de la vente, de réunir ou de diviser 
-les num éros du Catalogue. </preface>
+les num éros du Catalogue. 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DE LA 
 
@@ -172,10 +172,10 @@ LIBRAIRE-EXPERT
 
 16-18, rue de l&apos;Ancienne Comédie 
 
-(6e Arrond.) </title>
+(6e Arrond.) 
 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 P r e m iè r e V a c a t i o n . -L undi 29 Jan v ier. 
 
@@ -253,9 +253,9 @@ N u m é r o s
 2605 à 2665 
 
 -
-2604 </toc>
+2604 </front>
 
-<unit>BIBLIO THÈQUE 
+<body>BIBLIO THÈQUE 
 
 d e feu Pl. Paul LACOPIBE 
 
@@ -11519,9 +11519,9 @@ volution, par l&apos;abbé Jean G a s to n . -L&apos;incendie de l&apos;Opéra e
 René F a r o e. -Le Jardin de Monceau avant la Révolution, par E m ih 
 D a c ie r . -Montmartre en peinture, par Lucien L azard. -L&apos;Hôtel Fies-
 selles, par Albert V u a ff l a r d . -L&apos;Hôtel-Dieu et l&apos;incendie de 1772 par 
-Marcel A u b e r t . -Etc. </unit>
+Marcel A u b e r t . -Etc. </body>
 
-<index>Index d es nom s d&apos;Auteurs 
+<front>Index d es nom s d&apos;Auteurs 
 
 A 
 
@@ -13213,7 +13213,7 @@ Z a c c q n e , 2144.
 
 ■n -
 -Y f &apos;i 
--</index>
+-</front>
 
 
 <back>i m p r im e r ie d d c e n t r e -m o n t lo ç o n </back>

@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>v.P 
+<other>v.P 
 
 G^z 
 
@@ -12,9 +12,9 @@ i (
 
 ß ß a t t t ß M ?iO ß m m ia ja i 
 
-J G iw d a iix. Jlrchiceà y ïa lio n tih &apos;à 
+J G iw d a iix. Jlrchiceà y ïa lio n tih &apos;à </other>
 
-COLLIERS EÎ HASSE DE PERLES 
+<front>COLLIERS EÎ HASSE DE PERLES 
 
 Brillants &amp; Perles sur papier 
 
@@ -22,18 +22,18 @@ BIJOUX &amp; MONTURES
 
 Ornés de Brillants, Perles et Pierres de couleur 
 
-ARGENTERIE 
+ARGENTERIE </front>
 
-ÂDxi/ 
+<other>ÂDxi/ 
 
-4L 
+4L </other>
 
-PO T E L DROUOT -SALLE N« 10 
+<front>PO T E L DROUOT -SALLE N« 10 
 
-V E N D R E D I 6 F É V R IE R 1925 </cover>
+V E N D R E D I 6 F É V R IE R 1925 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DES 
 
@@ -79,22 +79,22 @@ Rue Drouot, 17
 
 EXPOSITION PUBLIQUE 
 
-Le J e u d i 5 F é v r ie r 1 9 2 5 , de 2 heures à 6 heures </title>
+Le J e u d i 5 F é v r ie r 1 9 2 5 , de 2 heures à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Au comptant. 
 
-i 3 ,5 o et ig,5 o pourcent en sus des enchères. </preface>
+i 3 ,5 o et ig,5 o pourcent en sus des enchères. 
 
-<toc>ORDRE DE LA VACATION 
+ORDRE DE LA VACATION 
 
 N°* 83 à i du Catalogue. 
 
-Paris. -lmp. d e l&apos;Art, Ch. B e r g e r , 41, rue d e la Victoire. </toc>
+Paris. -lmp. d e l&apos;Art, Ch. B e r g e r , 41, rue d e la Victoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 1 -Collier de 118 perles. 
 
@@ -495,7 +495,7 @@ Poids : 1.200 grammes.
 
 une pince en argent. 
 
-Poids : 85o grammes. </unit>
+Poids : 85o grammes. </body>
 
 
 </text>

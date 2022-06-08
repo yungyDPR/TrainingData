@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>tvlonnaies 
+<other>tvlonnaies </other>
 
-Papales 
+<front>Papales 
 
 et de la Maison de Savoie 
 
@@ -14,7 +14,7 @@ DU XVIII&apos; SIÈCLE A NOS JOURS
 
 COLLECTION 
 
-PHILIPPE DE FERRARI LA RENOTIÊRE </cover>
+PHILIPPE DE FERRARI LA RENOTIÊRE </front>
 
 
 <other>i-:vj:.. 
@@ -94,16 +94,16 @@ V. V -&apos; V &apos;
 
 p P liS fiis </other>
 
-<cover>MONNAIES 
+<front>MONNAIES 
 
 Papales 
 
 et de la Maison de Savoie 
 
-D U XVIIIe SIÈCLE A NOS JOURS </cover>
+D U XVIIIe SIÈCLE A NOS JOURS 
 
 
-<title>MONNAIES 
+MONNAIES 
 
 PAPALES 
 
@@ -158,10 +158,10 @@ PARIS IXe
 EXPOSITION 
 PUBLIQUE SALLE N° 8 
 
-Le Dimanche 17 Décembre 1922, de 2 heures à 6 heures </title>
+Le Dimanche 17 Décembre 1922, de 2 heures à 6 heures 
 
 
-<preface>C O N D IT IO N S DE LA V E N T E 
+C O N D IT IO N S DE LA V E N T E 
 
 La vente aura lieu au comptant. 
 
@@ -183,8 +183,8 @@ Les Experts peuvent suivre ou modifier l&apos;nrrl™ a
 reunir ou diviser les numéros. 
 catalogue et 
 
-La conservation des nièces n 
-.j• 
+La conservation des nièces n </front>
+<other>.j• 
 
 • 
 
@@ -192,36 +192,36 @@ La conservation des nièces n
 
 B -beau • TR 
 , 
-i 
-indiquée severement. 
+i </other>
+<front>indiquée severement. 
 B-beau, TB = très beau ; FDC = fleur de coin. 
 
 e x p o s i t i o n 
 p a r t i c u l i è r e 
 c h e z 
 l e s 
-e x p e r t s 
+e x p e r t s </front>
 
-; 
+<other>; 
 
 d &amp; ê m b re l0ranSe&apos; W &apos;&apos; 
-&apos; 7&apos;™e de Ia Banqbb. du lundi 4 au samedi 9 
+&apos; 7&apos;™e de Ia Banqbb. du lundi 4 au samedi 9 </other>
 
-M. L. Ciani, 54, rue Taitbout, du lundi ,, au samedi ,6 décembre. 
+<front>M. L. Ciani, 54, rue Taitbout, du lundi ,, au samedi ,6 décembre. 
 
 d é p o s i t a i r e s 
 d u 
-c a t a l o g u e 
+c a t a l o g u e </front>
 
-7 s HA r &quot; SAr Pia2Za dei Martiri-Nal&apos;les llral!e)-
+<other>7 s HA r &quot; SAr Pia2Za dei Martiri-Nal&apos;les llral!e)-
 &apos; 
 Spr&quot;ce S --Philadelphie (Éra.s-Unis 
 
 m.&apos; L ■ s*z:i&apos;t£zz2 i t °ALugan; (Suisse)-
 
-MM. Siunk * S o , </preface>
+MM. Siunk * S o , </other>
 
-<unit>MONNAIES PAPALES 
+<bdy>MONNAIES PAPALES 
 
 PIE IV 
 
@@ -5058,7 +5058,7 @@ B P H K ïtï Y
 c-CH^yFOUR ! 
 KuniiR»! ma&lt;a&gt;/A 
 
-W ^o S &lt; 3 0 # </unit>
+W ^o S &lt; 3 0 # </bdy>
 
 
 </text>

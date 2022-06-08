@@ -13,7 +13,7 @@ V.P.
 
 / </other>
 
-<cover>&apos; (N&quot; 334-335) 
+<front>&apos; (N&quot; 334-335) 
 SUCCESSION DE M. B. 
 
 II E PARTIE : Vente du Vendredi 12 Juin 1914 
@@ -33,10 +33,10 @@ M. LOYS DELTEIL.
 
 EXPOSITION PUBLIQUE, HOTEL DROUOT, SALLE N° 6 
 
-le Lundi 22 Juin 1914, de 2 heures à 6 heures. </cover>
+le Lundi 22 Juin 1914, de 2 heures à 6 heures. 
 
 
-<title>SUCCESSION DE M. ß.,. 
+SUCCESSION DE M. ß.,. 
 
 SECONDE PARTIE 
 
@@ -72,23 +72,23 @@ COMMISSAIRE-PR ISEUR
 
 Assisté de M. LOYS DELTEIL. Graveur et Expert 
 
-2, Rue des Beaux-Arts </title>
+2, Rue des Beaux-Arts 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les adjudicataires paieront dix pour cent en sus 
 
-des enchères. </preface>
+des enchères. </front>
 
 
 <other>h 
 
 pUBBI </other>
 
-<other>SUCCESSION DE M. B. 
+<front>SUCCESSION DE M. B. 
 
 TROISIÈME PARTIE 
 
@@ -118,12 +118,12 @@ COMMISSAIRE-PRISEUR
 
 Assisté de M. LOYS DELTEIL, Graveur et Expert 
 
-2, Rue des Beaux-Arts </other>
+2, Rue des Beaux-Arts </front>
 
 <other>I &lt;</other> 
 
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -139,18 +139,18 @@ de 2 heures à 5 heures (les Dimanches exceptés).
 
 EXPOSITION PUBLIQUE, HOTEL DROUOT, SALLE N° 6 
 
-Le Lundi 22 Juin 1914, de 2 heures à 6 heures </preface>
+Le Lundi 22 Juin 1914, de 2 heures à 6 heures 
 
-<toc>ORDRE DES VACCATIONS 
+ORDRE DES VACCATIONS 
 
 Le Mardi 23 Juin 1914, n os 
 1 à 224. 
 
-Le Mercredi 24 Juin 1914, n 0i 225 à 397. </toc>
+Le Mercredi 24 Juin 1914, n 0i 225 à 397. </front>
 
 <other>n </other>
 
-<unit>N&quot; 376 du Catalogue. 
+<body>N&quot; 376 du Catalogue. 
 
 DÉSIGNATION 
 
@@ -2449,20 +2449,20 @@ tf
 
 •-Ms-
 
-% • </unit>
+% • </body>
 
 <back>FRAZIER-SOYE 
 
-GRAVEUR-IMPRIMEUR 
+GRAVEUR-IMPRIMEUR </back>
 
-^&quot;v *••• 
+<other>^&quot;v *••• 
 ^ 
-&apos; ,•• 
-ï53-1 55-1 ^7, Rue Montmartre 
+&apos; ,•• </other>
+<back>ï53-1 55-1 ^7, Rue Montmartre 
 
-PARIS 
+PARIS </back>
 
-.-S) </back>
+<other>.-S) </other>
 
 
 </text>

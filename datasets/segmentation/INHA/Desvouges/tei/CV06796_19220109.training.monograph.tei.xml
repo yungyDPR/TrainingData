@@ -4,11 +4,11 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<title>GÇxamhi 3c,} (SiwUitecù&apos;t&amp;tïfyxôeuvS 
+<other>GÇxamhi 3c,} (SiwUitecù&apos;t&amp;tïfyxôeuvS 
 
-(bnvcbatiix.. â rc k ie e à J la tic n a le J 
+(bnvcbatiix.. â rc k ie e à J la tic n a le J </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -18,12 +18,12 @@ ET MODERNES
 
 E S T .A. 3VT IP E S -L I V R E S 
 
-C a d r e s e n b o i s s c u l p t é 
+C a d r e s e n b o i s s c u l p t é</front> 
 
-I ^O l ^O K L i V i r S E S 
-F A -I E I V O E S 
+<other>I ^O l ^O K L i V i r S E S 
+F A -I E I V O E S </other>
 
-BRONZES 
+<front>BRONZES 
 
 Pendules -Cartels -Argenterie 
 
@@ -48,10 +48,10 @@ M* A ndré D E S V O U G E S , 26, rue de la Grange-Batelière
 
 E X PO SITIO N PUBLIQUE 
 
-Le Dimanche 8 Janvier 1922, de 2 heures à 6 heures </title>
+Le Dimanche 8 Janvier 1922, de 2 heures à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -60,11 +60,11 @@ des enchères pour les objets soumis à la taxe de luxe et
 12,5o pour cent pour les autres. 
 
 P a ra . -
-de l&apos;Art, Ch. Ueroëh, 41, rue de ta Victoire. 
+de l&apos;Art, Ch. Ueroëh, 41, rue de ta Victoire. </front>
 
-i r -</preface>
+<other>i r -</other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 LIVRES 
 
@@ -86,22 +86,22 @@ Eau-forte.
 CARESME (D&apos;après) 
 
 4 -S a ty re et Amours. 
-Toile. </unit>
+Toile. </body>
 
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les acquéreurs paieront i~,5 o ■pour cent en sus 
 des enchères pour les objets soumis à lu taxe de luxe et 
-1 2 ,5o pour cent pour les autres. 
+1 2 ,5o pour cent pour les autres. </front>
 
-Par&apos;s, -I^i) âe l&apos;Art, Ch. Uergeh, 41, rue rte la Victaire. 
+<other>Par&apos;s, -I^i) âe l&apos;Art, Ch. Uergeh, 41, rue rte la Victaire. 
 
-5 </preface>
+5 </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 LIVRES 
 
@@ -388,7 +388,7 @@ dures.
 
 V 
 
-I </unit>
+I </body>
 
 
 </text>

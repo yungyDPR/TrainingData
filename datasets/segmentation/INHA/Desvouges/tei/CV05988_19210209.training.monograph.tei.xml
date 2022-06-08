@@ -187,15 +187,15 @@ v ! , &apos;
 •î&apos; .s 
 ; : • &gt; &apos;. . : t </other>
 
-<cover>Meubles Anciens 
+<front>Meubles Anciens 
 
 fa ïe n c e s e t p o rc e la in e s 
 
 ESTAMPES DU X V IIIe SIÈCLE 
 
-PARIS 
+PARIS </front>
 
-L 
+<other>L 
 E 
 T M 
 E E R 
@@ -213,12 +213,12 @@ R
 . 
 1 9 
 3 
-1 </cover>
+1 </other>
 
 
-<title>iâz\ 
+<other>iâz\ </other>
 
-32. 
+<front>32. 
 
 CATALOGUE 
 
@@ -226,11 +226,11 @@ DES
 
 Meubles Anciens 
 
-fa ïe n c e s s p o r c e la in e s 
+fa ïe n c e s s p o r c e la in e s </front>
 
-ARGESTEKIE 
+<other>ARGESTEKIE </other>
 
-Objets divers : Montres -Violons -Petite Collection de Timbres-poste 
+<front>Objets divers : Montres -Violons -Petite Collection de Timbres-poste 
 
 SOIERIES® DE TENTURES -TAPIS BERBÈRES 
 
@@ -259,19 +259,19 @@ Me ANDRÉ DESVOUGES, C o m m i s s a i r e -P r i s e u r
 
 E X P O S I T I O N P U B L I Q U E 
 
-Le M ardi 8 F év rier 1921, de 2 h eu res à 6 h eu res </title>
+Le M ardi 8 F év rier 1921, de 2 h eu res à 6 h eu res 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les adjudicataires paieront d ix -s e p t et d em i 
 pour cent en sus des enchères. 
 
-Paris. -l m p . Je l&apos;Art, C h . B e r g e r , 41, rue de la Victoire. </preface>
+Paris. -l m p . Je l&apos;Art, C h . B e r g e r , 41, rue de la Victoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 ESTAMPES DU XVIIIe SIÈCLE 
 
@@ -790,7 +790,7 @@ E p o q u e E m p ire.
 
 ,39 --Lit à crosse et à poussette. P o ly ch ro m é 
 
-noir, rouge et or. F in du x v i i i 6 siècle. </unit>
+noir, rouge et or. F in du x v i i i 6 siècle. </body>
 
 
 </text>

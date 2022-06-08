@@ -4,20 +4,20 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>COLLECTION 
+<front>COLLECTION 
 
 FRANCIS TATTEGRAIN 
 
 PARIS 
 
-LES 15 &amp; 16 MARS 1920 </cover>
+LES 15 &amp; 16 MARS 1920 </front>
 
 
-<title>t&lt;3?c 
+<other>t&lt;3?c 
 
-IZs 
+IZs </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DE LA 
 
@@ -63,17 +63,17 @@ Rue de Châteaudun, 3g
 
 EXPOSITION PUBLIQUE 
 
-L e D im an ch e 1 4 M ars 1 9 2 0 , de 2 h e u r e s à 6 h eu res </title>
+L e D im an ch e 1 4 M ars 1 9 2 0 , de 2 h e u r e s à 6 h eu res 
 
 
-C<preface>ONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les acquéreurs paieront d ix p o u r cent en sus des 
-enchères. </preface>
+enchères. 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 L e L u n d i 15 M a r s 1 9 2 0 
 
@@ -83,9 +83,9 @@ L e M a r d i 1 6 M a r s 1 9 2 0
 
 Du N° i5g au N° 257. 
 
-Paris. -lm p . de l&apos;Art, C h . B e r g e r , 41, rue de la Victoire. </toc>
+Paris. -lm p . de l&apos;Art, C h . B e r g e r , 41, rue de la Victoire. 
 
-<preface>FRANCIS TATTEGRAIN 
+FRANCIS TATTEGRAIN 
 
 C O L L E C T IO N N E U R D&apos;ARMES PORTATIVES 
 
@@ -115,14 +115,14 @@ De plus, il était un fureteur, fervent assidu des marchés
 aux puces parisiens, et surtout de son vieux marché 
 amiennois à la Rederie. Là, si on ne trouve pas de pièces 
 sensationnelles, du moins on rencontre souvent la curio 
-sité qui, faute d&apos;un oeil exercé, s&apos;en va à la vieille ferraille. 
+sité qui, faute d&apos;un oeil exercé, s&apos;en va à la vieille ferraille. </front>
 
 
--
+<other>-
 
-4 -
+4 -</other>
 
-Qui de nous, vieux chercheur, n&apos;a pas éprouvé ces jouis-
+<front>Qui de nous, vieux chercheur, n&apos;a pas éprouvé ces jouis-
 sances-là. 
 
 -.&apos;tte papen e et raisonnéecollection, je distingue 
@@ -177,10 +177,10 @@ un reflet de son âme d artiste et d&apos;érudit collectionneur.
 M aurice B O T T E T , 
 
 Membre du Comité de perfectionnement 
-du Musée de l&apos;Armée. </preface>
+du Musée de l&apos;Armée. </front>
 
 
-<unit>D É S IG N A T IO N 
+<body>D É S IG N A T IO N 
 
 PISTOLETS MILITAIRES FRANÇAIS 
 
@@ -1438,7 +1438,7 @@ DIVERS
 -Sous ce num éro, seront vendues et divisées les 
 
 pièces suivantes : étriers, mors, flissah, yatagan, 
-éprouvettes, briquets, pistolets, platines, etc. </unit>
+éprouvettes, briquets, pistolets, platines, etc. </body>
 
 
 </text>

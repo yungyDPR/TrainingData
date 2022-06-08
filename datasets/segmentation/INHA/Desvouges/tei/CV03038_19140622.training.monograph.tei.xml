@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>Venle du Lundi 22 Juin 1914 
+<front>Venle du Lundi 22 Juin 1914 
 
 (HÔTEL DROOOT) 
 
@@ -27,10 +27,10 @@ Libraires de la Bibliothèque Nationale
 
 28, RUE DES BONS-ENFANTS, 28 
 
-1914 </cover>
+1914 
 
 
-<preface>LA VENTE AURA LIEU 
+LA VENTE AURA LIEU 
 
 Le Lundi 22 Juin 1914 
 
@@ -60,24 +60,24 @@ Les acquéreurs paieront 10 pour cent en sus des enchères.
 
 Les livres devront être collationnés dans les vingt-quatre heures 
 &apos; 
-de l&apos;adjudication. Passé ce délai, ils ne seront repris pour aucune 
+de l&apos;adjudication. Passé ce délai, ils ne seront repris pour aucune </front>
 
-&apos;-Y 
-* : *ï : . 
+<other>&apos;-Y 
+* : *ï : . </other>
 
-cause. 
+<front>cause. 
 
 les Experts chargés de la Vente rempliront, aux 
 
-conditions d&apos;usage, les commissions des personnes qui ne 
+conditions d&apos;usage, les commissions des personnes qui ne </front>
 
-• •. -
+<other>• •. -
 
-a* 
+a* </other>
 
-pourraient y assister. </preface>
+<front>pourraient y assister. 
 
-<title>Vente (lu lyiinili 22 Jain 1911 
+Vente (lu lyiinili 22 Jain 1911 
 
 (HÔTEL DROUOT) 
 
@@ -105,16 +105,16 @@ PARIS
 
 Libraires de la Bibliothèque Nationale 
 
-28, RUE DES BONS-ENFANTS, 28 
+28, RUE DES BONS-ENFANTS, 28 </front>
 
-1 &lt;J 1 1 </title>
+<other>1 &lt;J 1 1 
 
 
-<unit>?&gt; 
+?&gt; 
 
-m 
+m </other>
 
-CATALOGUE 
+<body>CATALOGUE 
 
 DE 
 
@@ -2328,12 +2328,12 @@ de son invention ; de ses démêlés avec son éditeur, M. Frank, etc.
 On a ajouté une lettre autographe signée de la veuve de Wronski, relative 
 aux manuscrits laissés par son mari. 
 
-N&quot; 1478 </unit>
+N&quot; 1478 </body>
 
 
-<back>••••••M 
+<other>••••••M </other>
 
-TOURS. 
+<back>TOURS. 
 IMPRIMERIE TOURANGELLE 
 
 ÉM. PAUL ET FILS ET GUILLEMIN 
@@ -2367,10 +2367,10 @@ le texte et de 9 planches hors texte. Prix...
 
 Cet ouvrage n&apos;a été tiré qu&apos;à 020 exemplaires numérotés, 
 
-dont iOO mis dans le commerce. 
+dont iOO mis dans le commerce. </back>
 
 
---:-r, 
+<other>--:-r, 
 
 •i-
 
@@ -2378,15 +2378,15 @@ dont iOO mis dans le commerce.
 • •&apos;_&gt;? --
 &apos; ?. . /&gt; 
 Vi -
-r.S;&apos; .• ir 
+r.S;&apos; .• ir </other>
 
-ÉM. PAUL ET FILS ET GUILLEMIN 
+<back>ÉM. PAUL ET FILS ET GUILLEMIN 
 
 Libraires de la Bibliothèque Nationale 
 
-28, RUE DES BONS-ENFANTS, 28 
+28, RUE DES BONS-ENFANTS, 28 </back>
 
-;]M 
+<other>;]M 
 
 •S 
 
@@ -2394,9 +2394,9 @@ m
 
 MAlSTTLJaElL, 
 
-wÊE^&apos; 
+wÊE^&apos; </other>
 
-DE 
+<front>DE 
 
 L&apos;AMATEUR D&apos;ILLUSTRATIONS 
 
@@ -2417,15 +2417,15 @@ les portraits et de toutes les suites qui ont été publiés pour les oeuvres de
 de ce fait indispensable pour l&apos;illustration des livres français et étrangers. 11 renferme sur les 
 différents états des suites de curieux détails que M. SIEUBIN seul connaissait. 
 
-Les exemplaires sur grand papier sont presque épuisés. 
+Les exemplaires sur grand papier sont presque épuisés. </front>
 
-* : 
+<other>* : 
 
 :ÊM 
 
- §11:.: 
+ §11:.: </other>
 
-LA CARICATURE POLITIQUE 
+<front>LA CARICATURE POLITIQUE 
 
 EN FRANCE 
 
@@ -2433,17 +2433,17 @@ PENDANT
 
 LA GUERRE, LE SIÈGE DE PARIS ET LA COMMUNE 
 
-(1870-1871) 
+(1870-1871) </front>
 
-• 
+<other>• 
 
 tW 
 
 ! S 
 
-gmM 
+gmM </other>
 
-JEAN BERLEUX 
+<front>JEAN BERLEUX 
 
 (Maurice Quentiti-Ba.uch.art) 
 
@@ -2465,11 +2465,11 @@ Commune. Il sera pour l&apos;histoire un curieux Monumenlum du dévergondage de 
 les plus rares, il présente un aspect chatoyant qui doit plaire non seulement aux amateurs 
 passionnés de cette époque, mais aussi à tous les connaisseurs et à tous les bibliophiles. 
 
-Tours, imp. Tourangelle, 20-22, rue de la Préfecture. 
+Tours, imp. Tourangelle, 20-22, rue de la Préfecture. </front>
 
-si» 
+<other>si» 
 
-M . </back>
+M . </other>
 
 
 </text>

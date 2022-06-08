@@ -4,15 +4,15 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>OBJETS D&apos;ART 
+<front>OBJETS D&apos;ART 
 
 ANCIENS ET MODERNES 
 
 T A B L E A U X A N C IE N S 
 
-Sièges et Meubles anciens </cover>
+Sièges et Meubles anciens 
 
-<title>Succession de M . Félix fioussel 
+Succession de M . Félix fioussel 
 
 (2 m i vente) 
 
@@ -74,19 +74,19 @@ EXPERT PRES LE TRIBUNAL CIVIL DE LA SEINE
 
 EXPOSITION PUBLIQUE 
 
-Le Dimanche i 3 Décembre iq 25, de 2 heures à 6 heures. </title>
+Le Dimanche i 3 Décembre iq 25, de 2 heures à 6 heures. 
 
 
-<preface>CO N DITIO NS DE LA VENTE 
+CO N DITIO NS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
 Les acquéreurs paieront 14 pour cent en sus des enchères ou iç ,5o pour 
 cent pour les objets soumis à la taxe de luxe. 
 
-Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée. </preface>
+Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée. 
 
-<toc>ORDRE DE LA VACATION 
+ORDRE DE LA VACATION 
 
 Lundi 14 Décembre 1925 
 
@@ -117,9 +117,9 @@ N°s 181 à 225
 Étoffes. Rideaux. T a p i s 
 N os 226 à 240 
 
-92.645. -Im p rim erie L ahure, 9. rue de F le u r a s, à P aris. -1925. </toc>
+92.645. -Im p rim erie L ahure, 9. rue de F le u r a s, à P aris. -1925. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES 
 
@@ -858,7 +858,7 @@ Trois bordures.
 
 i &quot; 25 x 2&quot;35. 
 
-238 à 2 4 0 -Objets omis. </unit>
+238 à 2 4 0 -Objets omis. </body>
 
 
 </text>

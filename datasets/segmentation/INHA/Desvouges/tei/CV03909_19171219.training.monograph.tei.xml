@@ -25,13 +25,13 @@ i
 
 S I </other>
 
-<cover>SUCCESSIONS 
-L; 0 
+<front>SUCCESSIONS </front>
+<other>L; 0 
 
 • 
-t 
+t </other>
 
-Du Marquis &amp; de la Marquise de 
+<front>Du Marquis &amp; de la Marquise de 
 
 LAREINTY-THOLOZAN 
 
@@ -39,10 +39,10 @@ Née de SABRAN-PONTEVÈS
 
 PARIS 
 
-19 DÉCEMBRE 191V </cover>
+19 DÉCEMBRE 191V 
 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 DES 
 
@@ -109,10 +109,10 @@ EXPOSITIONS
 
 PARTICULIÈRE. Le Lundi 17 Décembre 1917 ) 
 PUBLIQUE. . . Le Mardi 18 Décembre 1917 ^ de ^ 
-^ ® heures </title>
+^ ® heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle aura lieu expressément au comptant. 
 
@@ -129,9 +129,9 @@ objets mis en vente, aucune réclamation ne sera admise une
 fois l&apos;adjudication prononcée. 
 
 Paris. 
-Imp. de l&apos;Art, CH. BERGER, 41, rue de la Yictoire. </preface>
+Imp. de l&apos;Art, CH. BERGER, 41, rue de la Yictoire. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES ANCIENNES 
 
@@ -1090,7 +1090,7 @@ divisés.)
 
 1 
 
-M </unit>
+M </body>
 
 
 </text>

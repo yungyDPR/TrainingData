@@ -4,21 +4,21 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>iM tâ UL 
+<other>iM tâ UL 
 
-x-&apos; r i s e ü r s 
+x-&apos; r i s e ü r s </other>
 
 P A R IS 
 
-H. LECLERC 
+<front>H. LECLERC 
 
-L IB R A IR E -E X P E R T 
+L IB R A IR E -E X P E R T </front>
 
-2 ig , ru e S t-H o n o ré 
+<other>2 ig , ru e S t-H o n o ré 
 
-( i er A rrond.) 
+( i er A rrond.) </other>
 
-CH. BOSSE 
+<front>CH. BOSSE 
 
 L IB R A IR E -E X P E R T 
 
@@ -32,11 +32,11 @@ DROUOT -SALLE N° 7
 
 : Mes André DESVOUGES e l M aurice fiOUKAU 
 
-CATALOGUE 
+CATALOGUE </front>
 
-j ■ / 
+<other>j ■ / </other>
 
-D E L A 
+<front>D E L A 
 
 BIBLIOTHÈQUE 
 
@@ -46,13 +46,13 @@ Bibliothécaire honoraire de la Bibliothèque Nationale
 
 M em bre de la Société des A m is des Livres 
 
-dès Bibliophiles Contemporains, des Cent Bibliophiles, etc 
+dès Bibliophiles Contemporains, des Cent Bibliophiles, etc </front>
 
-/ 
+<other>/ </other>
 
-D e u x iè m e P a r tie 
+<front>D e u x iè m e P a r tie 
 
-Ire VENTE </cover>
+Ire VENTE </front>
 
 
 <other>-, •**&gt;$ 
@@ -128,7 +128,7 @@ sSe^r&gt;i&gt;&apos; &apos;
 £$pSpftit &apos; 
 i p i &gt; * </other>
 
-<cover>CATALOGUE 
+<front>CATALOGUE 
 
 DE 
 
@@ -142,12 +142,12 @@ D euxièm e P a rtie
 
 LES R E L A T IF S A L &apos;H IS T O IR E DE P A R IS 
 
-( lre Vente) </cover>
+( lre Vente) </front>
 
 
-<preface>i_A VENTE AURA LIEU 
+<other>i_A VENTE AURA LIEU </other>
 
-du Vendredi 8 au Mercredi 13 Décembre 1922 
+<front>du Vendredi 8 au Mercredi 13 Décembre 1922 
 
 à d e u x heures précises d e 1 a p rè s-m id i 
 
@@ -202,9 +202,9 @@ rempliront, aux conditions d&apos;usage, les com m issions des
 Personnes qui ne pourraient y assister 
 kjMM. H. LECLERC et Ch. BOSSE se réservent la faculté, 
 dans l &apos;intérêt de la vente, de réunir ou de diviser les 
-numéros du Catalogue. </preface>
+numéros du Catalogue. 
 
-<title>CATALOGUE 
+CATALOGUE 
 
 D E L A 
 
@@ -242,10 +242,10 @@ L IB R A IR E -E X P E R T
 
 (6e A rrond.) 
 
-1922 </title>
+1922 
 
 
-<toc>ORDRE DES VACATIONS 
+ORDRE DES VACATIONS 
 
 V en d red i 8 D écem b re 
 
@@ -272,9 +272,9 @@ M ercredi 13 D écem b re
 
 C inquièm e V acation 
 
-N u m éro s </toc>
+N u m éro s </front>
 
-<unit>B IB L IO T H È Q U E 
+<body>B IB L IO T H È Q U E 
 
 de feu M. Paul LACOPIBE 
 
@@ -11168,9 +11168,9 @@ Illu stra tio n s dans le te x te .
 
 GRANDE IM PRIM ERIE DU CENTRE 
 
-F. HERBIN « H . BOUCHÉ, MONTUUÇO« </unit>
+F. HERBIN « H . BOUCHÉ, MONTUUÇO« </body>
 
-<index>Index d e s n o m s d&apos;A uteurs 
+<front>Index d e s n o m s d&apos;A uteurs 
 
 A 
 
@@ -13192,7 +13192,7 @@ Z
 Z a c c o n e (Pierre), 1384. 
 Z e i l l e r (M ath.), 1508. 
 
-Z i e g le r, 1427. </index>
+Z i e g le r, 1427. </front>
 
 <other>r 
 

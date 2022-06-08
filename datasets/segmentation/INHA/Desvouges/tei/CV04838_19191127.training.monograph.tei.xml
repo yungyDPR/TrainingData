@@ -13,11 +13,11 @@ J
 
 / / </other>
 
-<title>CATALOGUE 
+<front>CATALOGUE </front>
 
-ni-:s 
+<other>ni-:s </other>
 
-TABLEAUX 
+<front>TABLEAUX 
 
 Hnciens et Modernes 
 
@@ -35,9 +35,9 @@ T A P IS SE R IE S
 
 DON 1 I A VENTK AUX ENCHKRES PUBLIQIT-S AURA LIEU 
 
-HOTEL DROUOT, SALLE N&quot; 1 
+HOTEL DROUOT, SALLE N&quot; 1 </front>
 
-I vc -
+<other>I vc -
 ~ 
 &quot; 
 ^V o -v &apos; c &quot; ! i » I » 1 * 0 
@@ -45,41 +45,41 @@ I vc -
 a 
 
 iiki \ 
-n i : r u i : s 
+n i : r u i : s </other>
 
-M &apos; André DESVOUGES 
-j! 
-M. René lilJii* 
+<front>M &apos; André DESVOUGES </front>
+<other>j! </other>
+<front>M. René lilJii* </front>
 
-COMMISSAIIIE-PRISEUR 
-| | 
-EXPKRTPttÈS l.H TRIBUNAL CIVIL 
+<front>COMMISSAIIIE-PRISEUR </front>
+<other>| | 
+EXPKRTPttÈS l.H TRIBUNAL CIVIL </other>
 
-j &gt; 
+<other>j &gt; 
 
 i&gt;G, Rue Grange-Batelière 
-jl 
-5H, Rue Laffitte 
+jl </other>
+<front>5H, Rue Laffitte </front>
 
-E x po sitto m 
-P u b l iq u e 
+<other>E x po sitto m 
+P u b l iq u e </other>
 
-Le &apos;Mercredi 26 Novembre 1919, de 2 heures à 6 heures </title>
+<front>Le &apos;Mercredi 26 Novembre 1919, de 2 heures à 6 heures </front>
 
 
-<preface>C O n ü IT IO rtS D E LR VEMTE 
+<other>C O n ü IT IO rtS D E LR VEMTE </other>
 
-Elle aura lieu au comptant. 
+<front>Elle aura lieu au comptant. 
 
 Les adjudicataires paieront 10 o/o en sus des enchères et 
 17.50 0/0 pour les objets de luxe. 
 
 Aucune réclamation ne sera admise une fois l&apos;adjudication 
-prononcée. 
+prononcée. </front>
 
-^0 5 </preface>
+<other>^0 5 </other>
 
-<unit>DESIGNATION 
+<body>DESIGNATION 
 
 TABLEAUX 
 
@@ -112,22 +112,22 @@ EC O LE FR A N Ç A IS E M O D E R N E
 5 --Portrait de femme parée de roses, les épaules nues, 
 dans un voile. 
 
-Pastel. </unit>
+Pastel. </body>
 
 
-<preface>C O M D IT IO n S DE LF\ VEM TE 
+<other>C O M D IT IO n S DE LF\ VEM TE </other>
 
-Klle aura lieu au comptant. 
+<front>Klle aura lieu au comptant. 
 
 Les adjudicataires paieront 10 o o en sus des enchères et 
 17,50 0/0 pour les objets de luxe. 
 
 Aucune réclamation ne sera admise une fois l&apos;adjudication 
-prononcée. 
+prononcée. </front>
 
-fS/3 </preface>
+<other>fS/3 </other>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 TABLEAUX 
 
@@ -746,7 +746,7 @@ i3g -Objets omis.
 ---------------------------------------------------------------
 
 
-^fuutßrur-, 6-S, rue.-isflilton, ^¥&lt;rriA </unit>
+^fuutßrur-, 6-S, rue.-isflilton, ^¥&lt;rriA </body>
 
 
 </text>

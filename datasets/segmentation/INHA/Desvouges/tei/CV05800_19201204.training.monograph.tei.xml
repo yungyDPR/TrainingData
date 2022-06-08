@@ -5,21 +5,21 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>il [\ l\: 
+<other>il [\ l\: 
 
 ICŸuliiiêxeOzi ß tiu u i 
 
 ! n 
 
-^ ^ f&apos; ) j £ -&apos;ty ù a w &amp; J ÎrtJ iio e à % itlo n a l&amp; f 
+^ ^ f&apos; ) j £ -&apos;ty ù a w &amp; J ÎrtJ iio e à % itlo n a l&amp; f </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
-DES 
+DES </front>
 
-M J E X J B I -, E S 
+<other>M J E X J B I -, E S </other>
 
-ANCIENS &amp; MODERNES 
+<front>ANCIENS &amp; MODERNES 
 
 S iè g e s 
 
@@ -41,16 +41,16 @@ M * ANDRÉ DESVOUGES , C o m m i s s a i r e -P r i s e u r
 
 EXPOSITION PUBLIQUE 
 
-Le V e n d re d i 3 D écem b re 1920, de 2 h. à 6 h e u re s 
+Le V e n d re d i 3 D écem b re 1920, de 2 h. à 6 h e u re s </front>
 
-f\D X LX 
+<other>f\D X LX 
 
 1 4 / 
 
-ÀA </cover>
+ÀA </other>
 
 
-<preface>CONDITIONS DE LA VENTE 
+<front>CONDITIONS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
@@ -59,9 +59,9 @@ sus des enchères ou 17,50 pour cent pour les
 objets soumis à la taxe de luxe. 
 
 Pans. 
-Im p. de l&apos;Art, Ch. B e r g e r , 41, rue de la Victoire. </preface>
+Im p. de l&apos;Art, Ch. B e r g e r , 41, rue de la Victoire. </front>
 
-<unit>D ÉSIG N A TIO N 
+<body>D ÉSIG N A TIO N 
 
 TABLEAUX, GRAVURES 
 
@@ -212,7 +212,7 @@ dessus de marbre.
 
 54 -Glace surmontée d&apos;un trumeau. 
 
-5 5 -Deux buffets Renaissance en noyer sculpté. </unit>
+5 5 -Deux buffets Renaissance en noyer sculpté. </body>
 
 
 </text>

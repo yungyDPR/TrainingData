@@ -5,18 +5,18 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>Po b C M /V 
+<other>Po b C M /V </other>
 
-OBJETS j ART 
+<front>OBJETS j ART 
 
-ANTIQUES 
+ANTIQUES </front>
 
--/f.; u.vi&apos;nv-
+<other>-/f.; u.vi&apos;nv-
 
 . 
 
-. ; « </cover>
-<other>. 
+. ; « 
+. 
 
 -
 
@@ -123,7 +123,7 @@ l!®?
 * i ^ .r ■ &apos; a * 
 Jjj*-</other>
 
-<title>OBJETS d ART 
+<front>OBJETS d ART 
 
 ANTIQUES 
 
@@ -165,10 +165,10 @@ Téléph. : CENTRAL 1 3-33
 
 Exposition H p T j.to licï&apos;u .e, Salle n.0 ±0 
 
-LE DIMANCHE 11 FÉVRIER 1923 </title>
+LE DIMANCHE 11 FÉVRIER 1923 
 
 
-<preface>Conditions de la, Vente 
+Conditions de la, Vente 
 
 La vente aura lieu au comptant. 
 
@@ -190,9 +190,9 @@ Champs, Paris ;
 
 Publique: à l&apos;HOTEL DROUOT, salle n° 10, le Dimanche 
 
-11 Février 1923, de 2 heures à 6 heures. </preface>
+11 Février 1923, de 2 heures à 6 heures. </front>
 
-<unit>EGYPTE 
+<body>EGYPTE 
 
 TERRE 
 EMAILLEE 
@@ -1502,7 +1502,7 @@ bas du corps et vient s&apos;enrouler sur le bras gauche, brisé au milieu de
 
 Marbre. 
 
-H auteur 0m89. </unit>
+H auteur 0m89. </body>
 
 <back>A ncienne Maison SERRURE 
 
@@ -1521,10 +1521,10 @@ GALLO-ROM AINES -
 
 CLÉMENT PLATT 
 
-19, Rue des Petits-Champs, 19 
+19, Rue des Petits-Champs, 19 </back>
 
-= ^_ = 
-PARIS -
+<other>= ^_ = </other>
+<other>PARIS -
 
 T éléphone: CENTRAL 13-33 
 
@@ -1532,20 +1532,20 @@ Achat au comptant, aux plus hauts prix.
 
 Vente publiques ou à l &apos;amiable d&apos;Antiquités, 
 
-Monnaies, Médailles, Jetons et Décorations. 
+Monnaies, Médailles, Jetons et Décorations. </other>
 
 
-1 A H O T E , Im prim eur-G rav e u r 
+<other>1 A H O T E , Im prim eur-G rav e u r 
 
-47&gt; rue de R ich elieu -P a r itu 
+47&gt; rue de R ich elieu -P a r itu </other>
 
-37 
+<back>37 
 39 
 32 
 38 
 
-C L . PLA TT, expert, 19, Bue des Petits-C ham ps, Paris. 
-Le Dele*-in,p&gt; p»&quot;! 
+C L . PLA TT, expert, 19, Bue des Petits-C ham ps, Paris. </back>
+<other>Le Dele*-in,p&gt; p»&quot;! 
 
 ! 
 
@@ -1553,10 +1553,10 @@ y i
 
 . 
 
-------------------------
+------------------------</other>
 
 
-57 
+<back>57 
 C L . PL A T T, expert, 10, Rue des Petits-Cliam ps, Paris. 
 
 Le D eley. im p .. Paris 

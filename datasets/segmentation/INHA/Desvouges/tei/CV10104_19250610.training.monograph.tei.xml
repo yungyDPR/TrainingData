@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>10-JUIN-
+<front>10-JUIN-
 
 C ollection de M. G. S... 
 
@@ -18,7 +18,7 @@ MINIATURES
 
 PARIS -HOTEL DROUOT, Salle N° 11 
 
-Le 10 Juin 1925 </cover>
+Le 10 Juin 1925 </front>
 
 <other>•# 
 
@@ -29,7 +29,7 @@ Le 10 Juin 1925 </cover>
 
 S&apos; : </other>
 
-<title>C o l l e c t i o n 
+<front>C o l l e c t i o n 
 de 
 
 M . G. S... 
@@ -38,10 +38,10 @@ M . G. S...
 
 TABLEAUX ANCIENS 
 
-M IN IA T U R E S </title>
+M IN IA T U R E S 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 La vente sera faite au comptant. 
 
@@ -49,11 +49,11 @@ Les acquéreurs paieront 19 fr. 50 pour cent en sus
 
 des enchères. 
 
-Paris. -lmp. Georges Petit. -2701-25. </preface>
+Paris. -lmp. Georges Petit. -2701-25. </front>
 
-<title>SL o 
+<other>SL o </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 D E S 
 
@@ -107,10 +107,10 @@ m. F. MARBOUTIN, 2 , rue de M arseille
 
 EXPOSITION PUBLIQUE 
 
-Le Mardi g Juin /p25, de 2 heures à 6 heures </title>
+Le Mardi g Juin /p25, de 2 heures à 6 heures </front>
 
 
-<unit>Tableaux Anciens 
+<body>Tableaux Anciens 
 
 ASSELYN (Jean) 
 
@@ -1174,7 +1174,7 @@ Moulage.
 
 Haut., 85 cent. 
 
-Ancienne collection du duc de Polignac. </unit>
+Ancienne collection du duc de Polignac. </body>
 
 
 </text>

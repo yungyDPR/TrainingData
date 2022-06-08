@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>: A PARIS 
+<front>: A PARIS 
 
 &apos;ardi 20 Avril 1920 
 
@@ -36,12 +36,12 @@ E X PE R T
 
 Quai Malaquais, 21 
 
-P A R I S </cover>
+P A R I S </front>
 
 
-<title>CQ) £ o 
+<other>CQ) £ o </other>
 
-COLLECTION L . F. 
+<front>COLLECTION L . F. 
 
 MONNAIES ANTIQUES 
 
@@ -76,10 +76,10 @@ Quai Malaquais, 21
 
 EXPOSITION PUBLIQUE 
 
-L e D im an ch e 1 8 A v r il 1 9 2 0 , de 2 h e u r e s à 6 h e u r e s </title>
+L e D im an ch e 1 8 A v r il 1 9 2 0 , de 2 h e u r e s à 6 h e u r e s 
 
 
-<preface>Conditions de la Vente 
+Conditions de la Vente 
 
 La vente aura lieu au comptant. 
 
@@ -113,17 +113,17 @@ P a r tic u liè r e : Chez M. C l é m e n t PLATT, 21, Quai Malaquais,
 Paris ; 
 
 P ublique : A L&apos;H O TEL DROUOT, salle n° 9, le Dimanche 
-18 avril 1920, de 2 heures à 6 heures. </preface>
+18 avril 1920, de 2 heures à 6 heures. 
 
-<toc>O rd re d e s V a c a t io n s 
+O rd re d e s V a c a t io n s 
 
 Le premier jour, vente du n° 1 jusqu&apos;au n° 286 inclus. 
 
 Le deuxième jour, du n° 287 jusqu&apos;à la fin. 
 
-P a ris . -lm p . de l &apos;A r t, C h . B e r g e r , 41, ru e d e la V ic to ire . </toc>
+P a ris . -lm p . de l &apos;A r t, C h . B e r g e r , 41, ru e d e la V ic to ire . </front>
 
-<unit>CATALOGUE DES MONNAIES 
+<body>CATALOGUE DES MONNAIES 
 
 M ONNAIES GRECQUES 
 
@@ -3567,7 +3567,7 @@ l y o n . a. l e u r , p r é s i d e n t . Couronne. Br. 60 millim. TB. Rare.
 
 CROIX-ROUSSE. LE. NOTAIRE. LENTILLON. PROCLAME. LA. REPU 
 
-BLIQUE... 1870. Etain doré 45 millim. TB. Rare. </unit>
+BLIQUE... 1870. Etain doré 45 millim. TB. Rare. </body>
 
 
 <back>MONNAIES 

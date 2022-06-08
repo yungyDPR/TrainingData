@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>-M .., 
+<other>-M .., 
 
 &apos; A , , &quot; -
 
@@ -15,9 +15,9 @@ ft fi
 fs 
 * 
 
-fjUyr 
+fjUyr </other>
 
-O BJETS D&apos;A R T 
+<front>O BJETS D&apos;A R T 
 
 ANCIENS ET MODERNES 
 
@@ -25,10 +25,10 @@ Sièges et Meubles anciens
 
 TAPISSERIE ANCIENNE 
 
-V . </cover>
+V . 
 
 
-<title>Obj ets d Art Anciens 
+Obj ets d Art Anciens 
 
 et M odernes 
 
@@ -77,10 +77,10 @@ Expert près le Tribunal Civil.
 
 EXPOSITION PUBLIQUE 
 
-Le M ardi 2 Juin iç25, de deux heures à six heures. </title>
+Le M ardi 2 Juin iç25, de deux heures à six heures. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -89,9 +89,9 @@ pour cent pour les objets soumis à la taxe de luxe.
 
 Aucune réclamation 11e sera admise une fois l&apos;adjudication prononcée. 
 
-92.081. -Im p rim e rie L a h u re , 9, rue de F le u ru s, à P a ris. </preface>
+92.081. -Im p rim e rie L a h u re , 9, rue de F le u ru s, à P a ris. </front>
 
-<unit>DESIGNATION 
+<body>DESIGNATION 
 
 CÉRAMIQUE 
 
@@ -624,7 +624,7 @@ deux arbres et quelques plantes et dans le fond une pièce d&apos;eau et
 un paysage montagneux. Bordure de fleurs et de fruits. 
 xvme siècle. 
 
-Haut., 2 &quot; 5o ; larg., 2 &quot;2 o. </unit>
+Haut., 2 &quot; 5o ; larg., 2 &quot;2 o. </body>
 
 
 </text>

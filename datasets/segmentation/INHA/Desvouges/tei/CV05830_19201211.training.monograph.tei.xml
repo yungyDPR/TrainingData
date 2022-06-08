@@ -4,13 +4,13 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>BIJOUX 
+<front>BIJOUX 
 
 ORNÉS DE BRILLANTS ET DE PIERRES 
 
-ARGENTERIE 
+ARGENTERIE </front>
 
-O E IV rr E Tu T, J E Ss* 
+<other>O E IV rr E Tu T, J E Ss* 
 
 ADxix9 
 
@@ -18,28 +18,28 @@ PARIS
 
 L E 
 1 1 D É G E I AE B Â E 
-1 3 20 </cover>
+1 3 20 
 
 
-<other>« 
+« 
 
 ; </other>
 
-<cover>BIJOUX 
+<front>BIJOUX </front>
 
-OR-KTÉS D E BRII-iIj-A-KrTS &amp; IDE P I E R R E S 
+<other>OR-KTÉS D E BRII-iIj-A-KrTS &amp; IDE P I E R R E S </other>
 
-ARGENT&apos;ERIE 
+<front>ARGENT&apos;ERIE </front>
 
-13 E IV r r E L 
-E H </cover>
+<other>13 E IV r r E L 
+E H </other>
 
 
-<title>i^llo 
+<other>i^llo 
 
-^)S o 
+^)S o </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -76,10 +76,10 @@ M. A. LEFÉBURE, 8, rue de Castiglione
 
 EXPOSITION PUBLIQUE 
 
-Le Vendredi 10 Décembre 1920, de 2 heures à 6 heures </title>
+Le Vendredi 10 Décembre 1920, de 2 heures à 6 heures 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -87,9 +87,9 @@ Les acquéreurs paieront iy,^o pour cent en sus des
 
 enchères. 
 
-Paris. -lm p. de l &apos;A rt, Ch. B e r g e r , 41, rue jde la Victoire </preface>
+Paris. -lm p. de l &apos;A rt, Ch. B e r g e r , 41, rue jde la Victoire </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 BIJOUX 
 
@@ -379,7 +379,7 @@ Long., 2 m ètre s; haut.,
 
 38 cent. 
 
-1 m ètre. </unit>
+1 m ètre. </body>
 
 
 </text>

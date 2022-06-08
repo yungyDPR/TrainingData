@@ -5,29 +5,29 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>À 3 
+<other>À 3 
 
--t V ) 
+-t V ) </other>
 
-TABLEAUX ANCIENS 
-
-Sièges et Meubles anciens 
-
-TAPIS D&apos;ORIENT </cover>
-
-
-<cover>m m 
-
-1 
-
-TABLEAUX ANCIENS 
+<front>TABLEAUX ANCIENS 
 
 Sièges et Meubles anciens 
 
-TAPIS D &apos;ORIENT </cover>
+TAPIS D&apos;ORIENT </front>
 
 
-<title>CATALOGUE 
+<other>m m 
+
+1 </other>
+
+<front>TABLEAUX ANCIENS 
+
+Sièges et Meubles anciens 
+
+TAPIS D &apos;ORIENT 
+
+
+CATALOGUE 
 
 DES 
 
@@ -81,10 +81,10 @@ Expert près le Tribunal Civil.
 
 EXPOSITION PUBLIQUE 
 
-Le M ardi 12 Mai 192.5, de 2 heures à 6 heures. </title>
+Le M ardi 12 Mai 192.5, de 2 heures à 6 heures. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au cumplant. 
 
@@ -95,9 +95,9 @@ Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée.
 
 Les dimensions ne sont données qu&apos;à titre d&apos;indication. 
 
-91.977. -Im p rim e rie L a h u re , 9, ru e de F le u ru s, à P a r is . </preface>
+91.977. -Im p rim e rie L a h u re , 9, ru e de F le u ru s, à P a r is . </front>
 
-<unit>DESIGNATION 
+<body>DESIGNATION 
 
 GRAVURES 
 
@@ -1241,7 +1241,7 @@ fond bleu.
 
 134 -Tapis persan à carrelages rouges sur fond bleu noir. 
 
-3™20X2&quot;&apos; </unit>
+3™20X2&quot;&apos; </body>
 
 </text>
 </tei>

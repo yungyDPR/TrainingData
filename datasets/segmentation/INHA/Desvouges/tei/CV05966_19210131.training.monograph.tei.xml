@@ -4,7 +4,7 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>Tableaux -Dessins 
+<front>Tableaux -Dessins 
 
 ESTAMPES 
 
@@ -14,14 +14,14 @@ ADxixAfi
 
 PARI S 
 
-LE LTJKTEI 31 JANVIER. 1 9 2 1 </cover>
+LE LTJKTEI 31 JANVIER. 1 9 2 1 </front>
 
 
-<title>mi 
+<other>mi 
 
-ç5 
+ç5 </other>
 
-CATALOGUE 
+<front>CATALOGUE 
 
 D E S 
 
@@ -63,19 +63,19 @@ IVIe ANDRÉ D E S V O U G E S, C o m m i s s a i r e -P r i s e u r
 
 EXPOSITION PUBLIQUE 
 
-Le D im a n ch e 30 J a n v ie r 192i, de 2 h. à 6 h eu res </title>
+Le D im a n ch e 30 J a n v ie r 192i, de 2 h. à 6 h eu res 
 
 
-<preface>CON DITIO NS DE LA VENTE 
+CON DITIO NS DE LA VENTE 
 
 Elle aura lieu au comptant. 
 
 Les adjudicataires paieront dix-sept et demi 
 pour cent en sus des enchères. 
 
-Pans. -Imo de i&apos;Ait, Ch. B er g er, 41, rue d e la Victoire. </preface>
+Pans. -Imo de i&apos;Ait, Ch. B er g er, 41, rue d e la Victoire. </front>
 
-<unit>DÉSIGN ATIO N 
+<body>DÉSIGN ATIO N 
 
 ESTAMPES 
 
@@ -524,7 +524,7 @@ italien, de l&apos;époque Régence.
 
 83 -Tapis de Smyrne. 
 
-3 m. 70 cent, x 2 m. 40 cent. </unit>
+3 m. 70 cent, x 2 m. 40 cent. </body>
 
 
 </text>

@@ -5,7 +5,7 @@
 	</teiHeader>
 	<text xml:lang="fr">
 
-<cover>CATALOGUE 
+<front>CATALOGUE 
 
 DES 
 
@@ -29,10 +29,10 @@ M. M A R IG N A N E
 
 E x p e rt 
 
-70, rue de Rennes. </cover>
+70, rue de Rennes. 
 
 
-<preface>C O NDITIO NS DE LA V E N T E 
+C O NDITIO NS DE LA V E N T E 
 
 Elle sera faite au comptant. 
 
@@ -47,9 +47,9 @@ teurs ne pouvant assister à la vente.
 La collection sera visible 70, rue de Rennes, 
 du 
 
-22 au 24 Mai inclus, de 2 à 7 heures. </preface>
+22 au 24 Mai inclus, de 2 à 7 heures. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 ADAM 
 
@@ -711,7 +711,7 @@ V MDENEZ
 
 ly*ioxTDrai£R/| 
 
-l &apos; . A p w s J </unit>
+l &apos; . A p w s J </body>
 
 
 </text>

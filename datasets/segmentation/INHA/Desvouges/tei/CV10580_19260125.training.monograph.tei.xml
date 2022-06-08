@@ -4,9 +4,9 @@
 		<fileDesc xml:id="0"/>
 	</teiHeader>
 	<text xml:lang="fr">
-<cover>O B JE T S D &apos;A R T 
+<other>O B JE T S D &apos;A R T </other>
 
-ANCIENS ET MODERNES 
+<front>ANCIENS ET MODERNES 
 
 Porcelaines et Faïences 
 
@@ -14,10 +14,10 @@ ANCIENNES
 
 SIÈGES ET MEUBLES 
 
-ANCIENS </cover>
+ANCIENS 
 
 
-<title>Objets d Art Anciens 
+Objets d Art Anciens 
 
 et Modernes 
 
@@ -62,10 +62,10 @@ EX PERT P R È S L E TRIBUNAL CIVIL D E LA SEIN E
 
 EXPOSITION PUBLIQUE 
 
-L e D im anche 2 4 J a n v ie r iÿ20, de 2 h eures à 6 heu res. </title>
+L e D im anche 2 4 J a n v ie r iÿ20, de 2 h eures à 6 heu res. 
 
 
-<preface>CONDITIONS DE LA VENTE 
+CONDITIONS DE LA VENTE 
 
 Elle sera faite au comptant. 
 
@@ -75,9 +75,9 @@ cent pour les objets soumis à la taxe de luxe.
 
 Aucune réclamation ne sera admise une fois l&apos;adjudication prononcée. 
 
-92.793. -Im p rim erie L a h u re . 9. rue de F le u ru s, P aris. -1926. </preface>
+92.793. -Im p rim erie L a h u re . 9. rue de F le u ru s, P aris. -1926. </front>
 
-<unit>DÉSIGNATION 
+<body>DÉSIGNATION 
 
 GRAVURES -DESSINS 
 
@@ -567,7 +567,7 @@ rose.
 
 146 -Trois paires de rideaux en soierie à décor de rosaces 
 
-jaunes sur soie rouge. </unit>
+jaunes sur soie rouge. </body>
 
 
 </text>
